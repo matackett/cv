@@ -1,0 +1,117 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.7in
+
+title: "CV"
+author: Maria Tackett
+
+fontawesome: yes
+jobtitle: "Assistant Professor of the Practice"
+address: Box 90251, 118B Old Chemistory Building &middot; Duke University &middot; Durham, NC 27708
+email: maria.tackett@duke.edu
+phone: "919-684-6097"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+#fontfamily: mathpazo
+fontfamilyoptions: sfdefault
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Education
+
+**Ph.D. in Statistics** \hfill 2013 - 2018  
+University of Virginia
+
+- Dissertation: *Creating Fingerprint Databases and a Bayesian Approach to Quantify Dependencies in Evidence*
+- Advisor: Dan Spitzner
+\vspace{8pt}
+
+**M.S. in Statistics** \hfill 2009 - 2010  
+University of Tennessee-Knoxville
+\vspace{8pt}
+
+
+**B.S. in Mathematics** \hfill 2005 - 2009  
+University of Tennessee-Knoxville
+
+
+# Academic Appointments
+
+**Assistant Professor of the Practice** \hfill 2018 - present \
+Duke University, Department of Statistical Science
+
+
+# Teaching Experience
+
+*Duke University*
+
+- STA 210: Regression Analysis \hfill Fall 2018
+\vspace{8pt}
+
+*University of Virginia*
+
+- STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall 2017,
+\begin{flushright} Spring 2017,Fall 2016, Spring 2016, Fall 2015, Summer 2015 \end{flushright}
+\vspace{3pt}
+
+- STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017, Summer 2016
+\vspace{8pt}
+
+*Virginia Commonwealth University*
+
+- SLWK 609: Foundations of Research in Social Work Practice \hfill Spring 2017
+\vspace{8pt}
+
+*University of Tennessee-Knoxville*
+
+- STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
+
+
+# Professional Experience 
+
+**Senior Statistician** \hfill 2013 \
+*Capital One*, Richmond, VA
+
+Developed the first generation of statistical models to perform deposit forecasts for Capital One Bank.
+\vspace{8pt}
+ 
+ 
+**Statistician** \hfill 2011 - 2012 \
+*Capital One*, Richmond, VA                                                                   
+
+Designed experiments for mail marketing campaigns in Capital One Bank.
+
+
+# Presentations & Posters
+
+- Panelist, *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit, Charlottesville, VA, May 2016.
+ 
+- *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2017.
+ 
+- *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting, Seattle, WA, August 2016.
+ 
+- *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2015.
+
+
+# Honors and Awards
+
+Graduate Teaching Award Nominee. University of Virginia, 2018.
+
+Course Design Institute Fellowship. University of Virginia, 2016.
+
+Summer Research Fellowship. Department of Statistics, University of Virginia, 2014 - 2017.
+
+
+
+# Professional Memberships
+
+American Statistical Association 
+
+Center for Statistics and Applications in Forensic Evidence
+
