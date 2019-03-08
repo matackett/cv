@@ -13,7 +13,6 @@ jobtitle: "Assistant Professor of the Practice"
 address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708
 email: maria.tackett@duke.edu
 phone: "919-684-6097"
-web: stat.duke.edu/~mt324
 updated: no
 
 keywords: R Markdown, academic CV, template
