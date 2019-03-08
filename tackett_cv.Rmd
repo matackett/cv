@@ -10,9 +10,10 @@ author: Maria Tackett
 
 fontawesome: yes
 jobtitle: "Assistant Professor of the Practice"
-address: Box 90251, 118B Old Chemistory Building &middot; Duke University &middot; Durham, NC 27708
+address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708
 email: maria.tackett@duke.edu
 phone: "919-684-6097"
+web: stat.duke.edu/~mt324
 updated: no
 
 keywords: R Markdown, academic CV, template
@@ -46,28 +47,28 @@ University of Tennessee-Knoxville
 **Assistant Professor of the Practice** \hfill 2018 - present \
 Duke University, Department of Statistical Science
 
-
 # Teaching Experience
 
 *Duke University*
 
-- STA 210: Regression Analysis \hfill Spring 2019, Fall 2018
 - STA 199: Intro to Data Science \hfill Spring 2019
-\vspace{8pt}
+- STA 210: Regression Analysis \hfill Spring 2019, Fall 2018
+\vskip.8\baselineskip
 
 *University of Virginia*
 
 - STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall 2017,
-\begin{flushright} Spring 2017,Fall 2016, Spring 2016, Fall 2015, Summer 2015 \end{flushright}
-\vspace{3pt}
+
+\hfill Spring 2017, Fall 2016, Spring 2016, Fall 2015, Summer 2015
+\vskip.8\baselineskip
 
 - STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017, Summer 2016
-\vspace{8pt}
+\vskip.8\baselineskip
 
 *Virginia Commonwealth University*
 
 - SLWK 609: Foundations of Research in Social Work Practice \hfill Spring 2017
-\vspace{8pt}
+\vskip.8\baselineskip
 
 *University of Tennessee-Knoxville*
 
@@ -107,7 +108,7 @@ Statistical Science Committee on Departmental Code of Conduct, 2019
 
 ASA DataFest at Duke Co-organizer, 2019
 
-Females Exceling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
+Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
 
 Statistical Science Master's Program Admissions Committee, 2019
 
