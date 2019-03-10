@@ -23,7 +23,7 @@ fontsize: 11pt
 urlcolor: blue
 ---
 
-# Education - change
+# Education
 
 
 **Ph.D. in Statistics** \hfill 2013 - 2018  
