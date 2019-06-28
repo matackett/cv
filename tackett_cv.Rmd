@@ -4,7 +4,6 @@ output:
     latex_engine: pdflatex
     template: cv-latex.tex
 geometry: margin=.7in
-
 title: "CV"
 author: Maria Tackett
 
@@ -74,6 +73,54 @@ Duke University, Department of Statistical Science
 
 - STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
 
+# Presentations & Posters
+
+1. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*, United States Conference on Teaching Statistics, May 2019. (Poster)
+
+1. *Women in Machine Learning and Data Science*, Duke Machine Learning Day, Durham, NC, March 2019. (Panelist)
+
+3. *Women in Industry*, Duke University Business Oriented Women Meeting, Durham, NC, September 2018. (Panelist)
+
+4. *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit, Charlottesville, VA, May 2016. (Panelist)
+ 
+5. *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2017.
+ 
+6. *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting, Seattle, WA, August 2016.
+ 
+7. *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2015.
+
+
+# Service to Profession
+
+ASA Section on Statistics and Data Science Education, Communications Officer Elect, 2019 (Term: 2020 - 2022)
+
+ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
+
+
+# University & Department Service
+
+Statistical Science Committee on Departmental Code of Conduct, 2019
+
+ASA DataFest at Duke Co-organizer, 2019
+
+Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
+
+Statistical Science Master's Program Admissions Committee, 2019
+
+Statistical Science Major Advisor, 2018 - present
+
+Duke Datathon Judge, 2018
+
+
+# Grants & Fellowships
+
+Jump Start Grant, Learning Innovation, Duke University, 2019
+
+National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020
+
+Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020
+
+Course Design Institute Fellowship, University of Virginia, 2016
 
 # Professional Experience 
 
@@ -88,45 +135,6 @@ Developed the first generation of statistical models to perform deposit forecast
 *Capital One*, Richmond, VA                                                                   
 
 Designed experiments for mail marketing campaigns in Capital One Bank.
-
-
-# Presentations & Posters
-
-- Panelist, *Women in Industry*, Duke University Business Oriented Women Meeting, Durham, NC, September 2018.
-
-- Panelist, *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit, Charlottesville, VA, May 2016.
- 
-- *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2017.
- 
-- *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting, Seattle, WA, August 2016.
- 
-- *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2015.
-
-# Service
-
-Statistical Science Committee on Departmental Code of Conduct, 2019
-
-ASA DataFest at Duke Co-organizer, 2019
-
-Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
-
-Statistical Science Master's Program Admissions Committee, 2019
-
-ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
-
-Statistical Science Major Advisor, 2018 - present
-
-Duke Datathon Judge, 2018
-
-
-# Honors and Awards
-
-Graduate Teaching Award Nominee. University of Virginia, 2018.
-
-Course Design Institute Fellowship. University of Virginia, 2016.
-
-Summer Research Fellowship. Department of Statistics, University of Virginia, 2014 - 2017.
-
 
 # Professional Memberships
 
