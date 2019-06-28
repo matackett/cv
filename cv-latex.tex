@@ -9,6 +9,10 @@ $if(linestretch)$
 \setstretch{$linestretch$}
 $endif$
 \usepackage{amssymb,amsmath}
+\usepackage{datetime}
+\newdateformat{monthyear}{%
+  \monthname[\THEMONTH] \THEYEAR}
+
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -206,9 +210,10 @@ $if(fontawesome)$\usepackage{fontawesome}$endif$
 \lhead{}
 \chead{}
 \rhead{}
-\lfoot{
-\cfoot{\scriptsize  $author-meta$ - $title$ - $orcid$ }}
-\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+%\lfoot{
+\cfoot{\scriptsize Page \space \thepage \space of \space \hypersetup{linkcolor=black}\pageref{LastPage} \linebreak Revised \monthyear\today}
+%\cfoot{\scriptsize  $author-meta$ - $title$ - \thepage }}
+%\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}
