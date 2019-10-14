@@ -50,8 +50,8 @@ Duke University, Department of Statistical Science
 
 *Duke University*
 
-- STA 199: Intro to Data Science \hfill Spring 2019
-- STA 210: Regression Analysis \hfill Spring 2019, Fall 2018
+- STA 199: Intro to Data Science \hfill Fall 2019, Spring 2019
+- STA 210: Regression Analysis \hfill Fall 2019, Spring 2019, Fall 2018
 \vskip.8\baselineskip
 
 *University of Virginia*
