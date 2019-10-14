@@ -73,43 +73,66 @@ Duke University, Department of Statistical Science
 
 - STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
 
+# Invited Talks
+
+1. *Beyond the Buzzword: A Look at Data Science in Practice and How You Can Be a Part of It*. Diversity in Data Science and Machine Learning Conference. Washington, DC. October 2019.
+
+2. *Panel on Women in Machine Learning and Data Science*, Duke Machine Learning Day. Durham, NC. March 2019.
+
+3. *Panel on Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018.
+
+
 # Presentations & Posters
 
-1. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*, United States Conference on Teaching Statistics, May 2019. (Poster)
+1. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Women in Statistics and Data Science Conference. Bellevue, WA. October 2019. 
 
-1. *Women in Machine Learning and Data Science*, Duke Machine Learning Day, Durham, NC, March 2019. (Panelist)
+2. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Joint Statistical Meeting. Denver, CO. July 2019.
 
-3. *Women in Industry*, Duke University Business Oriented Women Meeting, Durham, NC, September 2018. (Panelist)
+3. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. United States Conference on Teaching Statistics. State College, PA. May 2019. (Poster)
 
-4. *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit, Charlottesville, VA, May 2016. (Panelist)
+4. *Panel on Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville, VA. May 2016.
+
+5. *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2017. (Poster)
  
-5. *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2017.
+6. *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting. Seattle, WA. August 2016.
  
-6. *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting, Seattle, WA, August 2016.
- 
-7. *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session, Charlottesville, VA, April 2015.
+7. *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2015. (Poster)
+
+
+# University & Department Service
+
+ASA DataFest@Duke Organizer, 2019 - present
+
+Statistical Science Undergraduate Curriculum Committee, 2019 - present
+
+Statistical Science Master's Student Advisor, 2019 - present
+
+Statistical Science Undergraduate Major Advisor, 2018 - present
+
+Statistical Science Committee on Departmental Code of Conduct, 2019
+
+Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
+
+Statistical Science Master's Program Admissions Committee, 2019
+
+Duke Datathon Judge, 2018
 
 
 # Service to Profession
 
 ASA Section on Statistics and Data Science Education, Communications Officer Elect, 2019 (Term: 2020 - 2022)
 
+Reviewer for *Journal of Statistics Education*, 2019 - present
+
+CAUSE Undergraduate Statistics Research Project Competition Judge, 2019 
+
 ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
 
 
-# University & Department Service
+# Mentoring 
 
-Statistical Science Committee on Departmental Code of Conduct, 2019
-
-ASA DataFest at Duke Co-organizer, 2019
-
-Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
-
-Statistical Science Master's Program Admissions Committee, 2019
-
-Statistical Science Major Advisor, 2018 - present
-
-Duke Datathon Judge, 2018
+1. Karen Jin, Undergraduate Thesis Advisee, 2019 - 2020
+1. Caroline Levenson, Independent Study, 2019
 
 
 # Grants & Fellowships
