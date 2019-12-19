@@ -75,17 +75,17 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
-1. *Panel: Reproducible Research - Education and Practice*. Duke Center for Data and Visualization Sciences. Durham, NC. November 2019.
+1. *Reproducible Research - Education and Practice*. Duke Center for Data and Visualization Sciences. Durham, NC. November 2019. (Panelist)
 
-1. *My Journal in Statistics*. FEMMES Hacks Conference. Durham, NC. November 2019. (Keynote)
+1. *My Journey in Statistics*. FEMMES Hacks Conference. Durham, NC. November 2019. (Keynote)
 
 1. *Statistics in Practice*. FOCUS Cluster Dinner Series at Duke University: What if? Explaining the Past/Predicting the Future. Durham, NC. November 2019.
 
 1. *Beyond the Buzzword: A Look at Data Science in Practice and How You Can Be a Part of It*. SAMSI Diversity in Data Science and Machine Learning Conference. Washington, DC. October 2019. (Plenary talk)
 
-2. *Panel: Women in Machine Learning and Data Science*, Duke Machine Learning Day. Durham, NC. March 2019.
+2. *Women in Machine Learning and Data Science*. Duke Machine Learning Day. Durham, NC. March 2019. (Panelist)
 
-3. *Panel: Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018.
+3. *Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018. (Panelist)
 
 
 # Presentations & Posters
@@ -96,7 +96,7 @@ Duke University, Department of Statistical Science
 
 3. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. United States Conference on Teaching Statistics. State College, PA. May 2019. (Poster)
 
-4. *Panel: Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville, VA. May 2016.
+4. *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville, VA. May 2016. (Panelist)
 
 5. *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2017. (Poster)
  
@@ -109,7 +109,7 @@ Duke University, Department of Statistical Science
 
 Trinity Arts & Sciences Committee on Curriculum, 2019 - present
 
-ASA DataFest@Duke Organizer, 2019 - present
+ASA DataFest\@Duke Organizer, 2019 - present
 
 Statistical Science Undergraduate Curriculum Committee, 2019 - present
 
@@ -170,8 +170,8 @@ Developed the first generation of statistical models to perform deposit forecast
  
 **Statistician** \hfill 2011 - 2012 \
 *Capital One*, Richmond, VA                                                                   
-
 Designed experiments for mail marketing campaigns in Capital One Bank.
+
 
 # Professional Memberships
 
