@@ -51,7 +51,7 @@ Duke University, Department of Statistical Science
 *Duke University*
 
 - STA 199: Intro to Data Science \hfill Fall 2019, Spring 2019
-- STA 210: Regression Analysis \hfill Fall 2019, Spring 2019, Fall 2018
+- STA 210: Regression Analysis \hfill Spring 2020, Fall 2019, Spring 2019, Fall 2018
 \vskip.8\baselineskip
 
 *University of Virginia*
@@ -75,6 +75,8 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
+1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
+
 1. *Reproducible Research - Education and Practice*. Duke Center for Data and Visualization Sciences. Durham, NC. November 2019. (Panelist)
 
 1. *My Journey in Statistics*. FEMMES Hacks Conference. Durham, NC. November 2019. (Keynote)
@@ -88,7 +90,7 @@ Duke University, Department of Statistical Science
 3. *Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018. (Panelist)
 
 
-# Presentations & Posters
+# Contributed Talks & Posters
 
 1. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Women in Statistics and Data Science Conference. Bellevue, WA. October 2019. 
 
@@ -106,6 +108,8 @@ Duke University, Department of Statistical Science
 
 
 # University & Department Service
+
+ASA DataFest: COVID-19 Virtual Data Challenge Organizer, 2020
 
 Trinity Arts & Sciences Committee on Curriculum, 2019 - present
 
@@ -134,7 +138,7 @@ ASA Section on Statistics and Data Science Education, Communications Officer Ele
 
 Reviewer for *Journal of Statistics Education*, 2019 - present
 
-CAUSE Undergraduate Statistics Research Project Competition Judge, 2019 
+CAUSE Undergraduate Statistics Research Project Competition Judge, 2019 - present 
 
 ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
 
@@ -143,6 +147,8 @@ ASA Section on Bayesian Statistical Science Student Paper Competition Review Com
 
 1. Lavonne Hoang, Work Study, Fall 2019 - Spring 2020
 
+1. Stephen Herrera, Independent Study, Spring 2020 
+
 1. Caroline Levenson, Independent Study, Fall 2019
 
 1. Faculty Mentor for Duke SPIRE Fellows, 2019 - present
@@ -150,13 +156,14 @@ ASA Section on Bayesian Statistical Science Student Paper Competition Review Com
 
 # Grants & Fellowships
 
-Jump Start Grant, Learning Innovation, Duke University, 2019
+Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
+Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
 
 National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020
 
-Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020
+Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
 
-Course Design Institute Fellowship, University of Virginia, 2016
+Course Design Institute Fellowship, University of Virginia, 2016.
 
 
 # Professional Experience 
@@ -173,7 +180,9 @@ Developed the first generation of statistical models to perform deposit forecast
 Designed experiments for mail marketing campaigns in Capital One Bank.
 
 
-# Professional Memberships
+# Professional Affiliations
+
+RStudio Certified Instructor 
 
 American Statistical Association 
 
