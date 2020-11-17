@@ -50,8 +50,8 @@ Duke University, Department of Statistical Science
 
 *Duke University*
 
-- STA 199: Intro to Data Science \hfill Fall 2019, Spring 2019
-- STA 210: Regression Analysis \hfill Spring 2020, Fall 2019, Spring 2019, Fall 2018
+- STA 199: Intro to Data Science \hfill Fall 2020, Fall 2019, Spring 2019
+- STA 210: Regression Analysis \hfill Fall 2020, Spring 2020, Fall 2019, Spring 2019, Fall 2018
 \vskip.8\baselineskip
 
 *University of Virginia*
@@ -75,6 +75,14 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
+1. *Women in Statistics and Computing.* FEMMES Hacks. Online. October 2020. (Panelist)
+
+1. *Opportunities in Statistics and Data Science: Lightning Talks (Academia, Government, & NonProfit)*. StatFest. Online. September 2020. (Panelist)
+
+1. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
+
+1. *Making remote lectures active and inclusive in a large undergraduate course *. Teaching and Learning Statistics Online. Online. July 2020.
+
 1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
 1. *Reproducible Research - Education and Practice*. Duke Center for Data and Visualization Sciences. Durham, NC. November 2019. (Panelist)
@@ -90,7 +98,9 @@ Duke University, Department of Statistical Science
 3. *Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018. (Panelist)
 
 
-# Contributed Talks & Posters
+# Contributed Presentations
+
+1. *You don't have to be an expert to create something meaningful.*  Women in Statistics and Data Science Conference. Online. October 2020.
 
 1. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Women in Statistics and Data Science Conference. Bellevue, WA. October 2019. 
 
@@ -132,30 +142,43 @@ Duke Datathon Judge, 2018
 
 # Service to Profession
 
+Journal of Statistics Education, Associate Editor, 2020 - present
+
+The Undergraduate Statistics Project Competition Committee, 2020 - present
+
 ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
 
-Column editor for "Taking a Chance in the Classroom" column in *CHANCE Magazine*, 2019 - present
+Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, 2019 - present
 
-Reviewer for *Criminology, Criminology, Criminal Justice, Law & Society*, 2020 - present
-
-Reviewer for *Journal of Statistics Education*, 2019 - present
-
+ASA DataFest Steering Committee, 2019 - present
 
 CAUSE Undergraduate Statistics Research Project Competition Judge, 2019 - present 
 
 ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
 
+Journal Reviews: Journal of Statistics Education, Criminology, Criminology, Criminal Justice, Law & Society, Technology Innovations in Statistics Education
 
-# Mentoring 
+Book Reviews: Chapman & Hall
 
-1. Lavonne Hoang, Work Study, Fall 2019 - Spring 2020
+# Publications: Peer Reviewed
 
-1. Stephen Herrera, Independent Study, Spring 2020 
+1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*, Frontiers in Education, 5: 14-24.
 
-1. Caroline Levenson, Independent Study, Fall 2019
+# Publications: Other
 
-1. Faculty Mentor for Duke SPIRE Fellows, 2019 - present
+1. Tackett, M., Çetinkaya-Rundel M. (2020) *COVID-19 Data in the Classroom*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(3): 63 - 66.
 
+1. Çetinkaya-Rundel M., Tackett, M. (2020) *From Drab to Fab: Teaching Visualization via Incremental Improvements*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(2): 31 - 41.
+
+1. Banks, D., Tackett, M. (2020). Bayesian Methods and Forensic Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall. 
+
+1. Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics*, Chapman & Hall. 
+
+# Publications: In print 
+
+1. Beckman, M., Çetinkaya-Rundel M., Horton, N., Rundel, C., Sullivan, A., Tackett,
+M. Implementing version control with Git as a learning objective in statistics courses.
+[arxiv.org/abs/2001.01988](https://arxiv.org/abs/2001.01988).
 
 # Grants & Fellowships
 
@@ -167,7 +190,6 @@ National Science Foundation. *Collaborative Research: Accelerating the Pace of R
 Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
 
 Course Design Institute Fellowship, University of Virginia, 2016.
-
 
 # Professional Experience 
 
@@ -191,4 +213,4 @@ American Statistical Association
 
 National Math Alliance 
 
-Center for Statistics and Applications in Forensic Evidence (2017 - 2019)
+Center for Statistics and Applications in Forensic Evidence, 2017 - 2019
