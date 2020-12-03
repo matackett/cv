@@ -11,7 +11,7 @@ fontawesome: yes
 jobtitle: "Assistant Professor of the Practice"
 address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708
 email: maria.tackett@duke.edu
-phone: "919-684-6097"
+phone: "919-808-2012"
 #updated: no
 
 keywords: R Markdown, academic CV, template
@@ -162,12 +162,26 @@ Statistical Science Master's Program Admissions Committee, 2019
 
 Duke Datathon Judge, 2018
 
+# Grants & Fellowships
 
-# Publications: Peer reviewed papers
+Duke University Bass Connections Brain & Society Grant for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $14,200 each year.
+
+Duke University Data+ Funding for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $17,500.
+
+Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
+Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
+
+National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020
+
+Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
+
+Course Design Institute Fellowship, University of Virginia, 2016.
+
+# Publications: Peer Reviewed Papers
 
 1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*, Frontiers in Education, 5: 14-24.
 
-# Publications: In-print papers 
+# Publications: In-print Papers
 
 1. Beckman, M., Çetinkaya-Rundel M., Horton, N., Rundel, C., Sullivan, A., Tackett,
 M. Implementing version control with Git as a learning objective in statistics courses.
@@ -184,17 +198,6 @@ M. Implementing version control with Git as a learning objective in statistics c
 
 1. Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics*, Chapman & Hall. 
 
-
-# Grants & Fellowships
-
-Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
-Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
-
-National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020
-
-Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
-
-Course Design Institute Fellowship, University of Virginia, 2016.
 
 # Professional Experience 
 
