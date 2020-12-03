@@ -116,6 +116,23 @@ Duke University, Department of Statistical Science
  
 7. *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2015. (Poster)
 
+
+# Grants & Fellowships
+
+Duke University Bass Connections Brain & Society Grant for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $14,200 each year.
+
+Duke University Data+ Funding for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $17,500.
+
+Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
+Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
+
+National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020
+
+Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
+
+Course Design Institute Fellowship, University of Virginia, 2016.
+
+
 # Service to Profession
 
 UT-Austin Dana Center Statistics Advisory Group, 2020 
@@ -162,33 +179,19 @@ Statistical Science Master's Program Admissions Committee, 2019
 
 Duke Datathon Judge, 2018
 
-# Grants & Fellowships
+# Publications
 
-Duke University Bass Connections Brain & Society Grant for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $14,200 each year.
-
-Duke University Data+ Funding for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $17,500.
-
-Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
-Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
-
-National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020
-
-Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
-
-Course Design Institute Fellowship, University of Virginia, 2016.
-
-# Publications: Peer Reviewed Papers
+## Peer Reviewed Papers
 
 1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*, Frontiers in Education, 5: 14-24.
 
-# Publications: In-print Papers
+## In-print Papers
 
 1. Beckman, M., Çetinkaya-Rundel M., Horton, N., Rundel, C., Sullivan, A., Tackett,
 M. Implementing version control with Git as a learning objective in statistics courses.
 [arxiv.org/abs/2001.01988](https://arxiv.org/abs/2001.01988).
 
-
-# Publications: Other
+## Other
 
 1. Tackett, M., Çetinkaya-Rundel M. (2020) *COVID-19 Data in the Classroom*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(3): 63 - 66.
 
