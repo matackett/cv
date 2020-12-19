@@ -75,13 +75,17 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
+1. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
+
+1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (hosted by University of Toronto). December 2020. 
+
 1. *Women in Statistics and Computing.* FEMMES Hacks. Online. October 2020. (Panelist)
 
 1. *Opportunities in Statistics and Data Science: Lightning Talks (Academia, Government, & NonProfit)*. StatFest. Online. September 2020. (Panelist)
 
 1. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-1. *Making remote lectures active and inclusive in a large undergraduate course *. Teaching and Learning Statistics Online. Online. July 2020.
+1. *Making remote lectures active and inclusive in a large undergraduate course *. Teaching and Learning Statistics Online. Online (hosted by University College of London). July 2020.
 
 1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
