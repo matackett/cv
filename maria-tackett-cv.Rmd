@@ -77,7 +77,7 @@ Duke University, Department of Statistical Science
 
 1. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (hosted by University of Toronto Departmental of Statistical Sciences). December 2020. 
+1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (hosted by University of Toronto Department of Statistical Sciences). December 2020. 
 
 1. *Women in Statistics and Computing.* FEMMES Hacks Conference. Online. October 2020. (Panelist)
 
@@ -85,7 +85,7 @@ Duke University, Department of Statistical Science
 
 1. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-1. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (hosted by hosted by the Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
+1. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (hosted by the Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
 
 1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
@@ -123,9 +123,9 @@ Duke University, Department of Statistical Science
 
 # Grants & Fellowships
 
-Duke University Bass Connections Brain & Society Grant for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $14,200 each year.
+Duke University Bass Connections Brain & Society Grant. *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2022. $14,200 each academic year.
 
-Duke University Data+ Funding for *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021, $17,500.
+Duke University Data+. *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021. $17,500 each year.
 
 Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
 Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
@@ -144,9 +144,9 @@ Howard Hughes Medical Institute Data Exploration Course Advisory Committee, 2020
 
 Journal of Statistics Education, Associate Editor, 2020 - present
 
-The Undergraduate Statistics Project Competition Committee, 2020 - present
-
 ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
+
+The Undergraduate Statistics Project Competition Committee, 2020 - present
 
 Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, Editor, 2019 - present
 
