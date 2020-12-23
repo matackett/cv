@@ -77,15 +77,15 @@ Duke University, Department of Statistical Science
 
 1. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (hosted by University of Toronto). December 2020. 
+1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (hosted by University of Toronto Departmental of Statistical Sciences). December 2020. 
 
-1. *Women in Statistics and Computing.* FEMMES Hacks. Online. October 2020. (Panelist)
+1. *Women in Statistics and Computing.* FEMMES Hacks Conference. Online. October 2020. (Panelist)
 
 1. *Opportunities in Statistics and Data Science: Lightning Talks (Academia, Government, & NonProfit)*. StatFest. Online. September 2020. (Panelist)
 
 1. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-1. *Making remote lectures active and inclusive in a large undergraduate course *. Teaching and Learning Statistics Online. Online (hosted by University College of London). July 2020.
+1. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (hosted by hosted by the Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
 
 1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
@@ -130,12 +130,11 @@ Duke University Data+ Funding for *Mental Health and the Justice System in Durha
 Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
 Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
 
-National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020
+National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020.
 
 Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
 
 Course Design Institute Fellowship, University of Virginia, 2016.
-
 
 # Service to Profession
 
@@ -149,7 +148,7 @@ The Undergraduate Statistics Project Competition Committee, 2020 - present
 
 ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
 
-Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, 2019 - present
+Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, Editor, 2019 - present
 
 ASA DataFest Steering Committee, 2019 - present
 
@@ -157,21 +156,23 @@ CAUSE Undergraduate Statistics Research Project Competition Judge, 2019 - presen
 
 ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
 
-Journal Reviews: Journal of Statistics Education, Criminology, Criminology, Criminal Justice, Law & Society, Technology Innovations in Statistics Education
+Journal Reviews: Journal of Statistics Education; Criminology, Criminal Justice, Law & Society; Technology Innovations in Statistics Education
 
 Book Reviews: Chapman & Hall
 
 # University & Department Service
 
-ASA DataFest: COVID-19 Virtual Data Challenge Organizer, 2020
-
 Trinity Arts & Sciences Committee on Curriculum, 2019 - present
 
 ASA DataFest\@Duke Organizer, 2019 - present
 
+Master in Interdisciplinary Data Science Admissions Committee, 2020
+
 Statistical Science Undergraduate Curriculum Committee, 2019 - present
 
 Statistical Science Master's Student Advisor, 2019 - present
+
+Duke SPIRE Mentor, 2019 - present
 
 Statistical Science Undergraduate Major Advisor, 2018 - present
 
