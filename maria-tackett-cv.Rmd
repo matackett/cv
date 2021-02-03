@@ -51,14 +51,18 @@ Duke University, Department of Statistical Science
 *Duke University*
 
 - STA 199: Intro to Data Science \hfill Fall 2020, Fall 2019, Spring 2019
-- STA 210: Regression Analysis \hfill Fall 2020, Spring 2020, Fall 2019, Spring 2019, Fall 2018
+\vskip.8\baselineskip
+
+- STA 210: Regression Analysis \hfill Spring 2021, Fall 2020, Spring 2020, 
+
+\hfill Fall 2019, Spring 2019, Fall 2018
 \vskip.8\baselineskip
 
 *University of Virginia*
 
-- STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall 2017,
+- STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall 2017, Spring 2017, 
 
-\hfill Spring 2017, Fall 2016, Spring 2016, Fall 2015, Summer 2015
+\hfill Fall 2016, Spring 2016, Fall 2015, Summer 2015
 \vskip.8\baselineskip
 
 - STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017, Summer 2016
@@ -75,9 +79,11 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
+1. *Telling stories with data.* Abraham Lincoln High School. Online (Philadelphia, PA). January 2021. 
+
 1. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (hosted by University of Toronto Department of Statistical Sciences). December 2020. 
+1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (University of Toronto Department of Statistical Sciences). December 2020. 
 
 1. *Women in Statistics and Computing.* FEMMES Hacks Conference. Online. October 2020. (Panelist)
 
@@ -85,7 +91,7 @@ Duke University, Department of Statistical Science
 
 1. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-1. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (hosted by the Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
+1. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
 
 1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
@@ -123,20 +129,23 @@ Duke University, Department of Statistical Science
 
 # Grants & Fellowships
 
-Duke University Bass Connections Brain & Society Grant. *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2022. $14,200 each academic year.
+Duke University Bass Connections Brain & Society Grant. *Mental Health and the Justice System in Durham*, 2020 - 2022, Role: Co-PI, $14,200 each academic year.
 
-Duke University Data+. *Mental Health and the Justice System in Durham*. Role: Co-PI, 2020 - 2021. $17,500 each year.
+Duke University Data+. *Mental Health and the Justice System in Durham*. 2021 - 2021, Role: Co-PI, $17,500 each year.
 
-Duke University Trinity Research Enhancement Fund for *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*
-Jump Start Grant, Learning Innovation, Duke University, 2019. $3,000.
+Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2019, $3,000.
 
-National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines* Role: Key Faculty, 2018 - 2020.
+Duke University Learning Innovation Jump Start Grant, 2019. 
 
-Active Learning Fellows, Learning Innovation, Duke University, 2019 - 2020. $1,000
+National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines*, 2018 - 2020, Role: Key Faculty. 
 
-Course Design Institute Fellowship, University of Virginia, 2016.
+Duke University Learning Innovation Active Learning Fellows. 2019 - 2020. $1,000.
+
+University of Virginia Course Design Institute Fellowship,2016.
 
 # Service to Profession
+
+UT-Austin Dana Center Statistics Authoring Group, 2021
 
 UT-Austin Dana Center Statistics Advisory Group, 2020 
 
@@ -146,13 +155,13 @@ Journal of Statistics Education, Associate Editor, 2020 - present
 
 ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
 
-The Undergraduate Statistics Project Competition Committee, 2020 - present
+CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 - present
 
 Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, Editor, 2019 - present
 
 ASA DataFest Steering Committee, 2019 - present
 
-CAUSE Undergraduate Statistics Research Project Competition Judge, 2019 - present 
+CAUSE Undergraduate Statistics Project Competition Judge, 2019 
 
 ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
 
@@ -180,7 +189,7 @@ Statistical Science Committee on Departmental Code of Conduct, 2019
 
 Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
 
-Statistical Science Master's Program Admissions Committee, 2019
+Statistical Science Master's Program Admissions Committee, 2019, 2021
 
 Duke Datathon Judge, 2018
 
@@ -198,9 +207,13 @@ M. Implementing version control with Git as a learning objective in statistics c
 
 ## Other
 
-1. Tackett, M., Çetinkaya-Rundel M. (2020) *COVID-19 Data in the Classroom*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(3): 63 - 66.
+1. Tackett, M. (2020, January 14). [*A flipped classroom sparks online engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694). Duke Covid Diaries Series. 
 
-1. Çetinkaya-Rundel M., Tackett, M. (2020) *From Drab to Fab: Teaching Visualization via Incremental Improvements*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(2): 31 - 41.
+1. Tackett, M., Çetinkaya-Rundel M. (2020). *COVID-19 Data in the Classroom*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(3): 63 - 66.
+
+1. Tackett, M. (2020, July 23). [*Creating Interactive Web Apps for Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics). Duke Musings Blog. 
+
+1. Çetinkaya-Rundel M., Tackett, M. (2020). *From Drab to Fab: Teaching Visualization via Incremental Improvements*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(2): 31 - 41.
 
 1. Banks, D., Tackett, M. (2020). Bayesian Methods and Forensic Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall. 
 
@@ -223,10 +236,10 @@ Designed experiments for mail marketing campaigns in Capital One Bank.
 
 # Professional Affiliations
 
-RStudio Certified Instructor 
+RStudio Certified Instructor, 2020 - present 
 
-American Statistical Association 
+American Statistical Association, 2017 - present
 
-National Math Alliance 
+National Math Alliance, 2019 - present 
 
 Center for Statistics and Applications in Forensic Evidence, 2017 - 2019
