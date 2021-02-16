@@ -141,7 +141,7 @@ National Science Foundation. *Collaborative Research: Accelerating the Pace of R
 
 Duke University Learning Innovation Active Learning Fellows. 2019 - 2020. $1,000.
 
-University of Virginia Course Design Institute Fellowship,2016.
+University of Virginia Course Design Institute Fellowship, 2016.
 
 # Service to Profession
 
@@ -209,7 +209,7 @@ M. Implementing version control with Git as a learning objective in statistics c
 
 ## Other
 
-1. Tackett, M. (2020, January 14). [*A flipped classroom sparks online engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694). Duke Covid Diaries Series. 
+1. Tackett, M. (2021, January 14). [*A flipped classroom sparks online engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694). Duke Covid Diaries Series. 
 
 1. Tackett, M., Çetinkaya-Rundel M. (2020). *COVID-19 Data in the Classroom*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(3): 63 - 66.
 

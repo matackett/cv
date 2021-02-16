@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.5)  5 FEB 2021 22:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.15)  15 FEB 2021 23:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **maria-tackett-cv.tex
 (./maria-tackett-cv.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-02> (/Users/mariatackett/Library/TinyTeX/texmf-di
+L3 programming layer <2021-02-06> (/Users/mariatackett/Library/TinyTeX/texmf-di
 st/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -295,8 +295,8 @@ mesymbols-generic.tex)
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontaweso
 mesymbols-pdftex.tex))
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
-
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip54
 \f@nch@O@elh=\skip55
 \f@nch@O@erh=\skip56
@@ -311,7 +311,7 @@ Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
 
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcm
 ds.sty
@@ -346,9 +346,14 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 \Hy@linkcounter=\count293
 \Hy@pagecounter=\count294
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
+)
+(/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-lan
+gpatches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
 )
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -358,19 +363,24 @@ ty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count295
-Package hyperref Info: Hyper figures OFF on input line 4464.
-Package hyperref Info: Link nesting OFF on input line 4469.
-Package hyperref Info: Hyper index ON on input line 4472.
-Package hyperref Info: Plain pages OFF on input line 4479.
-Package hyperref Info: Backreferencing OFF on input line 4484.
+(/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4717.
+Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count296
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5076.
+LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen162
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -383,15 +393,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count297
 \Field@Width=\dimen163
 \Fld@charsize=\dimen164
-Package hyperref Info: Hyper figures OFF on input line 6347.
-Package hyperref Info: Link nesting OFF on input line 6352.
-Package hyperref Info: Hyper index ON on input line 6355.
-Package hyperref Info: backreferencing OFF on input line 6362.
-Package hyperref Info: Link coloring OFF on input line 6367.
-Package hyperref Info: Link coloring with OCG OFF on input line 6372.
-Package hyperref Info: PDF/A mode OFF on input line 6377.
-LaTeX Info: Redefining \ref on input line 6417.
-LaTeX Info: Redefining \pageref on input line 6421.
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
 
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
@@ -404,7 +414,7 @@ with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
 
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.st
 y
@@ -429,11 +439,6 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip63
 )
 Package hyperref Info: Option `unicode' set `true' on input line 107.
-(/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
-)
 Package hyperref Info: Option `colorlinks' set `true' on input line 107.
 Package hyperref Info: Option `breaklinks' set `true' on input line 107.
 
@@ -443,7 +448,7 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2021-02-06 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
 \l__pdf_internal_box=\box50
 ) (./maria-tackett-cv.aux)
@@ -511,7 +516,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 110.
 Package hyperref Info: Link coloring ON on input line 110.
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/Users/mariatackett/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -586,13 +591,13 @@ Package rerunfilecheck Info: File `maria-tackett-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 4768D94A5D2454429B3E1C497ED2FB8D;2014.
  ) 
 Here is how much of TeX's memory you used:
- 13231 strings out of 481251
- 190999 string characters out of 5914389
- 507745 words of memory out of 5000000
- 29900 multiletter control sequences out of 15000+600000
+ 12717 strings out of 481250
+ 185552 string characters out of 5914373
+ 503660 words of memory out of 5000000
+ 29384 multiletter control sequences out of 15000+600000
  447903 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,12n,88p,1205b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,12n,88p,1205b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/mariatackett/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 {/Users/mariatackett/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/
 Users/mariatackett/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fonta
@@ -604,7 +609,7 @@ fonts/type1/public/lm/lmbx12.pfb></Users/mariatackett/Library/TinyTeX/texmf-dis
 t/fonts/type1/public/lm/lmr10.pfb></Users/mariatackett/Library/TinyTeX/texmf-di
 st/fonts/type1/public/lm/lmr8.pfb></Users/mariatackett/Library/TinyTeX/texmf-di
 st/fonts/type1/public/lm/lmri10.pfb>
-Output written on maria-tackett-cv.pdf (5 pages, 159822 bytes).
+Output written on maria-tackett-cv.pdf (5 pages, 159827 bytes).
 PDF statistics:
  186 PDF objects out of 1000 (max. 8388607)
  171 compressed objects within 2 object streams
