@@ -3,6 +3,8 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: cv-latex.tex
+    extra_dependencies: 
+      multicol: null
 geometry: margin=.7in
 title: "CV"
 author: Maria Tackett
@@ -145,29 +147,36 @@ University of Virginia Course Design Institute Fellowship, 2016.
 
 # Service to Profession
 
+## Curriculum development
+
 UT-Austin Dana Center Statistics Authoring Group, 2021
 
-UT-Austin Dana Center Statistics Advisory Group, 2020 
+UT-Austin Dana Center Statistics Advisory Group, 2020
 
 Howard Hughes Medical Institute Data Exploration Course Advisory Committee, 2020 - present
 
+## Editorial service
+
 Journal of Statistics Education, Associate Editor, 2020 - present
+
+Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, Editor, 2019 - present
+
+Journal Reviews: Journal of Statistics Education; Criminology, Criminal Justice, Law & Society; Technology Innovations in Statistics Education
+
+Book Reviews: Chapman & Hall
+
+## Statistics education & student competitions
 
 ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
 
 CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 - present
 
-Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, Editor, 2019 - present
 
 ASA DataFest Steering Committee, 2019 - present
 
 CAUSE Undergraduate Statistics Project Competition Judge, 2019 
 
 ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
-
-Journal Reviews: Journal of Statistics Education; Criminology, Criminal Justice, Law & Society; Technology Innovations in Statistics Education
-
-Book Reviews: Chapman & Hall
 
 # University & Department Service
 
@@ -221,6 +230,43 @@ M. Implementing version control with Git as a learning objective in statistics c
 
 1. Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics*, Chapman & Hall. 
 
+# Advising 
+
+## Undergraduate thesis committee
+
+\begin{multicols}{2}
+
+\begin{itemize}
+\item Michael Model, 2020  
+\item Daniel Levine, 2019
+\item Ben Feder, 2019
+\item Srini Sunil, 2019
+\end{itemize}
+\end{multicols}
+
+
+## Independent study
+
+- Steven Herrera, 2020
+
+- Caroline Levenson, 2019
+
+## Other supervised research 
+
+\begin{multicols}{2}
+\begin{itemize}
+\item Sean Li, 2021
+\item Emmanuel Mokel, 2021
+\item Shari Tian, 2021
+\item Matthew Ralph, 2020 - 2021
+\item Isabella Larson, 2020 - 2021
+\item Liz Huynh, 2020 - 2021
+\item Joe Choo, 2020
+\item Abbey List, 2020
+\item Glenn Morgenstern, 2020
+\item Samantha Owusu-Antwi, 2020
+\end{itemize}
+\end{multicols}
 
 # Professional Experience 
 
