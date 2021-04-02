@@ -81,6 +81,10 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
+1. *Building Websites in RStudio*. RLadies Baltimore. Online. April 2021.
+
+1. *Building Websites in RStudio*. RLadies Amherst. Online. March 2021. 
+
 1. *Telling stories with data.* Abraham Lincoln High School. Online (Philadelphia, PA). January 2021. 
 
 1. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
@@ -131,11 +135,13 @@ Duke University, Department of Statistical Science
 
 # Grants & Fellowships
 
-Duke University Bass Connections Brain & Society Grant. *Mental Health and the Justice System in Durham*, 2020 - 2022, Role: Co-PI, $14,200 each academic year.
+Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2021 - 2022, $11,000.
 
-Duke University Data+. *Mental Health and the Justice System in Durham*. 2021 - 2021, Role: Co-PI, $17,500 each year.
+Duke University Bass Connections - Brain & Society. *Mental Health and the Justice System in Durham*, 2020 - 2022, Role: Co-PI, $14,200 each academic year.
 
-Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2019, $3,000.
+Duke University Data+. *Mental Health and the Justice System in Durham*. 2020 - 2021, Role: Co-PI, $17,500 each year.
+
+Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2020 - 2021, $3,000.
 
 Duke University Learning Innovation Jump Start Grant, 2019. 
 
@@ -170,7 +176,6 @@ Book Reviews: Chapman & Hall
 ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
 
 CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 - present
-
 
 ASA DataFest Steering Committee, 2019 - present
 
@@ -237,6 +242,7 @@ M. Implementing version control with Git as a learning objective in statistics c
 \begin{multicols}{2}
 
 \begin{itemize}
+\item Malavi Ravindran, 2021
 \item Michael Model, 2020  
 \item Daniel Levine, 2019
 \item Ben Feder, 2019
