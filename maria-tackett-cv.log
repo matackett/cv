@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.30)  2 APR 2021 09:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.30)  2 APR 2021 09:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,13 +657,13 @@ ap}] [2] [3] [4]
 AED: lastpage setting LastPage
 [5] (./maria-tackett-cv.aux)
 Package rerunfilecheck Info: File `maria-tackett-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 4E09DCC0111C1013A70F7373166A563E;3266.
+(rerunfilecheck)             Checksum: 991E2BF2717E5AAE8D4BBE2C9219ABCE;3128.
  ) 
 Here is how much of TeX's memory you used:
- 12846 strings out of 480962
- 187390 string characters out of 5906255
- 522099 words of memory out of 5000000
- 29780 multiletter control sequences out of 15000+600000
+ 12842 strings out of 480962
+ 187328 string characters out of 5906255
+ 522057 words of memory out of 5000000
+ 29778 multiletter control sequences out of 15000+600000
  447903 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  83i,12n,88p,1205b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -678,10 +678,10 @@ fonts/type1/public/lm/lmbx12.pfb></Users/mariatackett/Library/TinyTeX/texmf-dis
 t/fonts/type1/public/lm/lmr10.pfb></Users/mariatackett/Library/TinyTeX/texmf-di
 st/fonts/type1/public/lm/lmr8.pfb></Users/mariatackett/Library/TinyTeX/texmf-di
 st/fonts/type1/public/lm/lmri10.pfb>
-Output written on maria-tackett-cv.pdf (5 pages, 161487 bytes).
+Output written on maria-tackett-cv.pdf (5 pages, 161359 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
- 80 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

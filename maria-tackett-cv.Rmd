@@ -215,13 +215,9 @@ Duke Datathon Judge, 2018
 
 ## Peer Reviewed Papers
 
-1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*, Frontiers in Education, 5: 14-24.
+1. Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W., Sullivan, A. J., & Tackett, M. (2020). *Implementing version control with Git and GitHub as a learning objective in statistics and data science courses*. Journal of Statistics Education, 1-35.
 
-## In-print Papers
-
-1. Beckman, M., Çetinkaya-Rundel M., Horton, N., Rundel, C., Sullivan, A., Tackett,
-M. Implementing version control with Git as a learning objective in statistics courses.
-[arxiv.org/abs/2001.01988](https://arxiv.org/abs/2001.01988).
+1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*. Frontiers in Education, 5: 14-24.
 
 ## Other
 
