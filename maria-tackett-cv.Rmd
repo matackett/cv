@@ -157,15 +157,15 @@ Duke University, Department of Statistical Science
 
 Duke Learning Innovation's Carry the Innovation Forward Fund. *Building Community and Self-Efficacy Through Inclusive Teaching Practices*, 2021 - 2023. $4,616.
 
-Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2021 - 2022, $11,000.
+Duke Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2021 - 2022, $11,000.
 
-Duke University Bass Connections - Brain & Society. *Mental Health and the Justice System in Durham*, 2020 - 2023, Role: Co-PI, $14,200 each academic year.
+Duke Bass Connections - Brain & Society. *Mental Health and the Justice System in Durham*, 2020 - 2023, Role: Co-PI, $14,200 each academic year.
 
-Duke University Data+. *Mental Health and the Justice System in Durham*. 2020 - 2022, Role: Co-PI, $17,500 each year.
+Duke Data+. *Mental Health and the Justice System in Durham*. 2020 - 2022, Role: Co-PI, $17,500 each year.
 
-Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2020 - 2021, $3,000.
+Duke Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2020 - 2021, $3,000.
 
-Duke University Learning Innovation Jump Start Grant, 2019. 
+Duke Learning Innovation Jump Start Grant, 2019. 
 
 National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines*, 2018 - 2020, Role: Key Faculty. 
 
@@ -177,9 +177,9 @@ University of Virginia Course Design Institute Fellowship, 2016.
 
 ## Curriculum development
 
-UT-Austin Dana Center Statistics Authoring Group, 2021
+UT-Austin Dana Center Statistics Curriculum Authoring Group, 2021
 
-UT-Austin Dana Center Statistics Advisory Group, 2020
+UT-Austin Dana Center Statistics Curriculum Advisory Group, 2020
 
 Howard Hughes Medical Institute Data Exploration Course Advisory Committee, 2020 - 2021
 
@@ -237,7 +237,7 @@ Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
 
 Statistical Science Master's Program Admissions Committee, 2019, 2021
 
-Duke Datathon Judge, 2018 % 2021
+Duke Datathon Judge, 2018 & 2021
 
 
 # Publications
