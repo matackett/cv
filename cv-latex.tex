@@ -184,13 +184,13 @@ $endfor$
 %\titleformat{\section}{\bfseries\Large}{}{0pt}{\noindent\Vhrulefill~#1~\Vhrulefill}
 
 % Make lists without bullets
-%\renewenvironment{itemize}{
-%  \begin{list}{}{
-%    \setlength{\leftmargin}{1.5em}
-%  }
-%}{
-%  \end{list}
-%}
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
 
 
 % Make parskips rather than indent with lists.
@@ -254,7 +254,7 @@ $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
 $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
 \moveleft.5\hoffset\centerline{ 
 %github
-%$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\color{black} $github$} \hspace{1 mm} $endif$  
+$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\color{black} $github$} \hspace{1 mm} $endif$  
 %twitter
 %$if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\color{black} $twitter$} \hspace{1 mm} $endif$  
 %phone

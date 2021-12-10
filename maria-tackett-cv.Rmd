@@ -11,9 +11,11 @@ author: Maria Tackett
 
 fontawesome: yes
 jobtitle: "Assistant Professor of the Practice"
-address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708
+#address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708 
+address: Duke University
 email: maria.tackett@duke.edu
-phone: "919-808-2012"
+github: matackett
+#phone: "919-808-2012"
 #updated: no
 
 keywords: R Markdown, academic CV, template
@@ -26,21 +28,20 @@ urlcolor: blue
 
 # Education
 
+**Ph.D. in Statistics** \hfill 2018 \linebreak
+University of Virginia \hfill
 
-**Ph.D. in Statistics** \hfill 2013 - 2018  
-University of Virginia
-
-- Dissertation: *Creating Fingerprint Databases and a Bayesian Approach to Quantify Dependencies in Evidence*
-- Advisor: Dan Spitzner
+<!--Dissertation: *Creating Fingerprint Databases and a Bayesian Approach to Quantify Dependencies in Evidence* \linebreak
+Advisor: Dan Spitzner -->
 \vspace{8pt}
 
-**M.S. in Statistics** \hfill 2009 - 2010  
-University of Tennessee-Knoxville
+**M.S. in Statistics** \hfill 2010 \linebreak
+University of Tennessee-Knoxville \hfill
 \vspace{8pt}
 
 
-**B.S. in Mathematics** \hfill 2005 - 2009  
-University of Tennessee-Knoxville
+**B.S. in Mathematics** \hfill 2009 \linebreak
+University of Tennessee-Knoxville \hfill
 
 
 # Academic Appointments
@@ -52,7 +53,7 @@ Duke University, Department of Statistical Science
 
 *Duke University*
 
-- STA 199: Intro to Data Science \hfill Fall 2020, Fall 2019, Spring 2019
+- STA 199: Intro to Data Science \hfill Fall 2021, Fall 2020, Fall 2019, Spring 2019
 \vskip.8\baselineskip
 
 - STA 210: Regression Analysis \hfill Spring 2021, Fall 2020, Spring 2020, 
@@ -79,7 +80,20 @@ Duke University, Department of Statistical Science
 
 - STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
 
+\vskip.8\baselineskip
+
+*Workshops* 
+
+- Strengthening Conceptual Understanding in Introductory Statistics: Incorporating active and inclusive teaching and learning strategies for in-person and virtual settings (6 session series). UT Austin Dana Center. June - July 2021. 
+
+- Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2021. 
+  
+
 # Invited Talks
+
+1. *Women in Industry and Academia.* FEMMES+ Hacks Conference. Online. October 2021. (Panelist)
+
+1. *What a tap class has taught me about teaching statistics*. USCOTS. Online. June 2021.
 
 1. *Building Websites in RStudio*. RLadies Baltimore. Online. April 2021.
 
@@ -116,6 +130,12 @@ Duke University, Department of Statistical Science
 
 # Contributed Presentations
 
+1. *Version control as a learning objective in statistics and data science courses.* 63rd World Statistics Congress. Online. July 2021. 
+
+1. *GitHub and intro stats: technology to support group and project-based learning*. USCOTS. Online. July 2021. (Poster)
+
+1. *Developing Interactive Statistics Apps: A look at the project and student experience*. USCOTS. Online. July 2021. (Poster)
+
 1. *You don't have to be an expert to create something meaningful.*  Women in Statistics and Data Science Conference. Online. October 2020.
 
 1. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Women in Statistics and Data Science Conference. Bellevue, WA. October 2019. 
@@ -139,9 +159,9 @@ Duke Learning Innovation's Carry the Innovation Forward Fund. *Building Communit
 
 Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2021 - 2022, $11,000.
 
-Duke University Bass Connections - Brain & Society. *Mental Health and the Justice System in Durham*, 2020 - 2022, Role: Co-PI, $14,200 each academic year.
+Duke University Bass Connections - Brain & Society. *Mental Health and the Justice System in Durham*, 2020 - 2023, Role: Co-PI, $14,200 each academic year.
 
-Duke University Data+. *Mental Health and the Justice System in Durham*. 2020 - 2021, Role: Co-PI, $17,500 each year.
+Duke University Data+. *Mental Health and the Justice System in Durham*. 2020 - 2022, Role: Co-PI, $17,500 each year.
 
 Duke University Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2020 - 2021, $3,000.
 
@@ -173,7 +193,9 @@ Journal Reviews: Journal of Statistics Education; Criminology, Criminal Justice,
 
 Book Reviews: Chapman & Hall
 
-## Statistics education & student competitions
+## ASA & Statistics Education 
+
+Symposium on Statistics & Data Science Program Committee, Poster Chair, 2021 - 2022
 
 ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
 
@@ -186,6 +208,10 @@ CAUSE Undergraduate Statistics Project Competition Judge, 2019
 ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
 
 # University & Department Service
+
+Women in Research House Course, Faculty Advisor, 2021
+
+Library Council, 2021 - present
 
 A.B. Duke Scholars Program Interviewer, 2021 
 
@@ -211,7 +237,8 @@ Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
 
 Statistical Science Master's Program Admissions Committee, 2019, 2021
 
-Duke Datathon Judge, 2018
+Duke Datathon Judge, 2018 % 2021
+
 
 # Publications
 
@@ -221,15 +248,27 @@ Duke Datathon Judge, 2018
 
 1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*. Frontiers in Education, 5: 14-24.
 
+## In-Review Papers 
+
+1. Schramm-Sapyta, N., Ralph, M., Huynh, L., Tang, B., Tackett, M., Easter, M., Larsen, I. (2021) *Role of substance use and mental illness diagnosis in rearrest in a county detention facility*.
+
+## In-Prepration Papers 
+
+1. Tackett, M., Viel, S., Manturuk, K. *Measuring community in introductory undergraduate mathematics and statistics: 
+a validation of the short-form community scale*.
+
+
 ## Other
+
+1. Tackett, M., Burbank, K., Canner, J., & Çetinkaya-Rundel, M. (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3), 69-72.
 
 1. Tackett, M. (2021, January 14). [*A flipped classroom sparks online engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694). Duke Covid Diaries Series. 
 
-1. Tackett, M., Çetinkaya-Rundel M. (2020). *COVID-19 Data in the Classroom*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(3): 63 - 66.
+1. Tackett, M., & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the Classroom. *CHANCE*, 33(3), 63-66.
 
 1. Tackett, M. (2020, July 23). [*Creating Interactive Web Apps for Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics). Duke Musings Blog. 
 
-1. Çetinkaya-Rundel M., Tackett, M. (2020). *From Drab to Fab: Teaching Visualization via Incremental Improvements*, Chance Magazine Statistics Education Column, Taking a Chance in the Classroom, 33(2): 31 - 41.
+1. Çetinkaya-Rundel, M., & Tackett, M. (2020). From drab to fab: Teaching visualization via incremental improvements. *CHANCE*, 33(2), 31-41.
 
 1. Banks, D., Tackett, M. (2020). Bayesian Methods and Forensic Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall. 
 
@@ -250,6 +289,11 @@ Duke Datathon Judge, 2018
 \end{itemize}
 \end{multicols}
 
+## Doctoral thesis committee
+
+\begin{itemize}
+\item Meng Xie, 2021
+\end{itemize}
 
 ## Independent study
 
