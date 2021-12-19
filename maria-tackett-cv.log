@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.9)  9 DEC 2021 20:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.9)  19 DEC 2021 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -603,16 +603,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 AED: lastpage setting LastPage
 [6] (./maria-tackett-cv.aux)
 Package rerunfilecheck Info: File `maria-tackett-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 245E72E2EE68958352AE83A8590A1DCB;3537.
+(rerunfilecheck)             Checksum: 9B6266B7987AE29A6DD6BAD85C25394A;3374.
  ) 
 Here is how much of TeX's memory you used:
- 13550 strings out of 480313
- 210032 string characters out of 5896619
- 528942 words of memory out of 5000000
- 31120 multiletter control sequences out of 15000+600000
+ 13546 strings out of 480313
+ 209960 string characters out of 5896619
+ 529895 words of memory out of 5000000
+ 31118 multiletter control sequences out of 15000+600000
  447538 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,12n,80p,1205b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,80p,1205b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users
 /mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/mt324/Li
 brary/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users
@@ -622,10 +622,10 @@ sers/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/
 Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library
 /TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on maria-tackett-cv.pdf (6 pages, 171327 bytes).
+Output written on maria-tackett-cv.pdf (6 pages, 170938 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 233 compressed objects within 3 object streams
- 93 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 252 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -56,9 +56,9 @@ Duke University, Department of Statistical Science
 - STA 199: Intro to Data Science \hfill Fall 2021, Fall 2020, Fall 2019, Spring 2019
 \vskip.8\baselineskip
 
-- STA 210: Regression Analysis \hfill Spring 2021, Fall 2020, Spring 2020, 
+- STA 210: Regression Analysis \hfill Fall 2021, Spring 2021, Fall 2020
 
-\hfill Fall 2019, Spring 2019, Fall 2018
+\hfill Spring 2020, Fall 2019, Spring 2019, Fall 2018
 \vskip.8\baselineskip
 
 *University of Virginia*
@@ -252,11 +252,14 @@ Duke Datathon Judge, 2018 & 2021
 
 1. Schramm-Sapyta, N., Ralph, M., Huynh, L., Tang, B., Tackett, M., Easter, M., Larsen, I. (2021) *Role of substance use and mental illness diagnosis in rearrest in a county detention facility*.
 
+1. Easter, M., Schramm-Sapyta, N., Tackett, M.,  Larsen, I., Tang, B., Ralph, M.,  Huynh, L. (2021) *Emergency department utilization by people ever detained in a county jail*.
+
+<!--
 ## In-Prepration Papers 
 
-1. Tackett, M., Viel, S., Manturuk, K. *Measuring community in introductory undergraduate mathematics and statistics: 
+1. Tackett, M., Viel, S., Manturuk, K., Novicki, A. *Measuring community in introductory undergraduate mathematics and statistics: 
 a validation of the short-form community scale*.
-
+-->
 
 ## Other
 
