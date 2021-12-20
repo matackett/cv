@@ -308,12 +308,16 @@ a validation of the short-form community scale*.
 
 \begin{multicols}{2}
 \begin{itemize}
+\item Brianna Cellini, 2021 - 2022
+\item William Feng, 2021 - 2022
+\item Maya Pandey, 2021 - 2022
+\item John Liakos, 2021 - 2022
 \item Sean Li, 2021
 \item Emmanuel Mokel, 2021
 \item Shari Tian, 2021
-\item Matthew Ralph, 2020 - 2021
-\item Isabella Larson, 2020 - 2021
-\item Liz Huynh, 2020 - 2021
+\item Matthew Ralph, 2020 - 2022
+\item Isabella Larson, 2020 - 2022
+\item Liz Huynh, 2020 - 2022
 \item Joe Choo, 2020
 \item Abbey List, 2020
 \item Glenn Morgenstern, 2020
