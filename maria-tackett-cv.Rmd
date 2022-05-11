@@ -130,6 +130,8 @@ Duke University, Department of Statistical Science
 
 # Contributed Presentations
 
+1. *Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses.* Pandemic Pedagogy Research Symposium. Online. May 2022.
+
 1. *Version control as a learning objective in statistics and data science courses.* 63rd World Statistics Congress. Online. July 2021. 
 
 1. *GitHub and intro stats: technology to support group and project-based learning*. USCOTS. Online. July 2021. (Poster)
