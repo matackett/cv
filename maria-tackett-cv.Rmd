@@ -61,6 +61,8 @@ Duke University, Department of Statistical Science
 \hfill Spring 2020, Fall 2019, Spring 2019, Fall 2018
 \vskip.8\baselineskip
 
+- STA 310: Generalized Linear Models \hfill Spring 2022
+
 *University of Virginia*
 
 - STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall 2017, Spring 2017, 
@@ -84,6 +86,10 @@ Duke University, Department of Statistical Science
 
 *Workshops* 
 
+- [Designing the Data Science Classroom](https://rstudio-conf-2022.github.io/teach-ds/). rstudio::conf(2022). National Harbor, MD. July 2022. 
+
+- Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2022. 
+
 - Strengthening Conceptual Understanding in Introductory Statistics: Incorporating active and inclusive teaching and learning strategies for in-person and virtual settings (6 session series). UT Austin Dana Center. June - July 2021. 
 
 - Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2021. 
@@ -91,68 +97,78 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
-1. *Women in Industry and Academia.* FEMMES+ Hacks Conference. Online. October 2021. (Panelist)
+1. Tackett, M. *Teaching intro data science.* Preparing to Teach. George Mason University. August 2022. 
 
-1. *What a tap class has taught me about teaching statistics*. USCOTS. Online. June 2021.
+1. Tackett, M. [*Knit, Commit, and Push: Teaching version control in undergraduate statistics courses*](https://maria-tackett.netlify.app/talk/teach-version-control/). Toronto Workshop on Reproducibility. Online. February 2022. 
 
-1. *Building Websites in RStudio*. RLadies Baltimore. Online. April 2021.
+1. Tackett, M.[*Mentoring Undergraduate Research: Creating productive experiences and sharing student work*](https://maria-tackett.netlify.app/talk/mentor-undergrad-research/). ASA Mentoring Undergraduate Research Panel. Online. February 2022. (Panelist)
 
-1. *Building Websites in RStudio*. RLadies Amherst. Online. March 2021. 
+1. Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks Conference. Online. October 2021. (Panelist)
 
-1. *Telling stories with data.* Abraham Lincoln High School. Online (Philadelphia, PA). January 2021. 
+1. Tackett, M. *What a tap class has taught me about teaching statistics*. USCOTS. Online. June 2021.
 
-1. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
+1. Tackett, M. *Building Websites in RStudio*. RLadies Baltimore. Online. April 2021.
 
-1. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (University of Toronto Department of Statistical Sciences). December 2020. 
+1. Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online. March 2021. 
 
-1. *Women in Statistics and Computing.* FEMMES Hacks Conference. Online. October 2020. (Panelist)
+1. Tackett, M. *Telling stories with data.* Abraham Lincoln High School. Online (Philadelphia, PA). January 2021. 
 
-1. *Opportunities in Statistics and Data Science: Lightning Talks (Academia, Government, & NonProfit)*. StatFest. Online. September 2020. (Panelist)
+1. Tackett, M. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-1. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
+1. Tackett, M. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (University of Toronto Department of Statistical Sciences). December 2020. 
 
-1. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
+1. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks Conference. Online. October 2020. (Panelist)
 
-1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
+1. Tackett, M. *Opportunities in Statistics and Data Science: Lightning Talks (Academia, Government, & NonProfit)*. StatFest. Online. September 2020. (Panelist)
 
-1. *Reproducible Research - Education and Practice*. Duke Center for Data and Visualization Sciences. Durham, NC. November 2019. (Panelist)
+1. Tackett, M. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-1. *My Journey in Statistics*. FEMMES Hacks Conference. Durham, NC. November 2019. (Keynote)
+1. Tackett, M. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
 
-1. *Statistics in Practice*. FOCUS Cluster Dinner Series at Duke University: What if? Explaining the Past/Predicting the Future. Durham, NC. November 2019.
+1. Tackett, M. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
-1. *Beyond the Buzzword: A Look at Data Science in Practice and How You Can Be a Part of It*. SAMSI Diversity in Data Science and Machine Learning Conference. Washington, DC. October 2019. (Plenary talk)
+1. Tackett, M. *Reproducible Research - Education and Practice*. Duke Center for Data and Visualization Sciences. Durham, NC. November 2019. (Panelist)
 
-2. *Women in Machine Learning and Data Science*. Duke Machine Learning Day. Durham, NC. March 2019. (Panelist)
+1. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference. Durham, NC. November 2019. (Keynote)
 
-3. *Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018. (Panelist)
+1. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at Duke University: What if? Explaining the Past/Predicting the Future. Durham, NC. November 2019.
+
+1. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice and How You Can Be a Part of It*. SAMSI Diversity in Data Science and Machine Learning Conference. Washington, DC. October 2019. (Plenary talk)
+
+2. Tackett, M. *Women in Machine Learning and Data Science*. Duke Machine Learning Day. Durham, NC. March 2019. (Panelist)
+
+3. Tackett, M. *Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018. (Panelist)
 
 
 # Contributed Presentations
 
-1. *Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses.* Pandemic Pedagogy Research Symposium. Online. May 2022.
+1. Tackett, M., Viel, S. [*Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses*](https://maria-tackett.netlify.app/talk/socqs-ecots22/). eCOTS. Online. May 2022.
 
-1. *Version control as a learning objective in statistics and data science courses.* 63rd World Statistics Congress. Online. July 2021. 
+1. Tackett, M., Çetinkaya-Rundel, M., Presman, R. [*Modernizing the undergraduate regression analysis course*](https://maria-tackett.netlify.app/talk/ecots-modern-regression/). eCOTS. Online. May 2022.
 
-1. *GitHub and intro stats: technology to support group and project-based learning*. USCOTS. Online. July 2021. (Poster)
+1. Tackett, M., Viel, S. [*Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses*](https://maria-tackett.netlify.app/talk/socqs-pandemic-pedagogy/). Pandemic Pedagogy Research Symposium. Online. May 2022.
 
-1. *Developing Interactive Statistics Apps: A look at the project and student experience*. USCOTS. Online. July 2021. (Poster)
+1. Tackett, M. *Version control as a learning objective in statistics and data science courses*. 63rd World Statistics Congress. Online. July 2021. 
 
-1. *You don't have to be an expert to create something meaningful.*  Women in Statistics and Data Science Conference. Online. October 2020.
+1. Horton, N., Tackett, M. *GitHub and intro stats: technology to support group and project-based learning*. USCOTS. Online. July 2021. (Poster)
 
-1. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Women in Statistics and Data Science Conference. Bellevue, WA. October 2019. 
+1. Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive Statistics Apps: A look at the project and student experience*. USCOTS. Online. July 2021. (Poster)
 
-2. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Joint Statistical Meeting. Denver, CO. July 2019.
+1. Tackett, M. *You don't have to be an expert to create something meaningful.*  Women in Statistics and Data Science Conference. Online. October 2020.
 
-3. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. United States Conference on Teaching Statistics. State College, PA. May 2019. (Poster)
+1. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Women in Statistics and Data Science Conference. Bellevue, WA. October 2019. 
 
-4. *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville, VA. May 2016. (Panelist)
+2. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Joint Statistical Meeting. Denver, CO. July 2019.
 
-5. *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2017. (Poster)
+3. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. United States Conference on Teaching Statistics. State College, PA. May 2019. (Poster)
+
+4. Tackett, M. *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville, VA. May 2016. (Panelist)
+
+5. Tackett, M. *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2017. (Poster)
  
-6. *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting. Seattle, WA. August 2016.
+6. Tackett, M. *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting. Seattle, WA. August 2016.
  
-7. *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2015. (Poster)
+7. Tackett, M. *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2015. (Poster)
 
 
 # Grants & Fellowships
@@ -196,6 +212,8 @@ Journal Reviews: Journal of Statistics Education; Criminology, Criminal Justice,
 Book Reviews: Chapman & Hall
 
 ## ASA & Statistics Education 
+
+Symposium on Statistics & Data Science Program Committee, Short Course Chair, 2022 - 2023
 
 Symposium on Statistics & Data Science Program Committee, Poster Chair, 2021 - 2022
 
@@ -281,6 +299,11 @@ a validation of the short-form community scale*.
 
 # Advising 
 
+## Undergraduate thesis 
+
+- Larry Chen, 2022
+- Naomi Rubin, 2023
+
 ## Undergraduate thesis committee
 
 \begin{multicols}{2}
@@ -310,6 +333,8 @@ a validation of the short-form community scale*.
 
 \begin{multicols}{2}
 \begin{itemize}
+\item Jordan Hamelsky, 2022 - 2023
+\item Zoe Svec, 2022 - 2023
 \item Brianna Cellini, 2021 - 2022
 \item William Feng, 2021 - 2022
 \item Maya Pandey, 2021 - 2022
