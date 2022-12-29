@@ -8,7 +8,6 @@ output:
 geometry: margin=.7in
 title: "CV"
 author: Maria Tackett
-
 fontawesome: yes
 jobtitle: "Assistant Professor of the Practice"
 #address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708 
@@ -16,178 +15,281 @@ address: Duke University
 email: maria.tackett@duke.edu
 github: matackett
 #phone: "919-808-2012"
-#updated: no
-
+updated: no
 keywords: R Markdown, academic CV, template
-
 #fontfamily: mathpazo
 fontfamilyoptions: sfdefault
 fontsize: 11pt
 urlcolor: blue
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 # Education
 
-**Ph.D. in Statistics** \hfill 2018 \linebreak
-University of Virginia \hfill
+**Ph.D. in Statistics** \hfill 2018 \linebreak University of Virginia
+\hfill
 
+```{=html}
 <!--Dissertation: *Creating Fingerprint Databases and a Bayesian Approach to Quantify Dependencies in Evidence* \linebreak
 Advisor: Dan Spitzner -->
+```
 \vspace{8pt}
 
-**M.S. in Statistics** \hfill 2010 \linebreak
-University of Tennessee-Knoxville \hfill
-\vspace{8pt}
+**M.S. in Statistics** \hfill 2010 \linebreak University of
+Tennessee-Knoxville \hfill \vspace{8pt}
 
-
-**B.S. in Mathematics** \hfill 2009 \linebreak
-University of Tennessee-Knoxville \hfill
-
+**B.S. in Mathematics** \hfill 2009 \linebreak University of
+Tennessee-Knoxville \hfill
 
 # Academic Appointments
 
-**Assistant Professor of the Practice** \hfill 2018 - present \
+**Assistant Professor of the Practice** \hfill 2018 - present\
 Duke University, Department of Statistical Science
 
 # Teaching Experience
 
 *Duke University*
 
-- STA 199: Intro to Data Science \hfill Fall 2021, Fall 2020, Fall 2019, Spring 2019
-\vskip.8\baselineskip
+-   STA 199: Intro to Data Science \hfill
+    \href{sta199-fa21-003.netlify.app}{Fall 2021}, [Fall
+    2020](https://sta199-fa20-002.netlify.app), [Fall
+    2019](https://www2.stat.duke.edu/courses/Fall19/sta199.001/),
+    [Spring
+    2019](https://www2.stat.duke.edu/courses/Spring19/sta199.001/)
+    \vskip.8\baselineskip
 
-- STA 210: Regression Analysis \hfill Fall 2021, Spring 2021, Fall 2020
+-   STA 210: Regression Analysis
+    \hfill\href{https://sta210-fa22.netlify.app}{Fall 2022}, [Fall
+    2021](https://sta210-fa21.netlify.app), [Spring
+    2021](https://sta210-sp21.netlify.app), [Fall
+    2020](https://sta210-fa20.netlify.app), \newline \hspace*{\fill}
+    \href{https://www2.stat.duke.edu/courses/Spring20/sta210.001/}{Spring 2020}, [Fall
+    2019](https://www2.stat.duke.edu/courses/Fall19/sta210.001/),
+    [Spring
+    2019](https://www2.stat.duke.edu/courses/Spring19/sta210.001/),
+    [Fall 2018](https://www2.stat.duke.edu/courses/Fall18/sta210.001/)
+    \hfill \vskip.8\baselineskip
 
-\hfill Spring 2020, Fall 2019, Spring 2019, Fall 2018
-\vskip.8\baselineskip
-
-- STA 310: Generalized Linear Models \hfill Spring 2022
+-   STA 310: Generalized Linear Models \hfill
+    \href{https://sta310-sp22.netlify.app}{Spring 2022}
 
 *University of Virginia*
 
-- STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall 2017, Spring 2017, 
+-   STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall
+    2017, Spring 2017,
 
 \hfill Fall 2016, Spring 2016, Fall 2015, Summer 2015
 \vskip.8\baselineskip
 
-- STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017, Summer 2016
-\vskip.8\baselineskip
+-   STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017,
+    Summer 2016 \vskip.8\baselineskip
 
 *Virginia Commonwealth University*
 
-- SLWK 609: Foundations of Research in Social Work Practice \hfill Spring 2017
-\vskip.8\baselineskip
+-   SLWK 609: Foundations of Research in Social Work Practice \hfill
+    Spring 2017 \vskip.8\baselineskip
 
 *University of Tennessee-Knoxville*
 
-- STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
+-   STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
 
 \vskip.8\baselineskip
 
-*Workshops* 
+*Workshops*
 
-- [Designing the Data Science Classroom](https://rstudio-conf-2022.github.io/teach-ds/). rstudio::conf(2022). National Harbor, MD. July 2022. 
+-   RStudio Academy Mentor (10 week series). Online. October 2022 -
+    January 2023.
 
-- Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2022. 
+-   [Designing the Data Science
+    Classroom](https://rstudio-conf-2022.github.io/teach-ds/).
+    rstudio::conf(2022). National Harbor, MD. July 2022.
 
-- Strengthening Conceptual Understanding in Introductory Statistics: Incorporating active and inclusive teaching and learning strategies for in-person and virtual settings (6 session series). UT Austin Dana Center. June - July 2021. 
+-   [StatPREP
+    Workshop](http://www.statprep.org/Summer_2022_workshop.html). Ft.
+    Myers, FL. May 2022.
 
-- Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2021. 
-  
+-   Introduction to R. ENAR Fostering Diversity in Biostatistics
+    Workshop. March 2022.
+
+-   Strengthening Conceptual Understanding in Introductory Statistics:
+    Incorporating active and inclusive teaching and learning strategies
+    for in-person and virtual settings (6 session series). UT Austin
+    Dana Center. June - July 2021.
+
+-   Introduction to R. ENAR Fostering Diversity in Biostatistics
+    Workshop. March 2021.
 
 # Invited Talks
 
-1. Tackett, M. *Teaching intro data science.* Preparing to Teach. George Mason University. August 2022. 
+1.  Tackett, M. *Teaching intro data science.* Preparing to Teach.
+    George Mason University. August 2022.
 
-1. Tackett, M. [*Knit, Commit, and Push: Teaching version control in undergraduate statistics courses*](https://maria-tackett.netlify.app/talk/teach-version-control/). Toronto Workshop on Reproducibility. Online. February 2022. 
+2.  Tackett, M. [*Knit, Commit, and Push: Teaching version control in
+    undergraduate statistics
+    courses*](https://maria-tackett.netlify.app/talk/teach-version-control/).
+    Toronto Workshop on Reproducibility. Online. February 2022.
 
-1. Tackett, M.[*Mentoring Undergraduate Research: Creating productive experiences and sharing student work*](https://maria-tackett.netlify.app/talk/mentor-undergrad-research/). ASA Mentoring Undergraduate Research Panel. Online. February 2022. (Panelist)
+3.  Tackett, M.[*Mentoring Undergraduate Research: Creating productive
+    experiences and sharing student
+    work*](https://maria-tackett.netlify.app/talk/mentor-undergrad-research/).
+    ASA Mentoring Undergraduate Research Panel. Online. February 2022.
+    (Panelist)
 
-1. Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks Conference. Online. October 2021. (Panelist)
+4.  Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
+    Conference. Online. October 2021. (Panelist)
 
-1. Tackett, M. *What a tap class has taught me about teaching statistics*. USCOTS. Online. June 2021.
+5.  Tackett, M. *What a tap class has taught me about teaching
+    statistics*. USCOTS. Online. June 2021.
 
-1. Tackett, M. *Building Websites in RStudio*. RLadies Baltimore. Online. April 2021.
+6.  Tackett, M. *Building Websites in RStudio*. RLadies Baltimore.
+    Online. April 2021.
 
-1. Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online. March 2021. 
+7.  Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online.
+    March 2021.
 
-1. Tackett, M. *Telling stories with data.* Abraham Lincoln High School. Online (Philadelphia, PA). January 2021. 
+8.  Tackett, M. *Telling stories with data.* Abraham Lincoln High
+    School. Online (Philadelphia, PA). January 2021.
 
-1. Tackett, M. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
+9.  Tackett, M. *Undergraduate research in statistics.*
+    $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-1. Tackett, M. *Thinking about lectures in an intro data science course*. Toronto Data Workshop. Online (University of Toronto Department of Statistical Sciences). December 2020. 
+10. Tackett, M. *Thinking about lectures in an intro data science
+    course*. Toronto Data Workshop. Online (University of Toronto
+    Department of Statistical Sciences). December 2020.
 
-1. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks Conference. Online. October 2020. (Panelist)
+11. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks
+    Conference. Online. October 2020. (Panelist)
 
-1. Tackett, M. *Opportunities in Statistics and Data Science: Lightning Talks (Academia, Government, & NonProfit)*. StatFest. Online. September 2020. (Panelist)
+12. Tackett, M. *Opportunities in Statistics and Data Science: Lightning
+    Talks (Academia, Government, & NonProfit)*. StatFest. Online.
+    September 2020. (Panelist)
 
-1. Tackett, M. *Who’s Underrepresented? Modeling Undercounts in the U.S. Census*. Joint Statistical Meeting. Online. August 2020.
+13. Tackett, M. *Who's Underrepresented? Modeling Undercounts in the
+    U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-1. Tackett, M. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
+14. Tackett, M. *Making remote lectures active and inclusive in a large
+    undergraduate course*. Teaching and Learning Statistics Online
+    Conference. Online (Royal Statistical Society (RSS) Teaching
+    Statistics Special Interest Group). July 2020.
 
-1. Tackett, M. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
+15. Tackett, M. *You don't have to be an expert to create something
+    meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
-1. Tackett, M. *Reproducible Research - Education and Practice*. Duke Center for Data and Visualization Sciences. Durham, NC. November 2019. (Panelist)
+16. Tackett, M. *Reproducible Research - Education and Practice*. Duke
+    Center for Data and Visualization Sciences. Durham, NC.
+    November 2019. (Panelist)
 
-1. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference. Durham, NC. November 2019. (Keynote)
+17. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
+    Durham, NC. November 2019. (Keynote)
 
-1. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at Duke University: What if? Explaining the Past/Predicting the Future. Durham, NC. November 2019.
+18. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at
+    Duke University: What if? Explaining the Past/Predicting the Future.
+    Durham, NC. November 2019.
 
-1. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice and How You Can Be a Part of It*. SAMSI Diversity in Data Science and Machine Learning Conference. Washington, DC. October 2019. (Plenary talk)
+19. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
+    and How You Can Be a Part of It*. SAMSI Diversity in Data Science
+    and Machine Learning Conference. Washington, DC. October 2019.
+    (Plenary talk)
 
-2. Tackett, M. *Women in Machine Learning and Data Science*. Duke Machine Learning Day. Durham, NC. March 2019. (Panelist)
+20. Tackett, M. *Women in Machine Learning and Data Science*. Duke
+    Machine Learning Day. Durham, NC. March 2019. (Panelist)
 
-3. Tackett, M. *Women in Industry*. Duke University Business Oriented Women Meeting. Durham, NC. September 2018. (Panelist)
-
+21. Tackett, M. *Women in Industry*. Duke University Business Oriented
+    Women Meeting. Durham, NC. September 2018. (Panelist)
 
 # Contributed Presentations
 
-1. Tackett, M., Viel, S. [*Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses*](https://maria-tackett.netlify.app/talk/socqs-ecots22/). eCOTS. Online. May 2022.
+1.  Tackett, M., Viel, S. [*Undergraduate Students' Sense of Community
+    in Introductory Math and Statistics
+    Courses*](https://maria-tackett.netlify.app/talk/socqs-ecots22/).
+    eCOTS. Online. May 2022.
 
-1. Tackett, M., Çetinkaya-Rundel, M., Presman, R. [*Modernizing the undergraduate regression analysis course*](https://maria-tackett.netlify.app/talk/ecots-modern-regression/). eCOTS. Online. May 2022.
+2.  Tackett, M., Çetinkaya-Rundel, M., Presman, R. [*Modernizing the
+    undergraduate regression analysis
+    course*](https://maria-tackett.netlify.app/talk/ecots-modern-regression/).
+    eCOTS. Online. May 2022.
 
-1. Tackett, M., Viel, S. [*Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses*](https://maria-tackett.netlify.app/talk/socqs-pandemic-pedagogy/). Pandemic Pedagogy Research Symposium. Online. May 2022.
+3.  Tackett, M., Viel, S. [*Undergraduate Students' Sense of Community
+    in Introductory Math and Statistics
+    Courses*](https://maria-tackett.netlify.app/talk/socqs-pandemic-pedagogy/).
+    Pandemic Pedagogy Research Symposium. Online. May 2022.
 
-1. Tackett, M. *Version control as a learning objective in statistics and data science courses*. 63rd World Statistics Congress. Online. July 2021. 
+4.  Tackett, M. *Version control as a learning objective in statistics
+    and data science courses*. 63rd World Statistics Congress. Online.
+    July 2021.
 
-1. Horton, N., Tackett, M. *GitHub and intro stats: technology to support group and project-based learning*. USCOTS. Online. July 2021. (Poster)
+5.  Horton, N., Tackett, M. *GitHub and intro stats: technology to
+    support group and project-based learning*. USCOTS. Online.
+    July 2021. (Poster)
 
-1. Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive Statistics Apps: A look at the project and student experience*. USCOTS. Online. July 2021. (Poster)
+6.  Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive
+    Statistics Apps: A look at the project and student experience*.
+    USCOTS. Online. July 2021. (Poster)
 
-1. Tackett, M. *You don't have to be an expert to create something meaningful.*  Women in Statistics and Data Science Conference. Online. October 2020.
+7.  Tackett, M. *You don't have to be an expert to create something
+    meaningful.* Women in Statistics and Data Science Conference.
+    Online. October 2020.
 
-1. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Women in Statistics and Data Science Conference. Bellevue, WA. October 2019. 
+8.  Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+    Learning Experiences in a Regression Analysis Course*. Women in
+    Statistics and Data Science Conference. Bellevue, WA. October 2019.
 
-2. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. Joint Statistical Meeting. Denver, CO. July 2019.
+9.  Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+    Learning Experiences in a Regression Analysis Course*. Joint
+    Statistical Meeting. Denver, CO. July 2019.
 
-3. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course*. United States Conference on Teaching Statistics. State College, PA. May 2019. (Poster)
+10. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+    Learning Experiences in a Regression Analysis Course*. United States
+    Conference on Teaching Statistics. State College, PA. May 2019.
+    (Poster)
 
-4. Tackett, M. *Teaching Large Classes in Statistics Using Active Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville, VA. May 2016. (Panelist)
+11. Tackett, M. *Teaching Large Classes in Statistics Using Active
+    Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville,
+    VA. May 2016. (Panelist)
 
-5. Tackett, M. *Clustering High-Dimensional Categorical Data Using a Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2017. (Poster)
- 
-6. Tackett, M. *Understanding Variability Between Groups of Sequences Using a Bayesian Object-Oriented Data Model*. Joint Statistical Meeting. Seattle, WA. August 2016.
- 
-7. Tackett, M. *Understanding Object-Oriented Data Using Optimal Matching*. Quantitative Collaborative Fellows Poster Session. Charlottesville, VA. April 2015. (Poster)
+12. Tackett, M. *Clustering High-Dimensional Categorical Data Using a
+    Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows
+    Poster Session. Charlottesville, VA. April 2017. (Poster)
 
+13. Tackett, M. *Understanding Variability Between Groups of Sequences
+    Using a Bayesian Object-Oriented Data Model*. Joint Statistical
+    Meeting. Seattle, WA. August 2016.
+
+14. Tackett, M. *Understanding Object-Oriented Data Using Optimal
+    Matching*. Quantitative Collaborative Fellows Poster Session.
+    Charlottesville, VA. April 2015. (Poster)
 
 # Grants & Fellowships
 
-Duke Learning Innovation's Carry the Innovation Forward Fund. *Building Community and Self-Efficacy Through Inclusive Teaching Practices*, 2021 - 2023. $4,616.
+Duke Learning Innovation's Carry the Innovation Forward Fund. *Building
+Community and Self-Efficacy Through Inclusive Teaching Practices*,
+2021 - 2023. \$4,616.
 
-Duke Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2021 - 2022, $11,000.
+Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
+Culture of Undergraduate Research in Statistical Science*, 2021 - 2022,
+\$11,000.
 
-Duke Bass Connections - Brain & Society. *Mental Health and the Justice System in Durham*, 2020 - 2023, Role: Co-PI, $14,200 each academic year.
+Duke Bass Connections - Brain & Society. *Mental Health and the Justice
+System in Durham*, 2020 - 2024, Role: Co-PI, \$14,200 each academic
+year.
 
-Duke Data+. *Mental Health and the Justice System in Durham*. 2020 - 2022, Role: Co-PI, $17,500 each year.
+Duke Data+. *Mental Health and the Justice System in Durham*. 2020 -
+2023, Role: Co-PI, \$17,500 each year.
 
-Duke Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2020 - 2021, $3,000.
+Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
+Culture of Undergraduate Research in Statistical Science*, 2020 - 2021,
+\$3,000.
 
-Duke Learning Innovation Jump Start Grant, 2019. 
+Duke Learning Innovation Jump Start Grant, 2019.
 
-National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines*, 2018 - 2020, Role: Key Faculty. 
+National Science Foundation. *Collaborative Research: Accelerating the
+Pace of Research and Implementation of Writing-to-Learn Pedagogies
+Across STEM Disciplines*, 2018 - 2020, Role: Key Faculty.
 
-Duke University Learning Innovation Active Learning Fellows. 2019 - 2020. $1,000.
+Duke University Learning Innovation Active Learning Fellows. 2019 -
+2020. \$1,000.
 
 University of Virginia Course Design Institute Fellowship, 2016.
 
@@ -199,33 +301,44 @@ UT-Austin Dana Center Statistics Curriculum Authoring Group, 2021
 
 UT-Austin Dana Center Statistics Curriculum Advisory Group, 2020
 
-Howard Hughes Medical Institute Data Exploration Course Advisory Committee, 2020 - 2021
+Howard Hughes Medical Institute Data Exploration Course Advisory
+Committee, 2020 - 2021
 
 ## Editorial service
 
 Journal of Statistics Education, Associate Editor, 2020 - present
 
-Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, Editor, 2019 - present
+Chance Magazine Statistics Education Column: Taking a Chance in the
+Classroom, Editor, 2019 - present
 
-Journal Reviews: Journal of Statistics Education; Criminology, Criminal Justice, Law & Society; Technology Innovations in Statistics Education
+Journal Reviews: Journal of Statistics Education; Criminology, Criminal
+Justice, Law & Society; Technology Innovations in Statistics Education
 
 Book Reviews: Chapman & Hall
 
-## ASA & Statistics Education 
+## ASA & Statistics Education
 
-Symposium on Statistics & Data Science Program Committee, Short Course Chair, 2022 - 2023
+Bill & Melinda Gates Foundation Statistics Courseware Advisory Group,
+2022 - 2023
 
-Symposium on Statistics & Data Science Program Committee, Poster Chair, 2021 - 2022
+Symposium on Statistics & Data Science Program Committee, Short Course
+Chair, 2022 - 2023
 
-ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
+Symposium on Statistics & Data Science Program Committee, Poster Chair,
+2021 - 2022
 
-CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 - present
+ASA Section on Statistics and Data Science Education, Communications
+Officer, 2020 - present
+
+CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 -
+present
 
 ASA DataFest Steering Committee, 2019 - present
 
-CAUSE Undergraduate Statistics Project Competition Judge, 2019 
+CAUSE Undergraduate Statistics Project Competition Judge, 2019
 
-ASA Section on Bayesian Statistical Science Student Paper Competition Review Committee, 2019
+ASA Section on Bayesian Statistical Science Student Paper Competition
+Review Committee, 2019
 
 # University & Department Service
 
@@ -233,13 +346,13 @@ Women in Research House Course, Faculty Advisor, 2021
 
 Library Council, 2021 - present
 
-A.B. Duke Scholars Program Interviewer, 2021 
+A.B. Duke Scholars Program Interviewer, 2021
 
-Statistical Science Anti-Racism Committee, 2021 
+Statistical Science Anti-Racism Committee, 2021
 
-Trinity Arts & Sciences Committee on Curriculum, 2019 - present
+Trinity Arts & Sciences Committee on Curriculum, 2019 - 2021
 
-ASA DataFest\@Duke Organizer, 2019 - present
+ASA DataFest\@Duke Organizer, 2019 - 2022
 
 Master in Interdisciplinary Data Science Admissions Committee, 2020
 
@@ -253,59 +366,119 @@ Statistical Science Undergraduate Major Advisor, 2018 - present
 
 Statistical Science Committee on Departmental Code of Conduct, 2019
 
-Females Excelling More in Math, Engineering, & Science (FEMMES) Capstone, 2019
+Females Excelling More in Math, Engineering, & Science (FEMMES)
+Capstone, 2019
 
 Statistical Science Master's Program Admissions Committee, 2019, 2021
 
 Duke Datathon Judge, 2018 & 2021
 
-
 # Publications
 
-## Peer Reviewed Papers
+## Publications: Peer Reviewed
 
-1. Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W., Sullivan, A. J., & Tackett, M. (2020). *Implementing version control with Git and GitHub as a learning objective in statistics and data science courses*. Journal of Statistics Education, 1-35.
+(\* indicates undergraduate student)
 
-1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*. Frontiers in Education, 5: 14-24.
+1.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
+    Sullivan, A. J., & Tackett, M. (2020). Implementing version control
+    with Git and GitHub as a learning objective in statistics and data
+    science courses. *Journal of Statistics Education*, 1-35.
 
-## In-Review Papers 
+2.  Dotson, M., Alvarez, V.\*, Tackett, M., Asturias, G., Leon, I.,
+    Ramanujam, M. (2020) Design Thinking-Based STEM Learning:
+    Preliminary Results on Achieving Scale and Sustainability Through
+    the IGNITE Model. *Frontiers in Education*, 5: 14-24.
 
-1. Schramm-Sapyta, N., Ralph, M., Huynh, L., Tang, B., Tackett, M., Easter, M., Larsen, I. (2021) *Role of substance use and mental illness diagnosis in rearrest in a county detention facility*.
+## Publications: In Press
 
-1. Easter, M., Schramm-Sapyta, N., Tackett, M.,  Larsen, I., Tang, B., Ralph, M.,  Huynh, L. (2021) *Emergency department utilization by people ever detained in a county jail*.
+(\* indicates undergraduate student)
 
+1.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
+    the short-form classroom community scale for undergraduate
+    mathematics and statistics students. *Journal of University Teaching
+    and Learning Practice*.
+2.  Fannina, D., Ellebya, J., **Tackett, M.**, Minga, J. (in press).
+    Intersectionality of race and question asking in women after right
+    hemisphere brain damage. *Journal of Speech, Language, and Hearing
+    Research.*
+3.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
+    B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
+    emergency departments by people ever detained in jail: Retrospective
+    cross-sectional study. *Journal of Correctional Health Care.*
+4.  
+
+## Publications: In Review
+
+(\* indicates undergraduate student)
+
+1.  STA 210 paper
+
+2.  **Tackett, M.**, Roith, J. Teaching Probability and Probability
+    Distributions. *MAA Notes Volume on STATPrep.*
+
+3.  Book chapter with Shira
+
+4.  cash bail paper
+
+5.  data fest paper
+
+6.  Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B.\*, **Tackett,
+    M.**, Easter, M., Larsen, I.\* (2021) Role of substance use and
+    mental illness diagnosis in rearrest in a county detention facility.
+
+```{=html}
 <!--
 ## In-Prepration Papers 
 
 1. Tackett, M., Viel, S., Manturuk, K., Novicki, A. *Measuring community in introductory undergraduate mathematics and statistics: 
 a validation of the short-form community scale*.
 -->
+```
+## 
 
 ## Other
 
-1. Tackett, M., Burbank, K., Canner, J., & Çetinkaya-Rundel, M. (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3), 69-72.
+1.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+    (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3),
+    69-72.
 
-1. Tackett, M. (2021, January 14). [*A flipped classroom sparks online engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694). Duke Covid Diaries Series. 
+2.  **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+    online
+    engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
+    Duke Covid Diaries Series.
 
-1. Tackett, M., & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the Classroom. *CHANCE*, 33(3), 63-66.
+3.  **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+    Classroom. *CHANCE*, 33(3), 63-66.
 
-1. Tackett, M. (2020, July 23). [*Creating Interactive Web Apps for Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics). Duke Musings Blog. 
+4.  **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+    Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
+    Duke Musings Blog.
 
-1. Çetinkaya-Rundel, M., & Tackett, M. (2020). From drab to fab: Teaching visualization via incremental improvements. *CHANCE*, 33(2), 31-41.
+5.  Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+    Teaching visualization via incremental improvements. *CHANCE*,
+    33(2), 31-41.
 
-1. Banks, D., Tackett, M. (2020). Bayesian Methods and Forensic Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall. 
+6.  Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+    Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
+    *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
 
-1. Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.), *Handbook of Forensic Statistics*, Chapman & Hall. 
+7.  Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+    of Forensic Statistics*, Chapman & Hall.
 
-# Advising 
+## Publications: In Preparation
 
-## Undergraduate thesis 
+1.  Longitudinal paper
+2.  Shiny Ed paper
 
-- Larry Chen, 2022
-- Naomi Rubin, 2023
+# Advising
+
+## Undergraduate thesis
+
+-   Naomi Rubin, 2023
 
 ## Undergraduate thesis committee
 
+```{=tex}
 \begin{multicols}{2}
 
 \begin{itemize}
@@ -316,21 +489,25 @@ a validation of the short-form community scale*.
 \item Srini Sunil, 2019
 \end{itemize}
 \end{multicols}
-
+```
 ## Doctoral thesis committee
 
+```{=tex}
 \begin{itemize}
 \item Meng Xie, 2021
 \end{itemize}
-
+```
 ## Independent study
 
-- Steven Herrera, 2020
+-   Larry Chen, 2022
 
-- Caroline Levenson, 2019
+-   Steven Herrera, 2020
 
-## Other supervised research 
+-   Caroline Levenson, 2019
 
+## Other supervised research
+
+```{=tex}
 \begin{multicols}{2}
 \begin{itemize}
 \item Jordan Hamelsky, 2022 - 2023
@@ -351,29 +528,27 @@ a validation of the short-form community scale*.
 \item Samantha Owusu-Antwi, 2020
 \end{itemize}
 \end{multicols}
+```
+# Professional Experience
 
-# Professional Experience 
-
-**Senior Statistician** \hfill 2013 \
+**Senior Statistician** \hfill 2013\
 *Capital One*, Richmond, VA
 
-Developed the first generation of statistical models to perform deposit forecasts for Capital One Bank.
-\vspace{8pt}
- 
- 
-**Statistician** \hfill 2011 - 2012 \
-*Capital One*, Richmond, VA                                                                   
-Designed experiments for mail marketing campaigns in Capital One Bank.
+Developed the first generation of statistical models to perform deposit
+forecasts for Capital One Bank. \vspace{8pt}
 
+**Statistician** \hfill 2011 - 2012\
+*Capital One*, Richmond, VA\
+Designed experiments for mail marketing campaigns in Capital One Bank.
 
 # Professional Affiliations
 
 Mathematical Association of America, 2022 - present
 
-RStudio Certified Instructor, 2020 - present 
+RStudio Certified Instructor, 2020 - present
 
 American Statistical Association, 2017 - present
 
-National Math Alliance, 2019 - present 
+National Math Alliance, 2019 - present
 
 Center for Statistics and Applications in Forensic Evidence, 2017 - 2019
