@@ -14,14 +14,14 @@ jobtitle: "Assistant Professor of the Practice"
 #address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708 
 address: Duke University
 email: maria.tackett@duke.edu
-github: matackett
-#phone: "919-808-2012"
+#github: matackett
+web: maria-tackett.netlify.app
 updated: no
 keywords: R Markdown, academic CV, template
 #fontfamily: mathpazo
 fontfamilyoptions: sfdefault
 fontsize: 11pt
-urlcolor: Turquoise
+urlcolor: CornflowerBlue
 editor_options: 
   markdown: 
     wrap: 72
