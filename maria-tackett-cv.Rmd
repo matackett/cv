@@ -5,6 +5,7 @@ output:
     template: cv-latex.tex
     extra_dependencies: 
       multicol: null
+classoption: dvipsnames
 geometry: margin=.7in
 title: "CV"
 author: Maria Tackett
@@ -20,7 +21,7 @@ keywords: R Markdown, academic CV, template
 #fontfamily: mathpazo
 fontfamilyoptions: sfdefault
 fontsize: 11pt
-urlcolor: blue
+urlcolor: Turquoise
 editor_options: 
   markdown: 
     wrap: 72
