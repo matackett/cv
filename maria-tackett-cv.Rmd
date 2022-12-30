@@ -397,16 +397,16 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
-1.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
+3.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
     the short-form classroom community scale for undergraduate
     mathematics and statistics students. *Journal of University Teaching
     and Learning Practice*. arxiv:
     [arxiv.org/abs/2206.00590](https://arxiv.org/abs/2206.00590)
-2.  Fannina, D., Ellebya, J., **Tackett, M.**, Minga, J. (in press).
+1.  Fannina, D., Ellebya, J., **Tackett, M.**, Minga, J. (in press).
     Intersectionality of race and question asking in women after right
     hemisphere brain damage. *Journal of Speech, Language, and Hearing
     Research.*
-3.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
+1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
     B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
     emergency departments by people ever detained in jail: Retrospective
     cross-sectional study. *Journal of Correctional Health Care.*
@@ -415,59 +415,52 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
-1.  STA 210 paper
+6. **Tackett, M.** *Three principles for modernizing an undergraduate regression analysis course.*
 
-2.  **Tackett, M.**, Roith, J. Teaching Probability and Probability
-    Distributions. *MAA Notes Volume on STATPrep.*
+1. Noll, J., **Tackett, M.** *Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics.*
 
-3.  Book chapter with Shira
+1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B.\*, **Tackett, M.**, Easter, M., Larsen, I.\* *Role of substance use and mental illness diagnosis in rearrest in a county detention facility.*
 
-4.  cash bail paper
+1. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, B., **Tackett, M.** *Effect of Mental Illness, Substance Abuse and Cash Bail Reform on Rearrest for Low-Level Offenses.*
 
-5.  data fest paper
+## Publications: Forthcoming Book Chapters
 
-6.  Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B.\*, **Tackett,
-    M.**, Easter, M., Larsen, I.\* (2021) Role of substance use and
-    mental illness diagnosis in rearrest in a county detention facility.
+10. **Tackett, M.**, Roith, J. *Teaching Probability and Probability
+    Distributions.*
 
-```{=html}
-<!--
-## In-Prepration Papers 
+1. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community amid Covid-19: A Mixed-Methods Study of Undergraduate Students in Introductory Mathematics and Statistics*
 
-1. Tackett, M., Viel, S., Manturuk, K., Novicki, A. *Measuring community in introductory undergraduate mathematics and statistics: 
-a validation of the short-form community scale*.
--->
-```
+
 ## Other
 
-1.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+12.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
     (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3),
     69-72.
 
-2.  **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+1.  **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
     online
     engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
     Duke Covid Diaries Series.
 
-3.  **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+1.  **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
     Classroom. *CHANCE*, 33(3), 63-66.
 
-4.  **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+1.  **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
     Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
     Duke Musings Blog.
 
-5.  Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+1.  Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
     Teaching visualization via incremental improvements. *CHANCE*,
     33(2), 31-41.
 
-6.  Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+1.  Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
     Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
     *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
 
-7.  Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+1.  Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
     of Forensic Statistics*, Chapman & Hall.
 
-## <!--# Publications: In Preparation -->
+<!--# Publications: In Preparation -->
 
 <!--# Longitudinal paper -->
 
