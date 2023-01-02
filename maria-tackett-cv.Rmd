@@ -431,9 +431,10 @@ Duke Datathon Judge, 2018 & 2021
 1. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community amid Covid-19: A Mixed-Methods Study of Undergraduate Students in Introductory Mathematics and Statistics*
 
 
-## Other
+## Publications: Other
 
-12.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+12. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*, 20, 5. 
+1.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
     (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3),
     69-72.
 

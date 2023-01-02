@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.29)  29 DEC 2022 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.29)  2 JAN 2023 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -614,21 +614,21 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 AED: lastpage setting LastPage
 [7] (./maria-tackett-cv.aux)
 Package rerunfilecheck Info: File `maria-tackett-cv.out' has not changed.
-(rerunfilecheck)             Checksum: E2992AB49A01B368E66A8C13A8BB1336;4050.
+(rerunfilecheck)             Checksum: DE7BDE1EDF4B1DAF7924285350053E5E;4123.
  ) 
 Here is how much of TeX's memory you used:
- 15617 strings out of 478033
- 248569 string characters out of 5839258
+ 15618 strings out of 478033
+ 248602 string characters out of 5839258
  1863793 words of memory out of 5000000
  35229 multiletter control sequences out of 15000+600000
  564847 words of font info for 143 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,80p,1205b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv.pdf (7 pages, 204468 bytes).
+Output written on maria-tackett-cv.pdf (7 pages, 204353 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
- 111 named destinations out of 1000 (max. 500000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 286 compressed objects within 3 object streams
+ 112 named destinations out of 1000 (max. 500000)
  26825 words of extra memory for PDF output out of 29859 (max. 10000000)
 
