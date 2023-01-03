@@ -397,7 +397,8 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
-3.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
+3. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [arxiv.org/abs/2205.11026](https://arxiv.org/abs/2205.11026)
+1.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
     the short-form classroom community scale for undergraduate
     mathematics and statistics students. *Journal of University Teaching
     and Learning Practice*. arxiv:
@@ -410,25 +411,26 @@ Duke Datathon Judge, 2018 & 2021
     B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
     emergency departments by people ever detained in jail: Retrospective
     cross-sectional study. *Journal of Correctional Health Care.*
+    
+## Publications: Forthcoming Book Chapters
+(\* indicates undergraduate student)
+
+7. **Tackett, M.**, Roith, J. *Teaching Probability and Probability
+    Distributions.*
+
+1. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community amid Covid-19: A Mixed-Methods Study of Undergraduate Students in Introductory Mathematics and Statistics*
+
 
 ## Publications: In Review
 
 (\* indicates undergraduate student)
 
-6. **Tackett, M.** *Three principles for modernizing an undergraduate regression analysis course.*
 
-1. Noll, J., **Tackett, M.** *Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics.*
+9. Noll, J., **Tackett, M.** *Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics.*
 
 1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B.\*, **Tackett, M.**, Easter, M., Larsen, I.\* *Role of substance use and mental illness diagnosis in rearrest in a county detention facility.*
 
 1. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, B., **Tackett, M.** *Effect of Mental Illness, Substance Abuse and Cash Bail Reform on Rearrest for Low-Level Offenses.*
-
-## Publications: Forthcoming Book Chapters
-
-10. **Tackett, M.**, Roith, J. *Teaching Probability and Probability
-    Distributions.*
-
-1. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community amid Covid-19: A Mixed-Methods Study of Undergraduate Students in Introductory Mathematics and Statistics*
 
 
 ## Publications: Other
