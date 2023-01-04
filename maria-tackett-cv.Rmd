@@ -256,7 +256,7 @@ Duke University, Department of Statistical Science
 
 # Grants & Fellowships
 
-[ACT UP GRANT!]
+National Science Foundation. *Achieving Critical Transformations in Undergraduate Programs in Mathematics (ACT UP MATH)*, 2022 - 2025, Role: Duke Site Co-PI, \$ $237,749. 
 
 Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2022 - 2023,
@@ -547,6 +547,12 @@ Designed experiments for mail marketing campaigns in Capital One Bank.
 # Professional Affiliations
 
 Mathematical Association of America, 2022 - present
+
+International Statistical Institute, 2022 - present 
+
+Caucus for Women in Statistics, 2021 - present
+
+International Society for Bayesian Analysis, 2021 - present
 
 RStudio Certified Instructor, 2020 - present
 
