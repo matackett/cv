@@ -107,7 +107,7 @@ Duke University, Department of Statistical Science
     Classroom](https://rstudio-conf-2022.github.io/teach-ds/).
     rstudio::conf(2022). National Harbor, MD. July 2022.
 
--   [StatPREP
+-   [STATPrep
     Workshop](http://www.statprep.org/Summer_2022_workshop.html). Ft.
     Myers, FL. May 2022.
 
@@ -124,16 +124,16 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
-1.  Tackett, M. *Teaching intro data science.* Preparing to Teach.
+1.  Tackett, M. *Teaching intro data science.* Preparing to Teach Workshop.
     George Mason University. August 2022.
 
 2.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
     undergraduate statistics courses*. Toronto Workshop on
     Reproducibility. Online. February 2022.
 
-3.  Tackett, M.*Mentoring Undergraduate Research: Creating productive
+3.  Tackett, M. *Mentoring Undergraduate Research: Creating productive
     experiences and sharing student work*. ASA Mentoring Undergraduate
-    Research Panel. Online. February 2022. (Panelist)
+    Research Panel. Online. February 2022.
 
 4.  Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
     Conference. Online. October 2021. (Panelist)
@@ -305,13 +305,13 @@ Committee, 2020 - 2021
 
 ## Editorial service
 
-Journal of Statistics Education, Associate Editor, 2020 - present
+*Journal of Statistics Education*, Associate Editor, 2020 - present
 
-Chance Magazine Statistics Education Column: Taking a Chance in the
+*CHANCE* Magazine Statistics Education Column: Taking a Chance in the
 Classroom, Editor, 2019 - present
 
-Journal Reviews: Journal of Statistics Education; Criminology, Criminal
-Justice, Law & Society; Technology Innovations in Statistics Education
+Journal Reviews: *Journal of Statistics Education; Criminology*, *Criminal
+Justice, Law & Society*, *Technology Innovations in Statistics Education*
 
 Book Reviews: Chapman & Hall
 
@@ -514,7 +514,7 @@ Duke Datathon Judge, 2018 & 2021
 \item Brianna Cellini, 2021 - 2022
 \item William Feng, 2021 - 2022
 \item Maya Pandey, 2021 - 2022
-\item John Liakos, 2021 - 2022
+\item John Liakos, 2021
 \item Sean Li, 2021
 \item Emmanuel Mokel, 2021
 \item Shari Tian, 2021
