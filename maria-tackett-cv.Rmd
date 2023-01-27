@@ -383,39 +383,40 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
+1.  Fannin, D., Ellebya, J., **Tackett, M.**, Minga, J. (2023). Intersectionality of race and question asking in women after right hemisphere brain damage. *Journal of Speech, Language, and Hearing Research*, 314-324. [doi.org/10.1044/2022_JSLHR-22-00327](https://doi.org/10.1044/2022_JSLHR-22-00327)
+
 1.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
     Sullivan, A. J., **Tackett, M**. (2020). Implementing version
     control with Git and GitHub as a learning objective in statistics
-    and data science courses. *Journal of Statistics Education*, 1-35.
+    and data science courses. *Journal of Statistics Education*, 132-144. [doi.org./10.1080/10691898.2020.1848485](https://doi.org./10.1080/10691898.2020.1848485)
 
 2.  Dotson, M., Alvarez, V.\*, **Tackett, M.**, Asturias, G., Leon, I.,
     Ramanujam, M. (2020) Design Thinking-Based STEM Learning:
     Preliminary Results on Achieving Scale and Sustainability Through
-    the IGNITE Model. *Frontiers in Education*, 5: 14-24.
+    the IGNITE Model. *Frontiers in Education*, 5: 14-24. [doi.org/10.3389/feduc.2020.00014](https://doi.org/10.3389/feduc.2020.00014)
 
 ## Publications: In Press
 
 (\* indicates undergraduate student)
 
-3. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [arxiv.org/abs/2205.11026](https://arxiv.org/abs/2205.11026)
+4. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [arxiv.org/abs/2205.11026](https://arxiv.org/abs/2205.11026)
 1.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
     the short-form classroom community scale for undergraduate
     mathematics and statistics students. *Journal of University Teaching
     and Learning Practice*. arxiv:
     [arxiv.org/abs/2206.00590](https://arxiv.org/abs/2206.00590)
-1.  Fannina, D., Ellebya, J., **Tackett, M.**, Minga, J. (in press).
-    Intersectionality of race and question asking in women after right
-    hemisphere brain damage. *Journal of Speech, Language, and Hearing
-    Research.*
+
 1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
     B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
     emergency departments by people ever detained in jail: Retrospective
     cross-sectional study. *Journal of Correctional Health Care.*
     
+1. Schramm-Sapyta, N., Ralph, M., Huynh, L., Tang, B., Tackett, M., Easter, M., Larsen, I. (in press). Relationships between substance use disorders, ‘severe mental illness’ and re-arrest in a county detention facility: a 4-year follow-up cohort study. * Criminal Behaviour and Mental Health.*
+    
 ## Publications: Forthcoming Book Chapters
 (\* indicates undergraduate student)
 
-7. **Tackett, M.**, Roith, J. *Teaching Probability and Probability
+8. **Tackett, M.**, Roith, J. *Teaching Probability and Probability
     Distributions.*
 
 1. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community amid Covid-19: A Mixed-Methods Study of Undergraduate Students in Introductory Mathematics and Statistics*
@@ -426,9 +427,7 @@ Duke Datathon Judge, 2018 & 2021
 (\* indicates undergraduate student)
 
 
-9. Noll, J., **Tackett, M.** *Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics.*
-
-1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B.\*, **Tackett, M.**, Easter, M., Larsen, I.\* *Role of substance use and mental illness diagnosis in rearrest in a county detention facility.*
+10. Noll, J., **Tackett, M.** *Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics.*
 
 1. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, B., **Tackett, M.** *Effect of Mental Illness, Substance Abuse and Cash Bail Reform on Rearrest for Low-Level Offenses.*
 
