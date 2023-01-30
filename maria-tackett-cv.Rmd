@@ -399,7 +399,7 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
-4. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [arxiv.org/abs/2205.11026](https://arxiv.org/abs/2205.11026)
+4. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
 1.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
     the short-form classroom community scale for undergraduate
     mathematics and statistics students. *Journal of University Teaching
