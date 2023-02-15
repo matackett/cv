@@ -383,6 +383,12 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
+1. **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of
+    the short-form classroom community scale for undergraduate
+    mathematics and statistics students. *Journal of University Teaching & Learning Practice*, 20(1). [doi.org/10.53761/1.20.01.08](https://doi.org/10.53761/1.20.01.08)
+    
+1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B., **Tackett, M.**, Easter, M., Larsen, I.\* (2023). Relationships between substance use disorders, ‘severe mental illness’ and re-arrest in a county detention facility: a 4-year follow-up cohort study. *Criminal Behaviour & Mental Health*, 1-11. [doi.org/10.1002/cbm.2277](https://doi.org/10.1002/cbm.2277)
+
 1.  Fannin, D., Ellebya, J., **Tackett, M.**, Minga, J. (2023). Intersectionality of race and question asking in women after right hemisphere brain damage. *Journal of Speech, Language, and Hearing Research*, 314-324. [doi.org/10.1044/2022_JSLHR-22-00327](https://doi.org/10.1044/2022_JSLHR-22-00327)
 
 1.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
@@ -399,19 +405,14 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
-4. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
-1.  **Tackett, M.**, Viel, S., Manturuk, K. (in press). A validation of
-    the short-form classroom community scale for undergraduate
-    mathematics and statistics students. *Journal of University Teaching
-    and Learning Practice*. arxiv:
-    [arxiv.org/abs/2206.00590](https://arxiv.org/abs/2206.00590)
+6. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
+
 
 1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
     B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
     emergency departments by people ever detained in jail: Retrospective
     cross-sectional study. *Journal of Correctional Health Care.*
     
-1. Schramm-Sapyta, N., Ralph, M., Huynh, L., Tang, B., Tackett, M., Easter, M., Larsen, I. (in press). Relationships between substance use disorders, ‘severe mental illness’ and re-arrest in a county detention facility: a 4-year follow-up cohort study. * Criminal Behaviour and Mental Health.*
     
 ## Publications: Forthcoming Book Chapters
 (\* indicates undergraduate student)
