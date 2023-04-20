@@ -405,7 +405,7 @@ Duke Datathon Judge, 2018 & 2021
 
 (\* indicates undergraduate student)
 
-6. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. arxiv: [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
+6. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. doi: [10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
 
 
 1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
@@ -435,7 +435,9 @@ Duke Datathon Judge, 2018 & 2021
 
 ## Publications: Other
 
-12. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*, 20, 5. 
+12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and Recreating Data Visualizations of WEB Du Bois. *CHANCE*, 36(1), 40-47.
+
+1. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*, 20, 5. 
 1.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
     (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3),
     69-72.
