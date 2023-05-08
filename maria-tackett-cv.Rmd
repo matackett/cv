@@ -49,11 +49,11 @@ Tennessee-Knoxville \hfill
 **Assistant Professor of the Practice** \hfill 2018 - present\
 Duke University, Department of Statistical Science
 
-# Teaching Experience
+# Teaching
 
 *Duke University*
 
--   STA 199: Intro to Data Science \hfill
+1. STA 199: Intro to Data Science \hfill
     \href{sta199-fa21-003.netlify.app}{Fall 2021}, [Fall
     2020](https://sta199-fa20-002.netlify.app), [Fall
     2019](https://www2.stat.duke.edu/courses/Fall19/sta199.001/),
@@ -61,7 +61,7 @@ Duke University, Department of Statistical Science
     2019](https://www2.stat.duke.edu/courses/Spring19/sta199.001/)
     \vskip.8\baselineskip
 
--   STA 210: Regression Analysis
+1. STA 210: Regression Analysis
     \hfill\href{https://sta210-fa22.netlify.app}{Fall 2022}, [Fall
     2021](https://sta210-fa21.netlify.app), [Spring
     2021](https://sta210-sp21.netlify.app), [Fall
@@ -73,54 +73,145 @@ Duke University, Department of Statistical Science
     [Fall 2018](https://www2.stat.duke.edu/courses/Fall18/sta210.001/)
     \hfill \vskip.8\baselineskip
 
--   STA 310: Generalized Linear Models \hfill
+1. STA 310: Generalized Linear Models \hfill
     \href{https://sta310-sp22.netlify.app}{Spring 2022}
 
 *University of Virginia*
 
--   STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall
+4. STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall
     2017, Spring 2017,
 
 \hfill Fall 2016, Spring 2016, Fall 2015, Summer 2015
 \vskip.8\baselineskip
 
--   STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017,
+5. STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017,
     Summer 2016 \vskip.8\baselineskip
 
 *Virginia Commonwealth University*
 
--   SLWK 609: Foundations of Research in Social Work Practice \hfill
+6.  SLWK 609: Foundations of Research in Social Work Practice \hfill
     Spring 2017 \vskip.8\baselineskip
 
 *University of Tennessee-Knoxville*
 
--   STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
+7.  STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
 
 \vskip.8\baselineskip
 
 *Workshops*
 
--   RStudio Academy Mentor (10 week series). Online. October 2022 -
+8. RStudio Academy Mentor (10 week series). Online. October 2022 -
     January 2023.
 
--   [Designing the Data Science
+1. [Designing the Data Science
     Classroom](https://rstudio-conf-2022.github.io/teach-ds/).
     rstudio::conf(2022). National Harbor, MD. July 2022.
 
--   [STATPrep
+1. [STATPrep
     Workshop](http://www.statprep.org/Summer_2022_workshop.html). Ft.
     Myers, FL. May 2022.
 
--   Introduction to R. ENAR Fostering Diversity in Biostatistics
+1. Introduction to R. ENAR Fostering Diversity in Biostatistics
     Workshop. March 2022.
 
--   Strengthening Conceptual Understanding in Introductory Statistics:
+1. Strengthening Conceptual Understanding in Introductory Statistics:
     Incorporating active and inclusive teaching and learning strategies
     for in-person and virtual settings (6 session series). UT Austin
     Dana Center. June - July 2021.
 
--   Introduction to R. ENAR Fostering Diversity in Biostatistics
+1. Introduction to R. ENAR Fostering Diversity in Biostatistics
     Workshop. March 2021.
+
+# Publications
+
+## Publications: Peer Reviewed
+
+(\* indicates undergraduate student)
+
+1. **Tackett, M.** (2023) Three Principles for Modernizing an Undergraduate Regression Analysis Course. *Journal of Statistics and Data Science Education*. [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
+
+1. **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of
+    the short-form classroom community scale for undergraduate
+    mathematics and statistics students. *Journal of University Teaching & Learning Practice*, 20(1). [doi.org/10.53761/1.20.01.08](https://doi.org/10.53761/1.20.01.08)
+    
+1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B., **Tackett, M.**, Easter, M., Larsen, I.\* (2023). Relationships between substance use disorders, ‘severe mental illness’ and re-arrest in a county detention facility: a 4-year follow-up cohort study. *Criminal Behaviour & Mental Health*, 1-11. [doi.org/10.1002/cbm.2277](https://doi.org/10.1002/cbm.2277)
+
+1.  Fannin, D., Ellebya, J., **Tackett, M.**, Minga, J. (2023). Intersectionality of race and question asking in women after right hemisphere brain damage. *Journal of Speech, Language, and Hearing Research*, 314-324. [doi.org/10.1044/2022_JSLHR-22-00327](https://doi.org/10.1044/2022_JSLHR-22-00327)
+
+1.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
+    Sullivan, A. J., **Tackett, M**. (2020). Implementing version
+    control with Git and GitHub as a learning objective in statistics
+    and data science courses. *Journal of Statistics Education*, 132-144. [doi.org./10.1080/10691898.2020.1848485](https://doi.org./10.1080/10691898.2020.1848485)
+
+1.  Dotson, M., Alvarez, V.\*, **Tackett, M.**, Asturias, G., Leon, I.,
+    Ramanujam, M. (2020) Design Thinking-Based STEM Learning:
+    Preliminary Results on Achieving Scale and Sustainability Through
+    the IGNITE Model. *Frontiers in Education*, 5: 14-24. [doi.org/10.3389/feduc.2020.00014](https://doi.org/10.3389/feduc.2020.00014)
+
+## Publications: In Press
+
+(\* indicates undergraduate student)
+
+7. Noll, J., **Tackett, M.** (in press). Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics. *Teaching Statistics*.
+
+1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
+    B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
+    emergency departments by people ever detained in jail: Retrospective
+    cross-sectional study. *Journal of Correctional Health Care.*
+    
+    
+## Publications: Forthcoming Book Chapters
+(\* indicates undergraduate student)
+
+9. **Tackett, M.**, Roith, J. *Teaching Probability and Probability
+    Distributions.*
+
+1. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community amid Covid-19: A Mixed-Methods Study of Undergraduate Students in Introductory Mathematics and Statistics*
+
+
+## Publications: In Review
+
+(\* indicates undergraduate student)
+
+11. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, B., **Tackett, M.** *Effect of Mental Illness, Substance Abuse and Cash Bail Reform on Rearrest for Low-Level Offenses.*
+
+## Publications: Other
+
+12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and Recreating Data Visualizations of WEB Du Bois. *CHANCE*, 36(1), 40-47.
+
+1. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*, 20, 5. 
+1.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+    (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3),
+    69-72.
+
+1.  **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+    online
+    engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
+    Duke Covid Diaries Series.
+
+1.  **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+    Classroom. *CHANCE*, 33(3), 63-66.
+
+1.  **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+    Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
+    Duke Musings Blog.
+
+1.  Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+    Teaching visualization via incremental improvements. *CHANCE*,
+    33(2), 31-41.
+
+1.  Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+    Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
+    *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
+
+1.  Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+    of Forensic Statistics*, Chapman & Hall.
+
+<!--# Publications: In Preparation -->
+
+<!--# Longitudinal paper -->
+
+<!--# Shiny Ed -->
 
 # Invited Talks
 
@@ -197,7 +288,7 @@ Duke University, Department of Statistical Science
 21. Tackett, M. *Women in Industry*. Duke University Business Oriented
     Women Meeting. Durham, NC. September 2018. (Panelist)
 
-# Contributed Presentations
+# Presentations and Posters
 
 1.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
     Introductory Math and Statistics Courses*. eCOTS. Online. May 2022.
@@ -315,7 +406,7 @@ Justice, Law & Society*, *Technology Innovations in Statistics Education*
 
 Book Reviews: Chapman & Hall
 
-## ASA & Statistics Education
+## ASA and Statistics Education
 
 ASA/MAA Joint Committee on Undergraduate Statistics and Data Science
 Education, 2022 - present
@@ -376,100 +467,6 @@ Capstone, 2019
 Statistical Science Master's Program Admissions Committee, 2019, 2021
 
 Duke Datathon Judge, 2018 & 2021
-
-# Publications
-
-## Publications: Peer Reviewed
-
-(\* indicates undergraduate student)
-
-1. **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of
-    the short-form classroom community scale for undergraduate
-    mathematics and statistics students. *Journal of University Teaching & Learning Practice*, 20(1). [doi.org/10.53761/1.20.01.08](https://doi.org/10.53761/1.20.01.08)
-    
-1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B., **Tackett, M.**, Easter, M., Larsen, I.\* (2023). Relationships between substance use disorders, ‘severe mental illness’ and re-arrest in a county detention facility: a 4-year follow-up cohort study. *Criminal Behaviour & Mental Health*, 1-11. [doi.org/10.1002/cbm.2277](https://doi.org/10.1002/cbm.2277)
-
-1.  Fannin, D., Ellebya, J., **Tackett, M.**, Minga, J. (2023). Intersectionality of race and question asking in women after right hemisphere brain damage. *Journal of Speech, Language, and Hearing Research*, 314-324. [doi.org/10.1044/2022_JSLHR-22-00327](https://doi.org/10.1044/2022_JSLHR-22-00327)
-
-1.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
-    Sullivan, A. J., **Tackett, M**. (2020). Implementing version
-    control with Git and GitHub as a learning objective in statistics
-    and data science courses. *Journal of Statistics Education*, 132-144. [doi.org./10.1080/10691898.2020.1848485](https://doi.org./10.1080/10691898.2020.1848485)
-
-2.  Dotson, M., Alvarez, V.\*, **Tackett, M.**, Asturias, G., Leon, I.,
-    Ramanujam, M. (2020) Design Thinking-Based STEM Learning:
-    Preliminary Results on Achieving Scale and Sustainability Through
-    the IGNITE Model. *Frontiers in Education*, 5: 14-24. [doi.org/10.3389/feduc.2020.00014](https://doi.org/10.3389/feduc.2020.00014)
-
-## Publications: In Press
-
-(\* indicates undergraduate student)
-
-6. **Tackett, M.** (in press) Three principles for modernizing an undergraduate regression analysis course. *Journal of Statistics and Data Science Education*. doi: [10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
-
-
-1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
-    B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
-    emergency departments by people ever detained in jail: Retrospective
-    cross-sectional study. *Journal of Correctional Health Care.*
-    
-    
-## Publications: Forthcoming Book Chapters
-(\* indicates undergraduate student)
-
-8. **Tackett, M.**, Roith, J. *Teaching Probability and Probability
-    Distributions.*
-
-1. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community amid Covid-19: A Mixed-Methods Study of Undergraduate Students in Introductory Mathematics and Statistics*
-
-
-## Publications: In Review
-
-(\* indicates undergraduate student)
-
-
-10. Noll, J., **Tackett, M.** *Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics.*
-
-1. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, B., **Tackett, M.** *Effect of Mental Illness, Substance Abuse and Cash Bail Reform on Rearrest for Low-Level Offenses.*
-
-
-## Publications: Other
-
-12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and Recreating Data Visualizations of WEB Du Bois. *CHANCE*, 36(1), 40-47.
-
-1. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*, 20, 5. 
-1.  **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
-    (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3),
-    69-72.
-
-1.  **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
-    online
-    engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
-    Duke Covid Diaries Series.
-
-1.  **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
-    Classroom. *CHANCE*, 33(3), 63-66.
-
-1.  **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
-    Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
-    Duke Musings Blog.
-
-1.  Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
-    Teaching visualization via incremental improvements. *CHANCE*,
-    33(2), 31-41.
-
-1.  Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
-    Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
-    *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
-
-1.  Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
-    of Forensic Statistics*, Chapman & Hall.
-
-<!--# Publications: In Preparation -->
-
-<!--# Longitudinal paper -->
-
-<!--# Shiny Ed -->
 
 # Advising
 
