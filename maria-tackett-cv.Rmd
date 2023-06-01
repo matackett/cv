@@ -152,7 +152,7 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-7. Noll, J., **Tackett, M.** (in press). Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics. *Teaching Statistics*.
+7. Noll, J., **Tackett, M.** (in press). Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics. *Teaching Statistics*. [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
 
 1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
     B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
