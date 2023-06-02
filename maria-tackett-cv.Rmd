@@ -128,20 +128,22 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
+1. Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics. *Teaching Statistics*. [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
+
 1. **Tackett, M.** (2023) Three Principles for Modernizing an Undergraduate Regression Analysis Course. *Journal of Statistics and Data Science Education*. [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
 
 1. **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of
     the short-form classroom community scale for undergraduate
     mathematics and statistics students. *Journal of University Teaching & Learning Practice*, 20(1). [doi.org/10.53761/1.20.01.08](https://doi.org/10.53761/1.20.01.08)
     
-1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B., **Tackett, M.**, Easter, M., Larsen, I.\* (2023). Relationships between substance use disorders, ‘severe mental illness’ and re-arrest in a county detention facility: a 4-year follow-up cohort study. *Criminal Behaviour & Mental Health*, 1-11. [doi.org/10.1002/cbm.2277](https://doi.org/10.1002/cbm.2277)
+1. Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B., **Tackett, M.**, Easter, M., Larsen, I.\* (2023). Relationships between substance use disorders, ‘severe mental illness’ and re-arrest in a county detention facility: a 4-year follow-up cohort study. *Criminal Behaviour & Mental Health*, 33(3), 185-195. [doi.org/10.1002/cbm.2277](https://doi.org/10.1002/cbm.2277)
 
-1.  Fannin, D., Ellebya, J., **Tackett, M.**, Minga, J. (2023). Intersectionality of race and question asking in women after right hemisphere brain damage. *Journal of Speech, Language, and Hearing Research*, 314-324. [doi.org/10.1044/2022_JSLHR-22-00327](https://doi.org/10.1044/2022_JSLHR-22-00327)
+1.  Fannin, D., Ellebya, J., **Tackett, M.**, Minga, J. (2023). Intersectionality of race and question asking in women after right hemisphere brain damage. *Journal of Speech, Language, and Hearing Research*, 66(1), 314-324. [doi.org/10.1044/2022_JSLHR-22-00327](https://doi.org/10.1044/2022_JSLHR-22-00327)
 
 1.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
     Sullivan, A. J., **Tackett, M**. (2020). Implementing version
     control with Git and GitHub as a learning objective in statistics
-    and data science courses. *Journal of Statistics Education*, 132-144. [doi.org./10.1080/10691898.2020.1848485](https://doi.org./10.1080/10691898.2020.1848485)
+    and data science courses. *Journal of Statistics Education*, 29(1), 132-144. [doi.org./10.1080/10691898.2020.1848485](https://doi.org./10.1080/10691898.2020.1848485)
 
 1.  Dotson, M., Alvarez, V.\*, **Tackett, M.**, Asturias, G., Leon, I.,
     Ramanujam, M. (2020) Design Thinking-Based STEM Learning:
@@ -152,9 +154,7 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-7. Noll, J., **Tackett, M.** (in press). Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics. *Teaching Statistics*. [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
-
-1.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
+8.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
     B., Ralph, M.\*, Luong, H.\* (in press). Reliance on community
     emergency departments by people ever detained in jail: Retrospective
     cross-sectional study. *Journal of Correctional Health Care.*
