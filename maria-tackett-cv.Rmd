@@ -128,12 +128,12 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
+1. Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics. *Teaching Statistics*, 45(S1), S5-S21. [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
+
 1. Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
     B., Ralph, M.\*, Luong, H.\* (2023). Reliance on Community
     Emergency Departments by People Ever Detained in Jail: Retrospective
     Cross-Sectional Study. *Journal of Correctional Health Care.* [doi.org/10.1089/jchc.22.02.0011](https://doi.org/10.1089/jchc.22.02.0011)
-
-1. Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to New Opportunities for Undergraduate Statistics Courses: Team collaborations, Designing Research Questions, and Data Ethics. *Teaching Statistics*. [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
 
 1. **Tackett, M.** (2023) Three Principles for Modernizing an Undergraduate Regression Analysis Course. *Journal of Statistics and Data Science Education*. [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
 
