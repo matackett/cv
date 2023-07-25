@@ -57,7 +57,7 @@ Duke University, Department of Statistical Science
     \href{sta199-fa21-003.netlify.app}{Fall 2021}, [Fall
     2020](https://sta199-fa20-002.netlify.app), [Fall
     2019](https://www2.stat.duke.edu/courses/Fall19/sta199.001/),
-    [Spring
+    \newline\hspace*{\fill} [Spring
     2019](https://www2.stat.duke.edu/courses/Spring19/sta199.001/)
     \vskip.8\baselineskip
 
@@ -74,7 +74,7 @@ Duke University, Department of Statistical Science
     \hfill \vskip.8\baselineskip
 
 3.  STA 310: Generalized Linear Models \hfill
-    \href{https://sta310-sp22.netlify.app}{Spring 2022}
+    \href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
 
 *University of Virginia*
 
@@ -85,12 +85,12 @@ Duke University, Department of Statistical Science
 \vskip.8\baselineskip
 
 5.  STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017,
-    Summer 2016 \vskip.8\baselineskip
+    Summer 2016 \vskip.9\baselineskip
 
 *Virginia Commonwealth University*
 
 6.  SLWK 609: Foundations of Research in Social Work Practice \hfill
-    Spring 2017 \vskip.8\baselineskip
+    Spring 2017 \vskip.9\baselineskip
 
 *University of Tennessee-Knoxville*
 
