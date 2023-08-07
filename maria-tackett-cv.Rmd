@@ -316,6 +316,8 @@ Duke University, Department of Statistical Science
 
 # Contributed Talks & Posters
 
+1. Tackett, M., *Using Quarto for Making and Organzing Teaching Materials*. JSM. Toronto, ON. August 2023.
+
 1.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
     Introductory Math and Statistics Courses*. eCOTS. Online. May 2022.
 
