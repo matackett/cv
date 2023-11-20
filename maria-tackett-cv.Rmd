@@ -62,7 +62,8 @@ Duke University, Department of Statistical Science
     \vskip.8\baselineskip
 
 2.  STA 210: Regression Analysis
-    \hfill\href{https://sta210-fa22.netlify.app}{Fall 2022}, [Fall
+    \hfill \href{https://sta210-fa23.netlify.app}{Fall 2023},
+    \href{https://sta210-fa22.netlify.app}{Fall 2022}, [Fall
     2021](https://sta210-fa21.netlify.app), [Spring
     2021](https://sta210-sp21.netlify.app), [Fall
     2020](https://sta210-fa20.netlify.app), \newline \hspace*{\fill}
@@ -200,7 +201,7 @@ Duke University, Department of Statistical Science
 ## Publications: Other
 
 12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
-    Recreating Data Visualizations of WEB Du Bois. *CHANCE*, 36(1),
+    Recreating Data Visualizations of W.E.B. Du Bois. *CHANCE*, 36(1),
     40-47.
     [doi.org/10.1080/09332480.2023.2179279](https://doi.org/10.1080/09332480.2023.2179279 "https://doi.org/10.1080/09332480.2023.2179279")
 
@@ -208,7 +209,7 @@ Duke University, Department of Statistical Science
     20, 5.
 
 14. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
-    (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3),
+    (2021). Teaching Courses Focused on Social Good. *CHANCE*, 34(3),
     69-72.
     [doi.org/10.1080/09332480.2021.1979821](https://doi.org/10.1080/09332480.2021.1979821 "https://doi.org/10.1080/09332480.2021.1979821")
 
@@ -289,8 +290,8 @@ Duke University, Department of Statistical Science
     U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
 14. Tackett, M. *Making remote lectures active and inclusive in a large
-    undergraduate course*. Teaching and Learning Statistics Online
-    Conference. Online (Royal Statistical Society (RSS) Teaching
+    undergraduate course*. Teaching Statistics Teaching and Learning
+    Statistics Online. Online (Royal Statistical Society Teaching
     Statistics Special Interest Group). July 2020.
 
 15. Tackett, M. *You don't have to be an expert to create something
@@ -390,7 +391,7 @@ Culture of Undergraduate Research in Statistical Science*, 2022 - 2023,
 
 Duke Learning Innovation's Carry the Innovation Forward Fund. *Building
 Community and Self-Efficacy Through Inclusive Teaching Practices*,
-2021 - 2023. \$4,616.
+2021 - 2023, Role: Co-PI, \$4,616.
 
 Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2021 - 2022,
@@ -413,8 +414,8 @@ National Science Foundation. *Collaborative Research: Accelerating the
 Pace of Research and Implementation of Writing-to-Learn Pedagogies
 Across STEM Disciplines*, 2018 - 2020, Role: Key Faculty.
 
-Duke University Learning Innovation Active Learning Fellows. 2019 -
-2020. \$1,000.
+Duke University Learning Innovation Active Learning Fellows, 2019 -
+2020, \$1,000.
 
 University of Virginia Course Design Institute Fellowship, 2016.
 
@@ -461,11 +462,10 @@ Chair, 2022 - 2023
 Symposium on Statistics & Data Science Program Committee, Poster Chair,
 2021 - 2022
 
+CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 - 2023
+
 ASA Section on Statistics and Data Science Education, Communications
 Officer, 2020 - 2022
-
-CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 -
-present
 
 ASA DataFest Steering Committee, 2019 - 2022
 
@@ -505,13 +505,13 @@ Statistical Science Committee on Departmental Code of Conduct, 2019
 Females Excelling More in Math, Engineering, & Science (FEMMES)
 Capstone, 2019
 
-Statistical Science Master's Program Admissions Committee, 2019, 2021
+Statistical Science Master's Program Admissions Committee, 2019 & 2021
 
 Duke Datathon Judge, 2018 & 2021
 
 # Advising
 
-## Data+ & Bass Connections
+## Mental Health and the Justice System in Durham County (Data+ & Bass Connections)
 
 ```{=tex}
 \begin{multicols}{2}
@@ -520,7 +520,7 @@ Duke Datathon Judge, 2018 & 2021
 \item Foxx Hart, 2023 - present
 \item Will Lieber, 2023 - present
 \item Jordan Hamelsky, 2022 - present
-\item Zoe Svec, 2022 - present
+\item Zoe Svec, 2022 - 2024
 \item Andrew Shi, 2022
 \item Maya Pandey, 2021 - 2024
 \item Brianna Cellini, 2021 - 2022
@@ -530,7 +530,7 @@ Duke Datathon Judge, 2018 & 2021
 \item Liz Huynh, 2020 - 2023
 \item Matthew Ralph, 2020 - 2022
 \end{itemize}
-\end{multicols} 
+\end{multicols}
 ```
 ## Undergraduate thesis advisees
 
@@ -539,41 +539,35 @@ Duke Datathon Judge, 2018 & 2021
 ## Undergraduate thesis committee
 
 ```{=tex}
-\begin{multicols}{2}
-
 \begin{itemize}
 \item Malavi Ravindran, 2021
-\item Michael Model, 2020  
+\item Michael Model, 2020
 \item Daniel Levine, 2019
 \item Ben Feder, 2019
 \item Srini Sunil, 2019
 \end{itemize}
-\end{multicols}
 ```
 ## Doctoral thesis committee
 
-```{=tex}
-\begin{itemize}
-\item Meng Xie, 2021
-\end{itemize}
-```
+-   Meng Xie, 2021
+
 ## Independent study
 
--   Joe Choo, 2022
-
--   Larry Chen, 2022
-
--   Steven Herrera, 2020
-
--   Caroline Levenson, 2019
-
+```{=tex}
+\begin{itemize}
+\item Joe Choo, 2022
+\item Larry Chen, 2022
+\item Steven Herrera, 2020
+\item Caroline Levenson, 2019
+\end{itemize}
+```
 ## Other supervised research
 
 ```{=tex}
 \begin{multicols}{2}
 \begin{itemize}
 \item Garrett Allen, 2022
-\item Martin Olarte, 2022 
+\item Martin Olarte, 2022
 \item Sean Li, 2021
 \item Emmanuel Mokel, 2021
 \item Shari Tian, 2021
@@ -594,11 +588,11 @@ learn R programming skills for data science \vspace{8pt}
 **Senior Statistician** \hfill 2013\
 *Capital One*, Richmond, VA\
 Developed the first generation of statistical models to perform deposit
-forecasts for Capital One Bank. \vspace{8pt}
+forecasts for Capital One Bank \vspace{8pt}
 
 **Statistician** \hfill 2011 - 2012\
 *Capital One*, Richmond, VA\
-Designed experiments for mail marketing campaigns in Capital One Bank.
+Designed experiments for mail marketing campaigns in Capital One Bank
 
 # Professional Affiliations
 
