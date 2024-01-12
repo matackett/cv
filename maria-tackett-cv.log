@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.14)  20 NOV 2023 16:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.29)  12 JAN 2024 10:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -380,27 +380,26 @@ Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count314
 ) 
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-11-09 v7.01f Hypertext links for LaTeX
-(/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+(/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-11-09 v2.55 Cross-referencing by name of section
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -412,7 +411,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count316
 \Hy@pagecounter=\count317
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-11-09 v7.01f Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -420,23 +419,23 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count318
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-11-09 v7.01f Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4171.
-Package hyperref Info: Link nesting OFF on input line 4176.
-Package hyperref Info: Hyper index ON on input line 4179.
-Package hyperref Info: Plain pages OFF on input line 4186.
-Package hyperref Info: Backreferencing OFF on input line 4191.
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4438.
+Package hyperref Info: Bookmarks ON on input line 4448.
 \c@Hy@tempcnt=\count319
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4776.
+LaTeX Info: Redefining \url on input line 4786.
 \XeTeXLinkMargin=\dimen174
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -446,13 +445,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count320
 \Field@Width=\dimen175
 \Fld@charsize=\dimen176
-Package hyperref Info: Hyper figures OFF on input line 6055.
-Package hyperref Info: Link nesting OFF on input line 6060.
-Package hyperref Info: Hyper index ON on input line 6063.
-Package hyperref Info: backreferencing OFF on input line 6070.
-Package hyperref Info: Link coloring OFF on input line 6075.
-Package hyperref Info: Link coloring with OCG OFF on input line 6080.
-Package hyperref Info: PDF/A mode OFF on input line 6085.
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -463,7 +462,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2023-11-09 v7.01f Hyperref driver for pdfTeX
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -631,18 +630,18 @@ Package rerunfilecheck Info: File `maria-tackett-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 29CE82A61211BB5CF8611E230837141A;4467.
  ) 
 Here is how much of TeX's memory you used:
- 15666 strings out of 476207
- 245181 string characters out of 5795089
+ 15684 strings out of 476207
+ 245442 string characters out of 5795083
  1939555 words of memory out of 5000000
- 37094 multiletter control sequences out of 15000+600000
- 610723 words of font info for 148 fonts, out of 8000000 for 9000
+ 37105 multiletter control sequences out of 15000+600000
+ 611019 words of font info for 151 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,12n,80p,1205b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,80p,1205b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv.pdf (8 pages, 208354 bytes).
+Output written on maria-tackett-cv.pdf (8 pages, 208330 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 319 compressed objects within 4 object streams
- 127 named destinations out of 1000 (max. 500000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 320 compressed objects within 4 object streams
+ 128 named destinations out of 1000 (max. 500000)
  26825 words of extra memory for PDF output out of 29859 (max. 10000000)
 
