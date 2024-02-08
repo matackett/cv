@@ -246,82 +246,86 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
-1.  Tackett, M. *Communication as a learning objective in an
+1.  Tackett, M. *Three principles for modernizing an undergraduate
+    regression analysis course.* Teaching Statistics Section seminar.
+    Royal Statistical Society. Online. February 2024.
+
+2.  Tackett, M. *Communication as a learning objective in an
     intermediate statistics course.* Teaching and Evaluating Data
     Communication At Scale. Institute for Mathematical and Statistical
-    Innovation. January 2024.
+    Innovation. Chicago, IL. January 2024.
 
-2.  Tackett, M. *Teaching intro data science.* Preparing to Teach
+3.  Tackett, M. *Teaching intro data science.* Preparing to Teach
     Workshop. George Mason University. August 2022.
 
-3.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
+4.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
     undergraduate statistics courses*. Toronto Workshop on
     Reproducibility. Online. February 2022.
 
-4.  Tackett, M. *Mentoring Undergraduate Research: Creating productive
+5.  Tackett, M. *Mentoring Undergraduate Research: Creating productive
     experiences and sharing student work*. ASA Mentoring Undergraduate
     Research Panel. Online. February 2022.
 
-5.  Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
+6.  Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
     Conference. Online. October 2021. (Panelist)
 
-6.  Tackett, M. *What a tap class has taught me about teaching
+7.  Tackett, M. *What a tap class has taught me about teaching
     statistics*. USCOTS. Online. June 2021.
 
-7.  Tackett, M. *Building Websites in RStudio*. RLadies Baltimore.
+8.  Tackett, M. *Building Websites in RStudio*. RLadies Baltimore.
     Online. April 2021.
 
-8.  Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online.
+9.  Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online.
     March 2021.
 
-9.  Tackett, M. *Telling stories with data.* Abraham Lincoln High
+10. Tackett, M. *Telling stories with data.* Abraham Lincoln High
     School. Online (Philadelphia, PA). January 2021.
 
-10. Tackett, M. *Undergraduate research in statistics.*
+11. Tackett, M. *Undergraduate research in statistics.*
     $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-11. Tackett, M. *Thinking about lectures in an intro data science
+12. Tackett, M. *Thinking about lectures in an intro data science
     course*. Toronto Data Workshop. Online (University of Toronto
     Department of Statistical Sciences). December 2020.
 
-12. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks
+13. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks
     Conference. Online. October 2020. (Panelist)
 
-13. Tackett, M. *Opportunities in Statistics and Data Science: Lightning
+14. Tackett, M. *Opportunities in Statistics and Data Science: Lightning
     Talks (Academia, Government, & NonProfit)*. StatFest. Online.
     September 2020. (Panelist)
 
-14. Tackett, M. *Who's Underrepresented? Modeling Undercounts in the
+15. Tackett, M. *Who's Underrepresented? Modeling Undercounts in the
     U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-15. Tackett, M. *Making remote lectures active and inclusive in a large
+16. Tackett, M. *Making remote lectures active and inclusive in a large
     undergraduate course*. Teaching Statistics Teaching and Learning
     Statistics Online. Online (Royal Statistical Society Teaching
     Statistics Special Interest Group). July 2020.
 
-16. Tackett, M. *You don't have to be an expert to create something
+17. Tackett, M. *You don't have to be an expert to create something
     meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
-17. Tackett, M. *Reproducible Research - Education and Practice*. Duke
+18. Tackett, M. *Reproducible Research - Education and Practice*. Duke
     Center for Data and Visualization Sciences. Durham, NC.
     November 2019. (Panelist)
 
-18. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
+19. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
     Durham, NC. November 2019. (Keynote)
 
-19. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at
+20. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at
     Duke University: What if? Explaining the Past/Predicting the Future.
     Durham, NC. November 2019.
 
-20. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
+21. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
     and How You Can Be a Part of It*. SAMSI Diversity in Data Science
     and Machine Learning Conference. Washington, DC. October 2019.
     (Plenary talk)
 
-21. Tackett, M. *Women in Machine Learning and Data Science*. Duke
+22. Tackett, M. *Women in Machine Learning and Data Science*. Duke
     Machine Learning Day. Durham, NC. March 2019. (Panelist)
 
-22. Tackett, M. *Women in Industry*. Duke University Business Oriented
+23. Tackett, M. *Women in Industry*. Duke University Business Oriented
     Women Meeting. Durham, NC. September 2018. (Panelist)
 
 # Contributed Talks & Posters
