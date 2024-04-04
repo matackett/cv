@@ -1,0 +1,180 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+    extra_dependencies: 
+      multicol: null
+classoption: dvipsnames
+geometry: margin=.7in
+title: "CV"
+author: Maria Tackett
+fontawesome: yes
+jobtitle: "Assistant Professor of the Practice"
+#address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708 
+address: Duke University
+email: maria.tackett@duke.edu
+#github: matackett
+web: maria-tackett.netlify.app
+updated: no
+keywords: R Markdown, academic CV, template
+#fontfamily: mathpazo
+fontfamilyoptions: sfdefault
+fontsize: 11pt
+urlcolor: CornflowerBlue
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Education
+
+**Ph.D. in Statistics** \hfill 2018 \linebreak University of Virginia
+\hfill
+
+```{=html}
+<!--Dissertation: *Creating Fingerprint Databases and a Bayesian Approach to Quantify Dependencies in Evidence* \linebreak
+Advisor: Dan Spitzner -->
+```
+\vspace{5pt}
+
+**M.S. in Statistics** \hfill 2010 \linebreak University of
+Tennessee-Knoxville \hfill \vspace{5pt}
+
+**B.S. in Mathematics** \hfill 2009 \linebreak University of
+Tennessee-Knoxville \hfill
+
+# Academic Appointments
+
+**Assistant Professor of the Practice** \hfill 2018 - present\
+Duke University, Department of Statistical Science
+
+# Teaching (selected)
+
+*Duke University*
+
+- STA 199: Introduction to Data Science & Statistical Thinking \hfill
+    \href{sta199-fa21-003.netlify.app}{Fall 2021}, [Fall
+    2020](https://sta199-fa20-002.netlify.app), [Fall
+    2019](https://www2.stat.duke.edu/courses/Fall19/sta199.001/),
+    \newline\hspace*{\fill} [Spring
+    2019](https://www2.stat.duke.edu/courses/Spring19/sta199.001/)
+    \vskip.8\baselineskip
+
+- STA 210: Regression Analysis
+    \hfill \href{https://sta210-fa23.netlify.app}{Fall 2023},
+    \href{https://sta210-fa22.netlify.app}{Fall 2022}, [Fall
+    2021](https://sta210-fa21.netlify.app), [Spring
+    2021](https://sta210-sp21.netlify.app), [Fall
+    2020](https://sta210-fa20.netlify.app), \newline \hspace*{\fill}
+    \href{https://www2.stat.duke.edu/courses/Spring20/sta210.001/}{Spring 2020},
+    [Fall 2019](https://www2.stat.duke.edu/courses/Fall19/sta210.001/),
+    [Spring
+    2019](https://www2.stat.duke.edu/courses/Spring19/sta210.001/),
+    [Fall 2018](https://www2.stat.duke.edu/courses/Fall18/sta210.001/)
+    \hfill \vskip.8\baselineskip
+
+- STA 310: Generalized Linear Models \hfill
+    \href{https://sta310-sp24.netlify.app}{Spring 2024}, \href{https://sta310-sp24.netlify.app}{Spring 2022}\vskip.9\baselineskip
+
+
+\vskip.8\baselineskip
+
+
+# Publications (selected)
+
+1. **Tackett, M.** (2023). Three Principles for Modernizing an
+    Undergraduate Regression Analysis Course. *Journal of Statistics and
+    Data Science Education*, 31(2), 116-127.
+    [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
+
+2. Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to
+    New Opportunities for Undergraduate Statistics Courses: Team
+    collaborations, Designing Research Questions, and Data Ethics.
+    *Teaching Statistics*, 45(S1), S5-S21.
+    [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
+
+3. **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of the
+    short-form classroom community scale for undergraduate mathematics
+    and statistics students. *Journal of University Teaching & Learning
+    Practice*, 20(1).
+    [doi.org/10.53761/1.20.01.08](https://doi.org/10.53761/1.20.01.08)
+
+4. Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
+    Sullivan, A. J., **Tackett, M**. (2020). Implementing version
+    control with Git and GitHub as a learning objective in statistics
+    and data science courses. *Journal of Statistics Education*, 29(1),
+    132-144.
+    [doi.org./10.1080/10691898.2020.1848485](https://doi.org./10.1080/10691898.2020.1848485)
+
+<!-- ## Publications: In Press -->
+
+<!-- (\* indicates undergraduate student) -->
+
+<!--# Publications: In Preparation -->
+
+<!--# Longitudinal paper -->
+
+<!--# Shiny Ed -->
+
+# Invited Talks (selected)
+
+1. Tackett, M. *More than methods: Preparing students for data-driven work outside the classroom.* CANSSI Applied Research Education seminar. Toronto, ON. April 2024. 
+
+1. Tackett, M. *Three principles for modernizing an undergraduate
+    regression analysis course.* Teaching Statistics Section seminar.
+    Royal Statistical Society. Online. February 2024.
+
+2. Tackett, M. *Communication as a learning objective in an
+    intermediate statistics course.* Teaching and Evaluating Data
+    Communication At Scale. Institute for Mathematical and Statistical
+    Innovation. Chicago, IL. January 2024.
+
+3. Tackett, M. *Teaching intro data science.* Preparing to Teach
+    Workshop. George Mason University. August 2022.
+
+4.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
+    undergraduate statistics courses*. Toronto Workshop on
+    Reproducibility. Online. February 2022.
+
+5. Tackett, M. *Making remote lectures active and inclusive in a large
+    undergraduate course*. Teaching Statistics Teaching and Learning
+    Statistics Online. Online (Royal Statistical Society Teaching
+    Statistics Special Interest Group). July 2020.
+    
+6. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
+    Durham, NC. November 2019. (Keynote)
+
+7. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
+    and How You Can Be a Part of It*. SAMSI Diversity in Data Science
+    and Machine Learning Conference. Washington, DC. October 2019.
+    (Plenary talk)
+    
+# Grants & Fellowships (selected)
+
+National Science Foundation. *Achieving Critical Transformations in
+Undergraduate Programs in Mathematics (ACT UP MATH)*, 2022 - 2025, Role:
+Duke Site Co-PI, \$237,749.
+
+Duke Learning Innovation's Carry the Innovation Forward Fund. *Building
+Community and Self-Efficacy Through Inclusive Teaching Practices*,
+2021 - 2023, Role: Co-PI, \$4,616.
+
+Duke Bass Connections - Brain & Society. *Mental Health and the Justice
+System in Durham*, 2020 - 2024, Role: Co-PI, \$14,200 each academic
+year.
+
+Duke Data+. *Mental Health and the Justice System in Durham*. 2020 -
+2024, Role: Co-PI, \$17,500 each year.
+
+# Service to Profession (selected)
+
+Bill & Melinda Gates Foundation High School Math Pathways Advisory
+Group, 2023 - present
+
+ASA/MAA Joint Committee on Undergraduate Statistics and Data Science
+Education, 2022 - present
+
+Bill & Melinda Gates Foundation Statistics Courseware Advisory Group,
+2022 - present
+

@@ -246,6 +246,8 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
+1. Tackett, M. *More than methods: Preparing students for data-driven work outside the classroom.* CANSSI Applied Research Education seminar. Toronto, ON. April 2024. 
+
 1.  Tackett, M. *Three principles for modernizing an undergraduate
     regression analysis course.* Teaching Statistics Section seminar.
     Royal Statistical Society. Online. February 2024.
