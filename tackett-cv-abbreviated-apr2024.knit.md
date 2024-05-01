@@ -53,20 +53,20 @@ Duke University, Department of Statistical Science
 
 *Duke University*
 
-1.  STA 199: Introduction to Data Science & Statistical Thinking \hfill
+-   STA 199: Introduction to Data Science & Statistical Thinking \hfill
     \href{sta199-fa21-003.netlify.app}{Fall 2021}, [Fall
     2020](https://sta199-fa20-002.netlify.app), [Fall
     2019](https://www2.stat.duke.edu/courses/Fall19/sta199.001/),
-    \newline\hspace*{\fill} [Spring
+    \newline\hspace\*{\\fill} [Spring
     2019](https://www2.stat.duke.edu/courses/Spring19/sta199.001/)
     \vskip.8\baselineskip
 
-2.  STA 210: Regression Analysis
+-   STA 210: Regression Analysis
     \hfill \href{https://sta210-fa23.netlify.app}{Fall 2023},
     \href{https://sta210-fa22.netlify.app}{Fall 2022}, [Fall
     2021](https://sta210-fa21.netlify.app), [Spring
     2021](https://sta210-sp21.netlify.app), [Fall
-    2020](https://sta210-fa20.netlify.app), \newline \hspace*{\fill}
+    2020](https://sta210-fa20.netlify.app), \newline \hspace\*{\\fill}
     \href{https://www2.stat.duke.edu/courses/Spring20/sta210.001/}{Spring 2020},
     [Fall 2019](https://www2.stat.duke.edu/courses/Fall19/sta210.001/),
     [Spring
@@ -74,51 +74,20 @@ Duke University, Department of Statistical Science
     [Fall 2018](https://www2.stat.duke.edu/courses/Fall18/sta210.001/)
     \hfill \vskip.8\baselineskip
 
-3.  STA 310: Generalized Linear Models \hfill
-    \href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
-
-*University of Virginia*
-
-4.  STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall
-    2017, Spring 2017,
-
-\hfill Fall 2016, Spring 2016, Fall 2015, Summer 2015
-\vskip.8\baselineskip
-
-5.  STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017,
-    Summer 2016 \vskip.9\baselineskip
-
-*Virginia Commonwealth University*
-
-6.  SLWK 609: Foundations of Research in Social Work Practice \hfill
-    Spring 2017 \vskip.9\baselineskip
-
-*University of Tennessee-Knoxville*
-
-7.  STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
-
-\vskip.8\baselineskip
+-   STA 310: Generalized Linear Models \hfill
+    [Spring 2024](https://sta310-sp24.netlify.app), [Spring 2022](https://sta310-sp24.netlify.app)
+    \hfill \vskip.9\baselineskip
 
 *Workshops*
 
-8.  [Designing the Data Science
+-   [Designing the Data Science
     Classroom](https://rstudio-conf-2022.github.io/teach-ds/).
     rstudio::conf(2022). National Harbor, MD. July 2022.
 
-9.  [STATPrep
-    Workshop](http://www.statprep.org/Summer_2022_workshop.html). Ft.
-    Myers, FL. May 2022.
-
-10. Introduction to R. ENAR Fostering Diversity in Biostatistics
-    Workshop. March 2022.
-
-11. Strengthening Conceptual Understanding in Introductory Statistics:
+-   Strengthening Conceptual Understanding in Introductory Statistics:
     Incorporating active and inclusive teaching and learning strategies
     for in-person and virtual settings (6 session series). UT Austin
     Dana Center. June - July 2021.
-
-12. Introduction to R. ENAR Fostering Diversity in Biostatistics
-    Workshop. March 2021.
 
 # Publications
 
@@ -179,25 +148,6 @@ Duke University, Department of Statistical Science
 
 <!-- (\* indicates undergraduate student) -->
 
-## Publications: Forthcoming Book Chapters
-
-(\* indicates undergraduate student)
-
-9.  **Tackett, M.**, Roith, J. *Teaching Probability and Probability
-    Distributions.*
-
-10. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community
-    amid Covid-19: A Mixed-Methods Study of Undergraduate Students in
-    Introductory Mathematics and Statistics.*
-
-## Publications: In Review
-
-(\* indicates undergraduate student)
-
-11. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
-    B., **Tackett, M.** *Effect of Mental Illness, Substance Abuse and
-    Cash Bail Reform on Rearrest for Low-Level Offenses.*
-
 ## Publications: Other
 
 12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
@@ -245,8 +195,6 @@ Duke University, Department of Statistical Science
 <!--# Shiny Ed -->
 
 # Invited Talks
-
-1. Tackett, M. *More than methods: Preparing students for data-driven work outside the classroom.* CANSSI Applied Research Education seminar. Toronto, ON. April 2024. 
 
 1.  Tackett, M. *Three principles for modernizing an undergraduate
     regression analysis course.* Teaching Statistics Section seminar.
@@ -330,69 +278,7 @@ Duke University, Department of Statistical Science
 23. Tackett, M. *Women in Industry*. Duke University Business Oriented
     Women Meeting. Durham, NC. September 2018. (Panelist)
 
-# Contributed Talks & Posters
-
-1.  Tackett, M., *Using Quarto for Making and Organizing Teaching
-    Materials*. JSM. Toronto, ON. August 2023.
-
-2.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
-    Introductory Math and Statistics Courses*. eCOTS. Online. May 2022.
-
-3.  Tackett, M., Çetinkaya-Rundel, M., Presman, R. *Modernizing the
-    undergraduate regression analysis course*. eCOTS. Online. May 2022.
-
-4.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
-    Introductory Math and Statistics Courses*. Pandemic Pedagogy
-    Research Symposium. Online. May 2022.
-
-5.  Tackett, M. *Version control as a learning objective in statistics
-    and data science courses*. 63rd World Statistics Congress. Online.
-    July 2021.
-
-6.  Horton, N., Tackett, M. *GitHub and intro stats: technology to
-    support group and project-based learning*. USCOTS. Online.
-    July 2021. (Poster)
-
-7.  Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive
-    Statistics Apps: A look at the project and student experience*.
-    USCOTS. Online. July 2021. (Poster)
-
-8.  Tackett, M. *You don't have to be an expert to create something
-    meaningful.* Women in Statistics and Data Science Conference.
-    Online. October 2020.
-
-9.  Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
-    Learning Experiences in a Regression Analysis Course*. Women in
-    Statistics and Data Science Conference. Bellevue, WA. October 2019.
-
-10. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
-    Learning Experiences in a Regression Analysis Course*. Joint
-    Statistical Meeting. Denver, CO. July 2019.
-
-11. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
-    Learning Experiences in a Regression Analysis Course*. United States
-    Conference on Teaching Statistics. State College, PA. May 2019.
-    (Poster)
-
-12. Tackett, M. *Teaching Large Classes in Statistics Using Active
-    Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville,
-    VA. May 2016. (Panelist)
-
-13. Tackett, M. *Clustering High-Dimensional Categorical Data Using a
-    Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows
-    Poster Session. Charlottesville, VA. April 2017. (Poster)
-
-14. Tackett, M. *Understanding Variability Between Groups of Sequences
-    Using a Bayesian Object-Oriented Data Model*. Joint Statistical
-    Meeting. Seattle, WA. August 2016.
-
-15. Tackett, M. *Understanding Object-Oriented Data Using Optimal
-    Matching*. Quantitative Collaborative Fellows Poster Session.
-    Charlottesville, VA. April 2015. (Poster)
-
-# Grants, Fellowships, & Awards
-
-[Bass Connections Leadership Award](https://bassconnections.duke.edu/about/news/deep-commitments-students-and-community-drive-winners-leadership-award), 2024.
+# Grants & Fellowships
 
 National Science Foundation. *Achieving Critical Transformations in
 Undergraduate Programs in Mathematics (ACT UP MATH)*, 2022 - 2025, Role:
@@ -445,14 +331,14 @@ Committee, 2020 - 2021
 
 ## Editorial service
 
-*Journal of Statistics and Data Science Education*, Associate Editor, 2020 - present
+*Journal of Statistics Education*, Associate Editor, 2020 - present
 
 *CHANCE* Magazine Statistics Education Column: Taking a Chance in the
 Classroom, Editor, 2019 - present
 
-*Journal of Data Science Special Issue: Symposium on Data Science and Statistics*, Associate Editor, 2022
-
-Journal Reviews: *Journal of Statistics and Data Science Education*,  *Technology Innovations in Statistics Education*, *Harvard Data Science Review*, *Criminology*, *Criminal Justice, Law & Society*
+Journal Reviews: *Journal of Statistics Education; Criminology*,
+*Criminal Justice, Law & Society*, *Technology Innovations in Statistics
+Education*
 
 Book Reviews: Chapman & Hall
 
@@ -545,21 +431,14 @@ Duke Datathon Judge, 2018 & 2021
 \end{itemize}
 \end{multicols}
 ```
-
 ## Undergraduate thesis advisees
 
-```{=tex}
-\begin{itemize}
-\item Shelby Tisdale, 2024-2025
-\item Naomi Rubin, 2022-2023
-\end{itemize}
-```
+-   Naomi Rubin, 2023
 
 ## Undergraduate thesis committee
 
 ```{=tex}
 \begin{itemize}
-\item Benjamin Thorpe, 2024
 \item Malavi Ravindran, 2021
 \item Michael Model, 2020
 \item Daniel Levine, 2019
@@ -567,7 +446,6 @@ Duke Datathon Judge, 2018 & 2021
 \item Srini Sunil, 2019
 \end{itemize}
 ```
-
 ## Doctoral thesis committee
 
 -   Meng Xie, 2021
@@ -576,14 +454,12 @@ Duke Datathon Judge, 2018 & 2021
 
 ```{=tex}
 \begin{itemize}
-\item Nathan Yang, 2024
 \item Joe Choo, 2022
 \item Larry Chen, 2022
 \item Steven Herrera, 2020
 \item Caroline Levenson, 2019
 \end{itemize}
 ```
-
 ## Other supervised research
 
 ```{=tex}
@@ -591,10 +467,6 @@ Duke Datathon Judge, 2018 & 2021
 \begin{itemize}
 \item Garrett Allen, 2022
 \item Martin Olarte, 2022
-\item Angela Kan, 2022
-\item Allison Li, 2022
-\item Aarushi Verma, 2022
-\item Jenny Yang, 2022
 \item Sean Li, 2021
 \item Emmanuel Mokel, 2021
 \item Shari Tian, 2021
@@ -605,22 +477,6 @@ Duke Datathon Judge, 2018 & 2021
 \end{itemize}
 \end{multicols}
 ```
-# Professional Experience
-
-**Data Science Academy Mentor** \hfill 2022\
-*Posit*\
-Led cohort of industry professionals through 10-session curriculum to
-learn R programming skills for data science \vspace{8pt}
-
-**Senior Statistician** \hfill 2013\
-*Capital One*, Richmond, VA\
-Developed the first generation of statistical models to perform deposit
-forecasts for Capital One Bank \vspace{8pt}
-
-**Statistician** \hfill 2011 - 2012\
-*Capital One*, Richmond, VA\
-Designed experiments for mail marketing campaigns in Capital One Bank
-
 # Professional Affiliations
 
 Mathematical Association of America, 2022 - present

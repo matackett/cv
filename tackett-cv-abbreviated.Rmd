@@ -1,0 +1,164 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+    extra_dependencies: 
+      multicol: null
+geometry: margin=.7in
+title: "CV"
+author: Maria Tackett
+
+fontawesome: yes
+jobtitle: "Assistant Professor of the Practice"
+#address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708 
+address: Department of Statistical Science, Duke University
+email: maria.tackett@duke.edu
+github: matackett
+#phone: "919-808-2012"
+#updated: no
+
+keywords: R Markdown, academic CV, template
+
+#fontfamily: mathpazo
+fontfamilyoptions: sfdefault
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Education
+
+**Ph.D. in Statistics** \hfill 2018 \linebreak
+University of Virginia \hfill
+
+<!--Dissertation: *Creating Fingerprint Databases and a Bayesian Approach to Quantify Dependencies in Evidence* \linebreak
+Advisor: Dan Spitzner -->
+\vspace{5pt}
+
+**M.S. in Statistics** \hfill 2010 \linebreak
+University of Tennessee-Knoxville \hfill
+\vspace{5pt}
+
+
+**B.S. in Mathematics** \hfill 2009 \linebreak
+University of Tennessee-Knoxville \hfill
+
+
+# Academic Appointments
+
+**Assistant Professor of the Practice** \hfill 2018 - present \
+Duke University, Department of Statistical Science
+
+# Teaching Experience
+
+*Duke University*
+
+- STA 199: Intro to Data Science \hfill Fall 2021, Fall 2020, Fall 2019, Spring 2019
+\vskip.8\baselineskip
+
+- STA 210: Regression Analysis \hfill Fall 2021, Spring 2021, Fall 2020
+
+\hfill Spring 2020, Fall 2019, Spring 2019, Fall 2018
+\vskip.8\baselineskip
+
+<!--
+*University of Virginia*
+
+- STAT 1100: An Introduction to Statistics \hfill Spring 2018, Fall 2017, Spring 2017, 
+
+\hfill Fall 2016, Spring 2016, Fall 2015, Summer 2015
+\vskip.8\baselineskip
+
+- STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017, Summer 2016
+\vskip.8\baselineskip
+-->
+
+<!--
+*Virginia Commonwealth University*
+
+- SLWK 609: Foundations of Research in Social Work Practice \hfill Spring 2017
+\vskip.8\baselineskip
+
+*University of Tennessee-Knoxville*
+
+- STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010
+
+\vskip.8\baselineskip
+-->
+
+<!--
+*Workshops* 
+
+- Strengthening Conceptual Understanding in Introductory Statistics: Incorporating active and inclusive teaching and learning strategies for in-person and virtual settings (6 session series). UT Austin Dana Center. June - July 2021. 
+
+- Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2021. 
+-->
+
+# Invited Talks
+
+1. *What a tap class has taught me about teaching statistics*. United States Conference on Teaching Statistics. Online. June 2021.
+
+1. *Undergraduate research in statistics.* $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
+
+1. *Making remote lectures active and inclusive in a large undergraduate course*. Teaching and Learning Statistics Online Conference. Online (Royal Statistical Society (RSS) Teaching Statistics Special Interest Group). July 2020.
+
+1. *You don't have to be an expert to create something meaningful*. rstudio::conf. San Francisco, CA. January 2020.
+
+1. *Beyond the Buzzword: A Look at Data Science in Practice and How You Can Be a Part of It*. SAMSI Diversity in Data Science and Machine Learning Conference. Washington, DC. October 2019. (Plenary talk)
+
+# Grants & Fellowships
+
+Duke Learning Innovation's Carry the Innovation Forward Fund. *Building Community and Self-Efficacy Through Inclusive Teaching Practices*, 2021 - 2023. $4,616.
+
+Duke Trinity Research Enhancement Fund. *Toward a More Sustainable Culture of Undergraduate Research in Statistical Science*, 2021 - 2022, $11,000.
+
+Duke Bass Connections - Brain & Society. *Mental Health and the Justice System in Durham*, 2020 - 2023, Role: Co-PI, $14,200 each academic year.
+
+Duke Data+. *Mental Health and the Justice System in Durham*. 2020 - 2022, Role: Co-PI, $17,500 each year.
+
+National Science Foundation. *Collaborative Research: Accelerating the Pace of Research and Implementation of Writing-to-Learn Pedagogies Across STEM Disciplines*, 2018 - 2020, Role: Key Faculty. 
+
+# Service to Profession
+
+Symposium on Statistics & Data Science Program Committee, Poster Chair, 2021 - 2022
+
+UT-Austin Dana Center Statistics Curriculum Advisory & Authoring Group, 2020 - 2021
+
+Journal of Statistics Education, Associate Editor, 2020 - present
+
+ASA Section on Statistics and Data Science Education, Communications Officer, 2020 - present 
+
+Chance Magazine Statistics Education Column: Taking a Chance in the Classroom, Editor, 2019 - present
+
+# University & Departmental Service
+
+Women in Research House Course, Faculty Advisor, 2021
+
+Library Council, 2021 - present
+
+Statistical Science Anti-Racism Committee, 2021 
+
+Trinity Arts & Sciences Committee on Curriculum, 2019 - present
+
+ASA DataFest\@Duke Organizer, 2019 - present
+
+Duke SPIRE Mentor, 2019 - present
+
+# Publications
+
+## Peer Reviewed Papers
+
+1. Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W., Sullivan, A. J., & Tackett, M. (2020). *Implementing version control with Git and GitHub as a learning objective in statistics and data science courses*. Journal of Statistics Education, 1-35.
+
+1. Dotson, M., Alvarez, V., Tackett, M., Asturias, G., Leon, I., Ramanujam, M. (2020) *Design Thinking-Based STEM Learning: Preliminary Results on Achieving Scale and Sustainability Through the IGNITE Model*. Frontiers in Education, 5: 14-24.
+
+## Other
+
+1. Tackett, M., Burbank, K., Canner, J., & Çetinkaya-Rundel, M. (2021). Teaching Courses Focused on Social Good. *Chance*, 34(3), 69-72.
+
+1. Tackett, M. (2021, January 14). [*A flipped classroom sparks online engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694). Duke Covid Diaries Series. 
+
+1. Tackett, M., & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the Classroom. *CHANCE*, 33(3), 63-66.
+
+1. Çetinkaya-Rundel, M., & Tackett, M. (2020). From drab to fab: Teaching visualization via incremental improvements. *CHANCE*, 33(2), 31-41.
+

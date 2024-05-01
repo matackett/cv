@@ -53,7 +53,7 @@ Duke University, Department of Statistical Science
 
 *Duke University*
 
-- STA 199: Introduction to Data Science & Statistical Thinking \hfill
+-   STA 199: Introduction to Data Science & Statistical Thinking \hfill
     \href{sta199-fa21-003.netlify.app}{Fall 2021}, [Fall
     2020](https://sta199-fa20-002.netlify.app), [Fall
     2019](https://www2.stat.duke.edu/courses/Fall19/sta199.001/),
@@ -61,7 +61,7 @@ Duke University, Department of Statistical Science
     2019](https://www2.stat.duke.edu/courses/Spring19/sta199.001/)
     \vskip.8\baselineskip
 
-- STA 210: Regression Analysis
+-   STA 210: Regression Analysis
     \hfill \href{https://sta210-fa23.netlify.app}{Fall 2023},
     \href{https://sta210-fa22.netlify.app}{Fall 2022}, [Fall
     2021](https://sta210-fa21.netlify.app), [Spring
@@ -74,33 +74,32 @@ Duke University, Department of Statistical Science
     [Fall 2018](https://www2.stat.duke.edu/courses/Fall18/sta210.001/)
     \hfill \vskip.8\baselineskip
 
-- STA 310: Generalized Linear Models \hfill
-    \href{https://sta310-sp24.netlify.app}{Spring 2024}, \href{https://sta310-sp24.netlify.app}{Spring 2022}\vskip.9\baselineskip
-
+-   STA 310: Generalized Linear Models \hfill
+    \href{https://sta310-sp24.netlify.app}{Spring 2024},
+    \href{https://sta310-sp24.netlify.app}{Spring 2022}\vskip.9\baselineskip
 
 \vskip.8\baselineskip
 
-
 # Publications (selected)
 
-1. **Tackett, M.** (2023). Three Principles for Modernizing an
+1.  **Tackett, M.** (2023). Three Principles for Modernizing an
     Undergraduate Regression Analysis Course. *Journal of Statistics and
     Data Science Education*, 31(2), 116-127.
     [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
 
-2. Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to
+2.  Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to
     New Opportunities for Undergraduate Statistics Courses: Team
     collaborations, Designing Research Questions, and Data Ethics.
     *Teaching Statistics*, 45(S1), S5-S21.
     [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
 
-3. **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of the
+3.  **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of the
     short-form classroom community scale for undergraduate mathematics
     and statistics students. *Journal of University Teaching & Learning
     Practice*, 20(1).
     [doi.org/10.53761/1.20.01.08](https://doi.org/10.53761/1.20.01.08)
 
-4. Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
+4.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
     Sullivan, A. J., **Tackett, M**. (2020). Implementing version
     control with Git and GitHub as a learning objective in statistics
     and data science courses. *Journal of Statistics Education*, 29(1),
@@ -119,37 +118,39 @@ Duke University, Department of Statistical Science
 
 # Invited Talks (selected)
 
-1. Tackett, M. *More than methods: Preparing students for data-driven work outside the classroom.* CANSSI Applied Research Education seminar. Toronto, ON. April 2024. 
+1.  Tackett, M. *More than methods: Preparing students for data-driven
+    work outside the classroom.* CANSSI Applied Research Education
+    seminar. Toronto, ON. April 2024.
 
-1. Tackett, M. *Three principles for modernizing an undergraduate
+2.  Tackett, M. *Three principles for modernizing an undergraduate
     regression analysis course.* Teaching Statistics Section seminar.
     Royal Statistical Society. Online. February 2024.
 
-2. Tackett, M. *Communication as a learning objective in an
+3.  Tackett, M. *Communication as a learning objective in an
     intermediate statistics course.* Teaching and Evaluating Data
     Communication At Scale. Institute for Mathematical and Statistical
     Innovation. Chicago, IL. January 2024.
 
-3. Tackett, M. *Teaching intro data science.* Preparing to Teach
+4.  Tackett, M. *Teaching intro data science.* Preparing to Teach
     Workshop. George Mason University. August 2022.
 
-4.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
+5.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
     undergraduate statistics courses*. Toronto Workshop on
     Reproducibility. Online. February 2022.
 
-5. Tackett, M. *Making remote lectures active and inclusive in a large
+6.  Tackett, M. *Making remote lectures active and inclusive in a large
     undergraduate course*. Teaching Statistics Teaching and Learning
     Statistics Online. Online (Royal Statistical Society Teaching
     Statistics Special Interest Group). July 2020.
-    
-6. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
+
+7.  Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
     Durham, NC. November 2019. (Keynote)
 
-7. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
+8.  Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
     and How You Can Be a Part of It*. SAMSI Diversity in Data Science
     and Machine Learning Conference. Washington, DC. October 2019.
     (Plenary talk)
-    
+
 # Grants & Fellowships (selected)
 
 National Science Foundation. *Achieving Critical Transformations in
@@ -177,4 +178,3 @@ Education, 2022 - present
 
 Bill & Melinda Gates Foundation Statistics Courseware Advisory Group,
 2022 - present
-
