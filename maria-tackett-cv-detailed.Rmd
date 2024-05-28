@@ -125,7 +125,7 @@ Duke University, Department of Statistical Science
     [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
 
 3.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
-    B., Ralph, M.\*, Luong, H.\* (2023). Reliance on Community Emergency
+    B., Ralph, M.\*,Huynh, L.\* (2023). Reliance on Community Emergency
     Departments by People Ever Detained in Jail: Retrospective
     Cross-Sectional Study. *Journal of Correctional Health Care.*
     [doi.org/10.1089/jchc.22.02.0011](https://doi.org/10.1089/jchc.22.02.0011)
@@ -166,44 +166,73 @@ Duke University, Department of Statistical Science
 
 <!-- (\* indicates undergraduate student) -->
 
+## Publications: Forthcoming Book Chapters
+
+(\* indicates undergraduate student)
+
+9.  **Tackett, M.**, Roith, J. *Teaching Probability and Probability
+    Distributions.*
+
+10. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community
+    amid Covid-19: A Mixed-Methods Study of Undergraduate Students in
+    Introductory Mathematics and Statistics.*
+
+## Publications: In Review
+
+(\* indicates undergraduate student)
+
+11. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
+    B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and
+    Cash Bail Reform on Rearrest for Low-Level Offenses.
+12. Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E.
+    Evaluating Student Perceptions of Assessment in Introductory
+    Quantitative Studies. Submitted to the *International Journal of
+    STEM Education*.
+13. **Tackett**, M., Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
+    Schramm-Sapyta, N.\* A longitudinal study of healthcare utilization
+    and recidivism in a large southern county. Submitted to *Criminal
+    Justice and Behavior*.
+
+<!--# Add Michele's paper?-->
+
 ## Publications: Other
 
-12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
+14. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
     Recreating Data Visualizations of W.E.B. Du Bois. *CHANCE*, 36(1),
     40-47.
     [doi.org/10.1080/09332480.2023.2179279](https://doi.org/10.1080/09332480.2023.2179279 "https://doi.org/10.1080/09332480.2023.2179279")
 
-13. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
+15. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
     20, 5.
 
-14. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+16. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
     (2021). Teaching Courses Focused on Social Good. *CHANCE*, 34(3),
     69-72.
     [doi.org/10.1080/09332480.2021.1979821](https://doi.org/10.1080/09332480.2021.1979821 "https://doi.org/10.1080/09332480.2021.1979821")
 
-15. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+17. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
     online
     engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
     Duke Covid Diaries Series.
 
-16. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+18. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
     Classroom. *CHANCE*, 33(3), 63-66.
     [doi.org/10.1080/09332480.2020.1820257](https://doi.org/10.1080/09332480.2020.1820257 "https://doi.org/10.1080/09332480.2020.1820257")
 
-17. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+19. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
     Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
     Duke Musings Blog.
 
-18. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+20. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
     Teaching visualization via incremental improvements. *CHANCE*,
     33(2), 31-41.
     [doi.org/10.1080/09332480.2020.1754074](https://doi.org/10.1080/09332480.2020.1754074 "https://doi.org/10.1080/09332480.2020.1754074")
 
-19. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+21. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
     Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
     *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
 
-20. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+22. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
     of Forensic Statistics*, Chapman & Hall.
 
 <!--# Publications: In Preparation -->
@@ -214,90 +243,94 @@ Duke University, Department of Statistical Science
 
 # Invited Talks
 
-1.  Tackett, M. *More than methods: Preparing students for data-driven
+1.  Tackett, M. *The data just got real: Preparing students to use
+    statistics beyond the classroom*. Electronic Conference on Teaching
+    Statistics (eCOTS). Online. June 2024. (Keynote).
+
+2.  Tackett, M. *More than methods: Preparing students for data-driven
     work outside the classroom.* CANSSI Applied Research Education
     seminar. Toronto, ON. April 2024.
 
-2.  Tackett, M. *Three principles for modernizing an undergraduate
+3.  Tackett, M. *Three principles for modernizing an undergraduate
     regression analysis course.* Teaching Statistics Section seminar.
     Royal Statistical Society. Online. February 2024.
 
-3.  Tackett, M. *Communication as a learning objective in an
+4.  Tackett, M. *Communication as a learning objective in an
     intermediate statistics course.* Teaching and Evaluating Data
     Communication At Scale. Institute for Mathematical and Statistical
     Innovation. Chicago, IL. January 2024.
 
-4.  Tackett, M. *Teaching intro data science.* Preparing to Teach
+5.  Tackett, M. *Teaching intro data science.* Preparing to Teach
     Workshop. George Mason University. August 2022.
 
-5.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
+6.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
     undergraduate statistics courses*. Toronto Workshop on
     Reproducibility. Online. February 2022.
 
-6.  Tackett, M. *Mentoring Undergraduate Research: Creating productive
+7.  Tackett, M. *Mentoring Undergraduate Research: Creating productive
     experiences and sharing student work*. ASA Mentoring Undergraduate
     Research Panel. Online. February 2022.
 
-7.  Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
+8.  Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
     Conference. Online. October 2021. (Panelist)
 
-8.  Tackett, M. *What a tap class has taught me about teaching
+9.  Tackett, M. *What a tap class has taught me about teaching
     statistics*. USCOTS. Online. June 2021.
 
-9.  Tackett, M. *Building Websites in RStudio*. RLadies Baltimore.
+10. Tackett, M. *Building Websites in RStudio*. RLadies Baltimore.
     Online. April 2021.
 
-10. Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online.
+11. Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online.
     March 2021.
 
-11. Tackett, M. *Telling stories with data.* Abraham Lincoln High
+12. Tackett, M. *Telling stories with data.* Abraham Lincoln High
     School. Online (Philadelphia, PA). January 2021.
 
-12. Tackett, M. *Undergraduate research in statistics.*
+13. Tackett, M. *Undergraduate research in statistics.*
     $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-13. Tackett, M. *Thinking about lectures in an intro data science
+14. Tackett, M. *Thinking about lectures in an intro data science
     course*. Toronto Data Workshop. Online (University of Toronto
     Department of Statistical Sciences). December 2020.
 
-14. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks
+15. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks
     Conference. Online. October 2020. (Panelist)
 
-15. Tackett, M. *Opportunities in Statistics and Data Science: Lightning
+16. Tackett, M. *Opportunities in Statistics and Data Science: Lightning
     Talks (Academia, Government, & NonProfit)*. StatFest. Online.
     September 2020. (Panelist)
 
-16. Tackett, M. *Who's Underrepresented? Modeling Undercounts in the
+17. Tackett, M. *Who's Underrepresented? Modeling Undercounts in the
     U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-17. Tackett, M. *Making remote lectures active and inclusive in a large
+18. Tackett, M. *Making remote lectures active and inclusive in a large
     undergraduate course*. Teaching Statistics Teaching and Learning
     Statistics Online. Online (Royal Statistical Society Teaching
     Statistics Special Interest Group). July 2020.
 
-18. Tackett, M. *You don't have to be an expert to create something
+19. Tackett, M. *You don't have to be an expert to create something
     meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
-19. Tackett, M. *Reproducible Research - Education and Practice*. Duke
+20. Tackett, M. *Reproducible Research - Education and Practice*. Duke
     Center for Data and Visualization Sciences. Durham, NC.
     November 2019. (Panelist)
 
-20. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
+21. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
     Durham, NC. November 2019. (Keynote)
 
-21. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at
+22. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at
     Duke University: What if? Explaining the Past/Predicting the Future.
     Durham, NC. November 2019.
 
-22. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
+23. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
     and How You Can Be a Part of It*. SAMSI Diversity in Data Science
     and Machine Learning Conference. Washington, DC. October 2019.
     (Plenary talk)
 
-23. Tackett, M. *Women in Machine Learning and Data Science*. Duke
+24. Tackett, M. *Women in Machine Learning and Data Science*. Duke
     Machine Learning Day. Durham, NC. March 2019. (Panelist)
 
-24. Tackett, M. *Women in Industry*. Duke University Business Oriented
+25. Tackett, M. *Women in Industry*. Duke University Business Oriented
     Women Meeting. Durham, NC. September 2018. (Panelist)
 
 # Contributed Talks & Posters
