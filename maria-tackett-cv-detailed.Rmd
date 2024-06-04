@@ -223,23 +223,29 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-20. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
-    B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and
-    Cash Bail Reform on Rearrest for Low-Level Offenses.
-21. Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E.
+20. Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E.
     Evaluating Student Perceptions of Assessment in Introductory
     Quantitative Studies. Submitted to the *International Journal of
     STEM Education*.
-22. **Tackett**, M., Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
+21. **Tackett**, M., Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
     Schramm-Sapyta, N.\* A longitudinal study of healthcare utilization
     and recidivism in a large southern county. Submitted to *Criminal
     Justice and Behavior*.
+22. Easter, M., Schramm-Sapyta, N., Swartz, M., **Tackett, M.**,
+    Greenblatt, L. Primary care need and engagement by people with
+    criminal legal involvement: Descriptive and associational analysis
+    using retrospective data on the entire population ever detained in
+    one southeastern U.S. county jail 2014-2020. Submitted to *PLOS
+    ONE*.
 
-## Publications: In preparation 
+## Publications: In Preparation
 
 1.  **Tackett, M.** *Introduction to Regression Analysis: A Data Science
     Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC
     Press).
+2.  Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
+    B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and
+    Cash Bail Reform on Rearrest for Low-Level Offenses.
 
 <!--# Publications: In Preparation -->
 

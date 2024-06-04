@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.28)  31 MAY 2024 16:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.28)  4 JUN 2024 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -626,21 +626,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `maria-tackett-cv-detailed.out' has not changed.
-(rerunfilecheck)             Checksum: FF472A6B5FF5C5A2F49D5931195ACB5A;4828.
+(rerunfilecheck)             Checksum: 90B88FAD1FF74B7D1CCF9B5FD299E6A2;4828.
  ) 
 Here is how much of TeX's memory you used:
- 15763 strings out of 475892
- 246362 string characters out of 5787593
- 1940904 words of memory out of 5000000
+ 15764 strings out of 475892
+ 246369 string characters out of 5787593
+ 1941904 words of memory out of 5000000
  37490 multiletter control sequences out of 15000+600000
  610665 words of font info for 148 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,12n,80p,1214b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,80p,1214b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv-detailed.pdf (9 pages, 210973 bytes).
+Output written on maria-tackett-cv-detailed.pdf (9 pages, 211533 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
- 313 compressed objects within 4 object streams
- 113 named destinations out of 1000 (max. 500000)
+ 344 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 114 named destinations out of 1000 (max. 500000)
  26841 words of extra memory for PDF output out of 29859 (max. 10000000)
 
