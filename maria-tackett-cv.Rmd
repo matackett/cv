@@ -61,7 +61,7 @@ Duke University, Department of Statistical Science
 
 \item STA 221: Regression Analysis: Theory and Applications \hfill Fall 2024
 
-\item STA 310: Generalized Linear Models \hfill\href{https://sta310-sp24.netlify.app}{Spring 2024}\href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
+\item STA 310: Generalized Linear Models \hfill\href{https://sta310-sp24.netlify.app}{Spring 2024}, \href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
 \end{enumerate}
 ```
 *University of Virginia*
@@ -168,42 +168,42 @@ Duke University, Department of Statistical Science
 
 ## Publications: Other
 
-12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
+9.  **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
     Recreating Data Visualizations of W.E.B. Du Bois. *CHANCE*, 36(1),
     40-47.
     [doi.org/10.1080/09332480.2023.2179279](https://doi.org/10.1080/09332480.2023.2179279 "https://doi.org/10.1080/09332480.2023.2179279")
 
-13. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
+10. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
     20, 5.
 
-14. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+11. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
     (2021). Teaching Courses Focused on Social Good. *CHANCE*, 34(3),
     69-72.
     [doi.org/10.1080/09332480.2021.1979821](https://doi.org/10.1080/09332480.2021.1979821 "https://doi.org/10.1080/09332480.2021.1979821")
 
-15. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+12. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
     online
     engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
     Duke Covid Diaries Series.
 
-16. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+13. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
     Classroom. *CHANCE*, 33(3), 63-66.
     [doi.org/10.1080/09332480.2020.1820257](https://doi.org/10.1080/09332480.2020.1820257 "https://doi.org/10.1080/09332480.2020.1820257")
 
-17. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+14. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
     Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
     Duke Musings Blog.
 
-18. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+15. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
     Teaching visualization via incremental improvements. *CHANCE*,
     33(2), 31-41.
     [doi.org/10.1080/09332480.2020.1754074](https://doi.org/10.1080/09332480.2020.1754074 "https://doi.org/10.1080/09332480.2020.1754074")
 
-19. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+16. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
     Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
     *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
 
-20. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+17. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
     of Forensic Statistics*, Chapman & Hall.
 
 <!--# Publications: In Preparation -->
