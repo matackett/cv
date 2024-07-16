@@ -347,6 +347,8 @@ Duke University, Department of Statistical Science
 
 # Contributed Talks & Posters
 
+1. Viel, S., Tackett, M. *Classroom Community in Introduction Undergraduate Mathematics and Statistics.* The Converging Challenges for Inclusive Education. Online. July 2024. 
+
 1.  Tackett, M., *Using Quarto for Making and Organizing Teaching
     Materials*. JSM. Toronto, ON. August 2023.
 
