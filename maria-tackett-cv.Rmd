@@ -95,16 +95,19 @@ Duke University, Department of Statistical Science
 ```{=tex}
 \begin{enumerate}
 \setcounter{enumi}{9}
+
+\item \href{https://drive.google.com/drive/folders/1w9LrbKJLt_GhFDLLwbeBgh1aASK-AXKm}{Introduction to R}. ASA/AMATYC Introduction to Data Science Technology Tools. Online. July 2024.
+
 \item \href{https://rstudio-conf-2022.github.io/teach-ds/}{Designing the Data Science Classroom}. rstudio::conf(2022). National Harbor, MD. July 2022.
 
 \item \href{http://www.statprep.org/Summer_2022_workshop.html}{STATPrep Workshop}. Ft. Myers, FL. May 2022.
 
-\item Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2022.
+\item Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. Online. March 2022.
 
 \item Strengthening Conceptual Understanding in Introductory Statistics: Incorporating active and inclusive teaching and learning strategies for in-person and virtual settings (6 session series). UT Austin Dana Center. June - July 2021.
 
 \item Introduction to R. ENAR Fostering Diversity in Biostatistics
-    Workshop. March 2021.
+    Workshop. Online. March 2021.
 \end{enumerate}
 ```
 # Publications

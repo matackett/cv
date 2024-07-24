@@ -95,16 +95,19 @@ Duke University, Department of Statistical Science
 ```{=tex}
 \begin{enumerate}
 \setcounter{enumi}{9}
+
+\item \href{https://drive.google.com/drive/folders/1w9LrbKJLt_GhFDLLwbeBgh1aASK-AXKm}{Introduction to R}. ASA/AMATYC Introduction to Data Science Technology Tools. Online. July 2024.
+
 \item \href{https://rstudio-conf-2022.github.io/teach-ds/}{Designing the Data Science Classroom}. rstudio::conf(2022). National Harbor, MD. July 2022.
 
 \item \href{http://www.statprep.org/Summer_2022_workshop.html}{STATPrep Workshop}. Ft. Myers, FL. May 2022.
 
-\item Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. March 2022.
+\item Introduction to R. ENAR Fostering Diversity in Biostatistics Workshop. Online. March 2022.
 
 \item Strengthening Conceptual Understanding in Introductory Statistics: Incorporating active and inclusive teaching and learning strategies for in-person and virtual settings (6 session series). UT Austin Dana Center. June - July 2021.
 
 \item Introduction to R. ENAR Fostering Diversity in Biostatistics
-    Workshop. March 2021.
+    Workshop. Online. March 2021.
 \end{enumerate}
 ```
 # Publications
@@ -347,63 +350,65 @@ Duke University, Department of Statistical Science
 
 # Contributed Talks & Posters
 
-1. Viel, S., Tackett, M. *Classroom Community in Introduction Undergraduate Mathematics and Statistics.* The Converging Challenges for Inclusive Education. Online. July 2024. 
+1.  Viel, S., Tackett, M. *Classroom Community in Introduction
+    Undergraduate Mathematics and Statistics.* The Converging Challenges
+    for Inclusive Education. Online. July 2024.
 
-1.  Tackett, M., *Using Quarto for Making and Organizing Teaching
+2.  Tackett, M., *Using Quarto for Making and Organizing Teaching
     Materials*. JSM. Toronto, ON. August 2023.
 
-2.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
+3.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
     Introductory Math and Statistics Courses*. eCOTS. Online. May 2022.
 
-3.  Tackett, M., Çetinkaya-Rundel, M., Presman, R. *Modernizing the
+4.  Tackett, M., Çetinkaya-Rundel, M., Presman, R. *Modernizing the
     undergraduate regression analysis course*. eCOTS. Online. May 2022.
 
-4.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
+5.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
     Introductory Math and Statistics Courses*. Pandemic Pedagogy
     Research Symposium. Online. May 2022.
 
-5.  Tackett, M. *Version control as a learning objective in statistics
+6.  Tackett, M. *Version control as a learning objective in statistics
     and data science courses*. 63rd World Statistics Congress. Online.
     July 2021.
 
-6.  Horton, N., Tackett, M. *GitHub and intro stats: technology to
+7.  Horton, N., Tackett, M. *GitHub and intro stats: technology to
     support group and project-based learning*. USCOTS. Online.
     July 2021. (Poster)
 
-7.  Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive
+8.  Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive
     Statistics Apps: A look at the project and student experience*.
     USCOTS. Online. July 2021. (Poster)
 
-8.  Tackett, M. *You don't have to be an expert to create something
+9.  Tackett, M. *You don't have to be an expert to create something
     meaningful.* Women in Statistics and Data Science Conference.
     Online. October 2020.
 
-9.  Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+10. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
     Learning Experiences in a Regression Analysis Course*. Women in
     Statistics and Data Science Conference. Bellevue, WA. October 2019.
 
-10. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+11. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
     Learning Experiences in a Regression Analysis Course*. Joint
     Statistical Meeting. Denver, CO. July 2019.
 
-11. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+12. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
     Learning Experiences in a Regression Analysis Course*. United States
     Conference on Teaching Statistics. State College, PA. May 2019.
     (Poster)
 
-12. Tackett, M. *Teaching Large Classes in Statistics Using Active
+13. Tackett, M. *Teaching Large Classes in Statistics Using Active
     Learning Spaces*. Innovation in Pedagogy Summit. Charlottesville,
     VA. May 2016. (Panelist)
 
-13. Tackett, M. *Clustering High-Dimensional Categorical Data Using a
+14. Tackett, M. *Clustering High-Dimensional Categorical Data Using a
     Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows
     Poster Session. Charlottesville, VA. April 2017. (Poster)
 
-14. Tackett, M. *Understanding Variability Between Groups of Sequences
+15. Tackett, M. *Understanding Variability Between Groups of Sequences
     Using a Bayesian Object-Oriented Data Model*. Joint Statistical
     Meeting. Seattle, WA. August 2016.
 
-15. Tackett, M. *Understanding Object-Oriented Data Using Optimal
+16. Tackett, M. *Understanding Object-Oriented Data Using Optimal
     Matching*. Quantitative Collaborative Fellows Poster Session.
     Charlottesville, VA. April 2015. (Poster)
 
