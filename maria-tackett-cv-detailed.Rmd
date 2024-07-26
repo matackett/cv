@@ -559,6 +559,8 @@ Review Committee, 2019
 
 # University & Department Service
 
+<!--# Feedback from Amy: Split this up into Service to Duke University and Service to the Department of Statistical Science-->
+
 College Advisor, 2022 - present
 
 -   Pre-major advisor for X <!--# Include the number--> undergraduate
