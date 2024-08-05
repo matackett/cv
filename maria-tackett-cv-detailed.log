@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.28)  25 JUL 2024 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.28)  5 AUG 2024 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,7 +618,7 @@ Overfull \hbox (2.88701pt too wide) in paragraph at lines 227--232
 \T1/lmr/m/it/10.95 (-20) Jour-nal of Statis-tics and Data Sci-ence Ed-u-ca-tion\T1/lmr/m/n/10.95 (-20) , 31(2), 116-127. [][]doi.org/10.1080/26939169.2023.2165989[][] 
  []
 
-[2] [3] [4{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}] [5] [6] [7] [8] [9] [10] 
+[2] [3] [4{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}] [5] [6] [7] [8] [9] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./maria-tackett-cv-detailed.aux)
  ***********
@@ -626,21 +626,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `maria-tackett-cv-detailed.out' has not changed.
-(rerunfilecheck)             Checksum: 90B88FAD1FF74B7D1CCF9B5FD299E6A2;4828.
+(rerunfilecheck)             Checksum: AFEA0DF30417AFE101E328D15C08C279;5332.
  ) 
 Here is how much of TeX's memory you used:
- 15769 strings out of 475892
- 246414 string characters out of 5787593
+ 15783 strings out of 475892
+ 246646 string characters out of 5787593
  1941904 words of memory out of 5000000
- 37490 multiletter control sequences out of 15000+600000
- 610795 words of font info for 149 fonts, out of 8000000 for 9000
+ 37494 multiletter control sequences out of 15000+600000
+ 611196 words of font info for 153 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  72i,12n,80p,1214b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv-detailed.pdf (10 pages, 212334 bytes).
+Output written on maria-tackett-cv-detailed.pdf (9 pages, 212070 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
- 322 compressed objects within 4 object streams
- 117 named destinations out of 1000 (max. 500000)
- 26841 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 358 PDF objects out of 1000 (max. 8388607)
+ 328 compressed objects within 4 object streams
+ 119 named destinations out of 1000 (max. 500000)
+ 26857 words of extra memory for PDF output out of 29859 (max. 10000000)
 
