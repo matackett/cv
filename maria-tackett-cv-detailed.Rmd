@@ -51,7 +51,7 @@ Duke University, Department of Statistical Science
 
 # Teaching
 
-*Duke University*
+\textbf{\emph{Duke University}}
 
 ```{=tex}
 \begin{enumerate}
@@ -64,7 +64,8 @@ Duke University, Department of Statistical Science
 \item STA 310: Generalized Linear Models \hfill\href{https://sta310-sp24.netlify.app}{Spring 2024}, \href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
 \end{enumerate}
 ```
-*University of Virginia*
+
+\textbf{\emph{University of Virginia}}
 
 ```{=tex}
 \begin{enumerate}
@@ -74,7 +75,8 @@ Duke University, Department of Statistical Science
 \item STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017, Summer 2016 \vskip.9\baselineskip
 \end{enumerate}
 ```
-*Virginia Commonwealth University*
+
+\textbf{\emph{Virginia Commonwealth University}}
 
 ```{=tex}
 \begin{enumerate}
@@ -82,7 +84,8 @@ Duke University, Department of Statistical Science
 \item SLWK 609: Foundations of Research in Social Work Practice \hfill Spring 2017 \vskip.9\baselineskip
 \end{enumerate}
 ```
-*University of Tennessee-Knoxville*
+
+\textbf{\emph{University of Tennessee-Knoxville}}
 
 ```{=tex}
 \begin{enumerate}
@@ -90,7 +93,8 @@ Duke University, Department of Statistical Science
 \item STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010\vskip.8\baselineskip
 \end{enumerate}
 ```
-*Workshops*
+
+\textbf{\emph{Workshops (Facilitator)}}
 
 ```{=tex}
 \begin{enumerate}
@@ -110,9 +114,12 @@ Duke University, Department of Statistical Science
     Workshop. Online. March 2021.
 \end{enumerate}
 ```
+
 # Publications
 
-## Publications: Peer Reviewed
+\textbf{\emph{Published and In Press: Peer Reviewed}}
+
+\textbf{\underline{Published}}
 
 (\* indicates undergraduate student)
 
@@ -146,7 +153,7 @@ Duke University, Department of Statistical Science
     *Criminal Behaviour & Mental Health*, 33(3), 185-195.
     [doi.org/10.1002/cbm.2277](https://doi.org/10.1002/cbm.2277)
 
-6.  Fannin, D., Ellebya, J., **Tackett, M.**, Minga, J. (2023).
+6.  Fannin, D., Elleby, J., **Tackett, M.**, Minga, J. (2023).
     Intersectionality of race and question asking in women after right
     hemisphere brain damage. *Journal of Speech, Language, and Hearing
     Research*, 66(1), 314-324.
@@ -165,72 +172,69 @@ Duke University, Department of Statistical Science
     the IGNITE Model. *Frontiers in Education*, 5: 14-24.
     [doi.org/10.3389/feduc.2020.00014](https://doi.org/10.3389/feduc.2020.00014)
 
-<!-- ## Publications: In Press -->
+\medskip
 
-<!-- (\* indicates undergraduate student) -->
+\textbf{\underline{In Press}}
 
-<!--# Add Michele's paper?-->
-
-## Publications: Other
-
-9.  **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
-    Recreating Data Visualizations of W.E.B. Du Bois. *CHANCE*, 36(1),
-    40-47.
-    [doi.org/10.1080/09332480.2023.2179279](https://doi.org/10.1080/09332480.2023.2179279 "https://doi.org/10.1080/09332480.2023.2179279")
-
-10. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
-    20, 5.
-
-11. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
-    (2021). Teaching Courses Focused on Social Good. *CHANCE*, 34(3),
-    69-72.
-    [doi.org/10.1080/09332480.2021.1979821](https://doi.org/10.1080/09332480.2021.1979821 "https://doi.org/10.1080/09332480.2021.1979821")
-
-12. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
-    online
-    engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
-    Duke Covid Diaries Series.
-
-13. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
-    Classroom. *CHANCE*, 33(3), 63-66.
-    [doi.org/10.1080/09332480.2020.1820257](https://doi.org/10.1080/09332480.2020.1820257 "https://doi.org/10.1080/09332480.2020.1820257")
-
-14. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
-    Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
-    Duke Musings Blog.
-
-15. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
-    Teaching visualization via incremental improvements. *CHANCE*,
-    33(2), 31-41.
-    [doi.org/10.1080/09332480.2020.1754074](https://doi.org/10.1080/09332480.2020.1754074 "https://doi.org/10.1080/09332480.2020.1754074")
-
-16. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
-    Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
-    *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
-
-17. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
-    of Forensic Statistics*, Chapman & Hall.
-
-## Publications: Forthcoming
-
-(\* indicates undergraduate student)
-
-18. Easter, M., Schramm-Sapyta, N., Swartz, M., **Tackett, M.**,
+9.  Easter, M., Schramm-Sapyta, N., Swartz, M., **Tackett, M.**,
     Greenblatt, L. Primary care need and engagement by people with
     criminal legal involvement: Descriptive and associational analysis
     using retrospective data on the entire population ever detained in
     one southeastern U.S. county jail 2014-2020. *PLOS One.*
 
-19. **Tackett, M.**, Roith, J. Teaching Probability and Probability
+10. **Tackett, M.**, Roith, J. Teaching Probability and Probability
     Distributions*. STAT Prep.* MAA Notes. Mathematical Association of
     America. <!--# add an expected by date-->
 
-20. Viel, S., **Tackett, M.**, Das, S., Choo, J.\*. *Classroom Community
+11. Viel, S., **Tackett, M.**, Das, S., Choo, J.\* Classroom Community
     amid Covid-19: A Mixed-Methods Study of Undergraduate Students in
-    Introductory Mathematics and Statistics.*
-    <!--# not sure what to do with this?-->
+    Introductory Mathematics and Statistics.
 
-## Publications: In Review
+\medskip
+
+\textbf{\emph{Published: Other}}
+
+12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
+    Recreating Data Visualizations of W.E.B. Du Bois. *CHANCE*, 36(1),
+    40-47.
+    [doi.org/10.1080/09332480.2023.2179279](https://doi.org/10.1080/09332480.2023.2179279 "https://doi.org/10.1080/09332480.2023.2179279")
+
+13. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
+    20, 5.
+
+14. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+    (2021). Teaching Courses Focused on Social Good. *CHANCE*, 34(3),
+    69-72.
+    [doi.org/10.1080/09332480.2021.1979821](https://doi.org/10.1080/09332480.2021.1979821 "https://doi.org/10.1080/09332480.2021.1979821")
+
+15. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+    online
+    engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
+    Duke Covid Diaries Series.
+
+16. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+    Classroom. *CHANCE*, 33(3), 63-66.
+    [doi.org/10.1080/09332480.2020.1820257](https://doi.org/10.1080/09332480.2020.1820257 "https://doi.org/10.1080/09332480.2020.1820257")
+
+17. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+    Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
+    Duke Musings Blog.
+
+18. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+    Teaching visualization via incremental improvements. *CHANCE*,
+    33(2), 31-41.
+    [doi.org/10.1080/09332480.2020.1754074](https://doi.org/10.1080/09332480.2020.1754074 "https://doi.org/10.1080/09332480.2020.1754074")
+
+19. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+    Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
+    *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
+
+20. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+    of Forensic Statistics*, Chapman & Hall.
+
+\medskip
+
+\textbf{\emph{In Review}}
 
 (\* indicates undergraduate student)
 
@@ -238,25 +242,22 @@ Duke University, Department of Statistical Science
     Evaluating Student Perceptions of Assessment in Introductory
     Quantitative Studies. Submitted to the *International Journal of
     STEM Education*.
+22. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
+    B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and
+    Cash Bail Reform on Rearrest for Low-Level Offenses. Submitted to
+    *American Journal of Criminal Justice*.
 
-## Publications: In Preparation
+\medskip
 
-22. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
+\textbf{\emph{In Preparation}}
+
+23. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
     Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC
     Press).
-23. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
-    B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and
-    Cash Bail Reform on Rearrest for Low-Level Offenses.
 24. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
     Schramm-Sapyta, N.\* A longitudinal study of healthcare utilization
     and recidivism in a large southern county. Submitted to Criminal
     Justice and Behavior.
-
-<!--# Publications: In Preparation -->
-
-<!--# Longitudinal paper -->
-
-<!--# Shiny Ed -->
 
 # Invited Talks
 
@@ -429,21 +430,24 @@ Honoree](https://mathematicallygiftedandblack.com/honorees/maria-tackett/),
 
 # Grants & Fellowships
 
-National Science Foundation. *Achieving Critical Transformations in
-Undergraduate Programs in Mathematics (ACT UP MATH)*, 2022 - 2025, Role:
-Duke Site Co-PI, \$237,749.
+National Institutes of Health R25: Research Education Program. *Developing a Pathway for Preparing Underrepresented Minority Students for a Career in Otolaryngology and Communication Sciences*, 2024 - 2029, Role: Statistician, \$154,416.
+
+Collaborative Project Courses Faculty Fellows, 2024 - 2025.
+
+National Science Foundation ECR: Broadening Participation in STEM.  *Achieving Critical Transformations in
+Undergraduate Programs in Mathematics (ACT UP MATH)*, 2022 - 2025, Role: Duke Co-PI, \$237,749 (to Duke).
 
 Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
-Culture of Undergraduate Research in Statistical Science*, 2022 - 2023,
-\$13,000.
+Culture of Undergraduate Research in Statistical Science*, 2022 -
+2023,Role: PI, \$13,000.
 
-Duke Learning Innovation's Carry the Innovation Forward Fund. *Building
+Duke Learning Innovation's Carry the Innovation Forward. *Building
 Community and Self-Efficacy Through Inclusive Teaching Practices*,
 2021 - 2023, Role: Co-PI, \$4,616.
 
 Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2021 - 2022,
-\$11,000.
+Role: PI, \$11,000.
 
 Duke Bass Connections - Brain & Society. *Mental Health and the Justice
 System in Durham*, 2020 - 2024, Role: Co-PI, \$14,200 each academic
@@ -454,25 +458,37 @@ Duke Data+. *Mental Health and the Justice System in Durham*. 2020 -
 
 Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2020 - 2021,
-\$3,000.
+Role: PI, \$3,000.
 
-Duke Learning Innovation Jump Start Grant, 2019.
+Duke Learning Innovation Jump Start Grant, 2019, Role: PI.
 
 National Science Foundation. *Collaborative Research: Accelerating the
 Pace of Research and Implementation of Writing-to-Learn Pedagogies
 Across STEM Disciplines*, 2018 - 2020, Role: Key Faculty.
 
 Duke University Learning Innovation Active Learning Fellows, 2019 -
-2020, \$1,000.
+2020.
 
 University of Virginia Course Design Institute Fellowship, 2016.
 
 # Service to Profession
 
-## Course design & Curriculum development
+\textbf{\emph{Course design \& Curriculum development}}
 
-Bill & Melinda Gates Foundation High School Math Pathways Data Science
-Team, 2023 - present <!--# what is a better name to call this? -->
+\textit{Guidelines for Assessment and Instruction in Statistics Education
+(GAISE) Revision} Steering Committee, 2023 - present
+
+```{=tex}
+\begin{itemize}
+\item Revising guidelines for teaching undergraduate statistics and data science 
+\item Revising learning objectives for introductory statistics
+\item Part of sub-team focused on learning objectives and course design for introductory data science
+\item Authoring revised report expected to release 2025
+\end{itemize}
+```
+
+Bill & Melinda Gates Foundation High School Math Pathways Data Science Group
+Team, 2023 - 2024 
 
 ```{=tex}
 \begin{itemize}
@@ -480,7 +496,7 @@ Team, 2023 - present <!--# what is a better name to call this? -->
 \item Invited to join sub-team that developed learning objectives for high school data science
 \end{itemize}
 ```
-UT-Austin Dana Center Statistics Curriculum Authoring Group, 2021
+UT-Austin Dana Center Introductory Statistics Curriculum Authoring Group, 2021
 
 ```{=tex}
 \begin{itemize}
@@ -488,9 +504,9 @@ UT-Austin Dana Center Statistics Curriculum Authoring Group, 2021
 \item Invited to join sub-team that developed 3 projects for an introductory statistics course. Each project contained a student guide, instructor guide, and rubric.
 \end{itemize}
 ```
-UT-Austin Dana Center Statistics Curriculum Advisory Group, 2020
+UT-Austin Dana Center Introductory Statistics Curriculum Design Team, 2020
 
--   Developed course design principles for introductory statistics
+-   Developed course design principles and learning objectives for introductory statistics
     courses
 
 Howard Hughes Medical Institute Data Exploration Course Advisory
@@ -498,7 +514,12 @@ Committee, 2020 - 2021
 
 -   Advised the development of data-driven high school biology lessons
 
-## Editorial service
+\bigskip
+
+\textbf{\emph{Editorial service}}
+
+*Journal of Data Science Special Issue: Symposium on Data Science and
+Statistics*, Associate Editor, 2022 & 2024
 
 *Journal of Statistics and Data Science Education*, Associate Editor,
 2020 - present
@@ -506,28 +527,16 @@ Committee, 2020 - 2021
 *CHANCE* Magazine Statistics Education Column: Taking a Chance in the
 Classroom, Editor, 2019 - present
 
-*Journal of Data Science Special Issue: Symposium on Data Science and
-Statistics*, Associate Editor, 2022
-
 Journal Reviews: *Journal of Statistics and Data Science Education*,
 *Technology Innovations in Statistics Education*, *Harvard Data Science
 Review*, *Criminology*, *Criminal Justice, Law & Society*
 
 Book Reviews: Chapman & Hall
+\bigskip
 
-## ASA and Statistics Education
+\textbf{\emph{ASA and Statistics Education}}
 
-Guidelines for Assessment and Instruction in Statistics Education
-(GAISE) Revision Steering Committee, 2023 - present
 
-```{=tex}
-\begin{itemize}
-\item Revising guidelines for teaching undergraduate statistics and data science 
-\item Revising learning objectives for introductory statistics
-\item Authoring revised report expected to release 2025
-\item Part of sub-team focused on learning objectives and course design for introductory data science
-\end{itemize}
-```
 Bill & Melinda Gates Foundation High School Math Pathways Advisory
 Group, 2023 - present
 
@@ -537,10 +546,10 @@ Education, 2022 - present
 Bill & Melinda Gates Foundation Statistics Courseware Advisory Group,
 2022 - present
 
-Symposium on Statistics & Data Science Program Committee, Short Course
+Symposium on Data Science and Statistics Program Committee, Short Course
 Chair, 2022 - 2023
 
-Symposium on Statistics & Data Science Program Committee, Poster Chair,
+Symposium on Data Science and Statistics Program Committee, Poster Chair,
 2021 - 2022
 
 CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 - 2023
@@ -557,11 +566,13 @@ Review Committee, 2019
 
 # University & departmental service
 
-## Service to Duke University
+\textbf{\emph{Service to Duke University}}
 
 College Advisor, 2022 - present
 
-Library Council, 2021 - present
+Master in Interdisciplinary Data Science Faculty Search Committee, 2022
+
+Library Council, 2021 - 2024
 
 Women in Research House Course, Faculty Advisor, 2021
 
@@ -571,16 +582,20 @@ Trinity Arts & Sciences Committee on Curriculum, 2019 - 2021
 
 Master in Interdisciplinary Data Science Admissions Committee, 2020
 
-Duke SPIRE Mentor, 2019 - present
+Duke SPIRE Fellows Program Mentor, 2019 - present
 
 Females Excelling More in Math, Engineering, & Science (FEMMES)
 Capstone, 2019
 
-## Service to Department of Statistical Science
+\bigskip
 
-Statistical Science Anti-Racism Committee, 2021 - present
+\textbf{\emph{Service to Department of Statistical Science}}
 
-ASA DataFest\@Duke Organizer, 2019 - 2022
+Statistical Science Anti-Racism Committee, 2021 - 2022
+
+ASA DataFest\@Duke Lead Organizer, 2020 - 2021
+
+ASA DataFest\@Duke Organizing Committee, 2019 - present
 
 Statistical Science Undergraduate Curriculum Committee, 2019 - present
 
@@ -596,7 +611,7 @@ Duke Datathon Judge, 2018 & 2021
 
 # Advising
 
-## Mental Health and the Justice System in Durham County (Data+ & Bass Connections)
+\textbf{\emph{Mental Health and the Justice System in Durham County (Data+ \& Bass Connections)}}
 
 ```{=tex}
 \begin{multicols}{2}
@@ -620,7 +635,10 @@ Duke Datathon Judge, 2018 & 2021
 \end{itemize}
 \end{multicols}
 ```
-## Undergraduate thesis advisees
+
+\bigskip
+
+\textbf{\emph{Undergraduate thesis advisees}}
 
 ```{=tex}
 \begin{itemize}
@@ -628,7 +646,10 @@ Duke Datathon Judge, 2018 & 2021
 \item Naomi Rubin, 2022-2023
 \end{itemize}
 ```
-## Undergraduate thesis committees
+
+\bigskip
+
+\textbf{\emph{Undergraduate thesis committees}}
 
 ```{=tex}
 \begin{itemize}
@@ -641,11 +662,16 @@ Duke Datathon Judge, 2018 & 2021
 \item Srini Sunil, 2019
 \end{itemize}
 ```
-## Doctoral thesis committees
+
+\bigskip
+
+\textbf{\emph{Doctoral thesis committees}}
 
 -   Meng Xie, 2021
 
-## Independent study
+\bigskip
+
+\textbf{\emph{Independent study}}
 
 ```{=tex}
 \begin{itemize}
@@ -656,7 +682,10 @@ Duke Datathon Judge, 2018 & 2021
 \item Caroline Levenson, 2019
 \end{itemize}
 ```
-## Other supervised research
+
+\bigskip
+
+\textbf{\emph{Other supervised research}}
 
 ```{=tex}
 \begin{multicols}{2}

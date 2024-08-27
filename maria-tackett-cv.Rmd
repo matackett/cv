@@ -411,7 +411,7 @@ University of Virginia Course Design Institute Fellowship, 2016.
 
 # Service to Profession
 
-## Curriculum development
+\textbf{\emph{Curriculum development}}
 
 UT-Austin Dana Center Statistics Curriculum Authoring Group, 2021
 
@@ -420,7 +420,7 @@ UT-Austin Dana Center Statistics Curriculum Advisory Group, 2020
 Howard Hughes Medical Institute Data Exploration Course Advisory
 Committee, 2020 - 2021
 
-## Editorial service
+\textbf{\emph{Editorial service}}
 
 *Journal of Statistics and Data Science Education*, Associate Editor,
 2020 - present
@@ -437,7 +437,7 @@ Review*, *Criminology*, *Criminal Justice, Law & Society*
 
 Book Reviews: Chapman & Hall
 
-## ASA and Statistics Education
+\textbf{\emph{ASA and Statistics Education}}
 
 GAISE Revision Steering Committee, 2023 - present
 
