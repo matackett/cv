@@ -183,12 +183,12 @@ Duke University, Department of Statistical Science
     one southeastern U.S. county jail 2014-2020. *PLOS One.*
 
 10. **Tackett, M.**, Roith, J. Teaching Probability and Probability
-    Distributions*. STAT Prep.* MAA Notes. Mathematical Association of
+    Distributions. *STAT Prep MAA Notes*. Mathematical Association of
     America. <!--# add an expected by date-->
 
 11. Viel, S., **Tackett, M.**, Das, S., Choo, J.\* Classroom Community
     amid Covid-19: A Mixed-Methods Study of Undergraduate Students in
-    Introductory Mathematics and Statistics.
+    Introductory Mathematics and Statistics. *Creating More Inclusive and Equitable Teaching and Learning: How Crises Can Transform the Higher Education Landscape*. Preprint available at https://arxiv.org/abs/2206.00590
 
 \medskip
 
