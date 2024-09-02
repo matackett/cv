@@ -59,7 +59,7 @@ Duke University, Department of Statistical Science
 
 \item STA 210: Regression Analysis\hfill \href{https://sta210-fa23.netlify.app}{Fall 2023}, \href{https://sta210-fa22.netlify.app}{Fall 2022}, \href{https://sta210-fa21.netlify.app}{Fall 2021}, \href{https://sta210-sp21.netlify.app}{Spring 2021}, \href{https://sta210-fa20.netlify.app}{Fall 2020}, \newline \hspace*{\fill} \href{https://www2.stat.duke.edu/courses/Spring20/sta210.001/}{Spring 2020}, \href{https://www2.stat.duke.edu/courses/Fall19/sta210.001/}{Fall 2019}, \href{https://www2.stat.duke.edu/courses/Spring19/sta210.001/}{Spring 2019}, \href{https://www2.stat.duke.edu/courses/Fall18/sta210.001/}{Fall 2018}\hfill \vskip.8\baselineskip
 
-\item STA 221: Regression Analysis: Theory and Applications \hfill Fall 2024
+\item STA 221: Regression Analysis: Theory and Applications \hfill \href{https://sta221-fa24.netlify.app}{Fall 2024}
 
 \item STA 310: Generalized Linear Models \hfill\href{https://sta310-sp24.netlify.app}{Spring 2024}, \href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
 \end{enumerate}
@@ -249,15 +249,20 @@ Duke University, Department of Statistical Science
 
 \medskip
 
-\textbf{\emph{In Preparation}}
+\textbf{\emph{In Revision}}
 
-23. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
-    Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC
-    Press).
-24. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
+23. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
     Schramm-Sapyta, N.\* A longitudinal study of healthcare utilization
     and recidivism in a large southern county. Submitted to Criminal
     Justice and Behavior.
+    
+\medskip
+
+\textbf{\emph{In Preparation}}
+    
+24. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
+    Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC
+    Press).
 
 # Invited Talks
 
@@ -642,8 +647,9 @@ Duke Datathon Judge, 2018 & 2021
 
 ```{=tex}
 \begin{itemize}
-\item Shelby Tisdale, 2024-2025
-\item Naomi Rubin, 2022-2023
+\item Jordan Hamelsky, 2024 - 2025
+\item Shelby Tisdale, 2024 - 2025
+\item Naomi Rubin, 2022 - 2023
 \end{itemize}
 ```
 
