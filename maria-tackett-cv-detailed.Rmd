@@ -64,7 +64,6 @@ Duke University, Department of Statistical Science
 \item STA 310: Generalized Linear Models \hfill\href{https://sta310-sp24.netlify.app}{Spring 2024}, \href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
 \end{enumerate}
 ```
-
 \textbf{\emph{University of Virginia}}
 
 ```{=tex}
@@ -75,7 +74,6 @@ Duke University, Department of Statistical Science
 \item STAT 2120: Introduction to Statistical Analysis \hfill Summer 2017, Summer 2016 \vskip.9\baselineskip
 \end{enumerate}
 ```
-
 \textbf{\emph{Virginia Commonwealth University}}
 
 ```{=tex}
@@ -84,7 +82,6 @@ Duke University, Department of Statistical Science
 \item SLWK 609: Foundations of Research in Social Work Practice \hfill Spring 2017 \vskip.9\baselineskip
 \end{enumerate}
 ```
-
 \textbf{\emph{University of Tennessee-Knoxville}}
 
 ```{=tex}
@@ -93,7 +90,6 @@ Duke University, Department of Statistical Science
 \item STAT 201: Introduction to Statistics \hfill Fall 2010, Spring 2010\vskip.8\baselineskip
 \end{enumerate}
 ```
-
 \textbf{\emph{Workshops (Facilitator)}}
 
 ```{=tex}
@@ -114,7 +110,6 @@ Duke University, Department of Statistical Science
     Workshop. Online. March 2021.
 \end{enumerate}
 ```
-
 # Publications
 
 \textbf{\emph{Published and In Press: Peer Reviewed}}
@@ -188,7 +183,10 @@ Duke University, Department of Statistical Science
 
 11. Viel, S., **Tackett, M.**, Das, S., Choo, J.\* Classroom Community
     amid Covid-19: A Mixed-Methods Study of Undergraduate Students in
-    Introductory Mathematics and Statistics. *Creating More Inclusive and Equitable Teaching and Learning: How Crises Can Transform the Higher Education Landscape*. Preprint available at https://arxiv.org/abs/2206.00590
+    Introductory Mathematics and Statistics. *Creating More Inclusive
+    and Equitable Teaching and Learning: How Crises Can Transform the
+    Higher Education Landscape*. Preprint available at
+    <https://arxiv.org/abs/2206.00590>
 
 \medskip
 
@@ -252,17 +250,20 @@ Duke University, Department of Statistical Science
 \textbf{\emph{In Revision}}
 
 23. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
-    Schramm-Sapyta, N.\* A longitudinal study of healthcare utilization
-    and recidivism in a large southern county. Submitted to Criminal
-    Justice and Behavior.
-    
+    Schramm-Sapyta, N. A longitudinal study of healthcare utilization
+    and recidivism in a large southern county. Submitted to *Criminal
+    Justice and Behavior*.
+
 \medskip
 
 \textbf{\emph{In Preparation}}
-    
+
 24. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
     Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC
     Press).
+25. Hart, F., **Tackett, M.**, Purohit, S., Schramm-Sapyta, N. A
+    meta-analysis of medication-assisted treatment initiated in carceral
+    settings: Six months post-release.
 
 # Invited Talks
 
@@ -435,12 +436,17 @@ Honoree](https://mathematicallygiftedandblack.com/honorees/maria-tackett/),
 
 # Grants & Fellowships
 
-National Institutes of Health R25: Research Education Program. *Developing a Pathway for Preparing Underrepresented Minority Students for a Career in Otolaryngology and Communication Sciences*, 2024 - 2029, Role: Statistician, \$154,416.
+National Institutes of Health R25: Research Education Program.
+*Developing a Pathway for Preparing Underrepresented Minority Students
+for a Career in Otolaryngology and Communication Sciences*, 2024 - 2029,
+Role: Statistician, \$154,416.
 
 Collaborative Project Courses Faculty Fellows, 2024 - 2025.
 
-National Science Foundation ECR: Broadening Participation in STEM.  *Achieving Critical Transformations in
-Undergraduate Programs in Mathematics (ACT UP MATH)*, 2022 - 2025, Role: Duke Co-PI, \$237,749 (to Duke).
+National Science Foundation ECR: Broadening Participation in STEM.
+*Achieving Critical Transformations in Undergraduate Programs in
+Mathematics (ACT UP MATH)*, 2022 - 2025, Role: Duke Co-PI, \$237,749 (to
+Duke).
 
 Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2022 -
@@ -491,9 +497,8 @@ University of Virginia Course Design Institute Fellowship, 2016.
 \item Authoring revised report expected to release 2025
 \end{itemize}
 ```
-
-Bill & Melinda Gates Foundation High School Math Pathways Data Science Group
-Team, 2023 - 2024 
+Bill & Melinda Gates Foundation High School Math Pathways Data Science
+Group Team, 2023 - 2024
 
 ```{=tex}
 \begin{itemize}
@@ -501,7 +506,8 @@ Team, 2023 - 2024
 \item Invited to join sub-team that developed learning objectives for high school data science
 \end{itemize}
 ```
-UT-Austin Dana Center Introductory Statistics Curriculum Authoring Group, 2021
+UT-Austin Dana Center Introductory Statistics Curriculum Authoring
+Group, 2021
 
 ```{=tex}
 \begin{itemize}
@@ -509,10 +515,11 @@ UT-Austin Dana Center Introductory Statistics Curriculum Authoring Group, 2021
 \item Invited to join sub-team that developed 3 projects for an introductory statistics course. Each project contained a student guide, instructor guide, and rubric.
 \end{itemize}
 ```
-UT-Austin Dana Center Introductory Statistics Curriculum Design Team, 2020
+UT-Austin Dana Center Introductory Statistics Curriculum Design Team,
+2020
 
--   Developed course design principles and learning objectives for introductory statistics
-    courses
+-   Developed course design principles and learning objectives for
+    introductory statistics courses
 
 Howard Hughes Medical Institute Data Exploration Course Advisory
 Committee, 2020 - 2021
@@ -536,11 +543,9 @@ Journal Reviews: *Journal of Statistics and Data Science Education*,
 *Technology Innovations in Statistics Education*, *Harvard Data Science
 Review*, *Criminology*, *Criminal Justice, Law & Society*
 
-Book Reviews: Chapman & Hall
-\bigskip
+Book Reviews: Chapman & Hall \bigskip
 
 \textbf{\emph{ASA and Statistics Education}}
-
 
 Bill & Melinda Gates Foundation High School Math Pathways Advisory
 Group, 2023 - present
@@ -554,8 +559,8 @@ Bill & Melinda Gates Foundation Statistics Courseware Advisory Group,
 Symposium on Data Science and Statistics Program Committee, Short Course
 Chair, 2022 - 2023
 
-Symposium on Data Science and Statistics Program Committee, Poster Chair,
-2021 - 2022
+Symposium on Data Science and Statistics Program Committee, Poster
+Chair, 2021 - 2022
 
 CAUSE Undergraduate Statistics Project Competition Co-Chair, 2020 - 2023
 
@@ -640,19 +645,18 @@ Duke Datathon Judge, 2018 & 2021
 \end{itemize}
 \end{multicols}
 ```
-
 \bigskip
 
 \textbf{\emph{Undergraduate thesis advisees}}
 
 ```{=tex}
 \begin{itemize}
+\item Nathan Yang, 2024 - 2025
 \item Jordan Hamelsky, 2024 - 2025
 \item Shelby Tisdale, 2024 - 2025
 \item Naomi Rubin, 2022 - 2023
 \end{itemize}
 ```
-
 \bigskip
 
 \textbf{\emph{Undergraduate thesis committees}}
@@ -668,7 +672,6 @@ Duke Datathon Judge, 2018 & 2021
 \item Srini Sunil, 2019
 \end{itemize}
 ```
-
 \bigskip
 
 \textbf{\emph{Doctoral thesis committees}}
@@ -688,7 +691,6 @@ Duke Datathon Judge, 2018 & 2021
 \item Caroline Levenson, 2019
 \end{itemize}
 ```
-
 \bigskip
 
 \textbf{\emph{Other supervised research}}
