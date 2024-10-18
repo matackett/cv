@@ -194,42 +194,49 @@ Duke University, Department of Statistical Science
 
 \textbf{\emph{Published: Other}}
 
-12. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
+(\* indicates undergraduate student)
+
+12. Hart, F.\*, **Tackett, M.**, Purohit, S., Schramm-Sapyta, N. (2024).
+    A Meta-Analysis of Medication-Assisted Treatment Initiated in
+    Carceral Settings: Six Months Post-Release. *Qeios*.
+    [doi.org/10.32388/OGHTNJ](https://doi.org/10.32388/OGHTNJ)
+
+13. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
     Recreating Data Visualizations of W.E.B. Du Bois. *CHANCE*, 36(1),
     40-47.
     [doi.org/10.1080/09332480.2023.2179279](https://doi.org/10.1080/09332480.2023.2179279 "https://doi.org/10.1080/09332480.2023.2179279")
 
-13. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
+14. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
     20, 5.
 
-14. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+15. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
     (2021). Teaching Courses Focused on Social Good. *CHANCE*, 34(3),
     69-72.
     [doi.org/10.1080/09332480.2021.1979821](https://doi.org/10.1080/09332480.2021.1979821 "https://doi.org/10.1080/09332480.2021.1979821")
 
-15. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+16. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
     online
     engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
     Duke Covid Diaries Series.
 
-16. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+17. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
     Classroom. *CHANCE*, 33(3), 63-66.
     [doi.org/10.1080/09332480.2020.1820257](https://doi.org/10.1080/09332480.2020.1820257 "https://doi.org/10.1080/09332480.2020.1820257")
 
-17. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+18. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
     Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
     Duke Musings Blog.
 
-18. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+19. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
     Teaching visualization via incremental improvements. *CHANCE*,
     33(2), 31-41.
     [doi.org/10.1080/09332480.2020.1754074](https://doi.org/10.1080/09332480.2020.1754074 "https://doi.org/10.1080/09332480.2020.1754074")
 
-19. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+20. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
     Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
     *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
 
-20. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+21. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
     of Forensic Statistics*, Chapman & Hall.
 
 \medskip
@@ -238,11 +245,11 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-21. Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E.
+22. Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E.
     Evaluating Student Perceptions of Assessment in Introductory
     Quantitative Studies. Submitted to the *International Journal of
     STEM Education*.
-22. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
+23. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
     B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and
     Cash Bail Reform on Rearrest for Low-Level Offenses. Submitted to
     *American Journal of Criminal Justice*.
@@ -251,7 +258,7 @@ Duke University, Department of Statistical Science
 
 \textbf{\emph{In Revision}}
 
-23. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
+24. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
     Schramm-Sapyta, N. A longitudinal study of healthcare utilization
     and recidivism in a large southern county. Submitted to *Criminal
     Justice and Behavior*.
@@ -260,12 +267,9 @@ Duke University, Department of Statistical Science
 
 \textbf{\emph{In Preparation}}
 
-24. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
+25. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
     Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC
     Press).
-25. Hart, F., **Tackett, M.**, Purohit, S., Schramm-Sapyta, N. A
-    meta-analysis of medication-assisted treatment initiated in carceral
-    settings: Six months post-release.
 
 # Invited Talks
 
@@ -499,13 +503,13 @@ University of Virginia Course Design Institute Fellowship, 2016.
 \item Authoring revised report expected to release 2025
 \end{itemize}
 ```
-Bill & Melinda Gates Foundation High School Math Pathways Data Science
-Group Team, 2023 - 2024
+Bill & Melinda Gates Foundation High School Math Pathways, 2023 - 2024
 
 ```{=tex}
 \begin{itemize}
-\item Developed course design principles for educators teaching high school data science
-\item Invited to join sub-team that developed learning objectives for high school data science
+\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
+\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} 
+\item Each framework includes course design principles and learning objectives for high school courses
 \end{itemize}
 ```
 UT-Austin Dana Center Introductory Statistics Curriculum Authoring
@@ -550,10 +554,10 @@ Book Reviews: Chapman & Hall \bigskip
 \textbf{\emph{ASA and Statistics Education}}
 
 Bill & Melinda Gates Foundation High School Math Pathways Advisory
-Group, 2023 - present
+Group, 2023 - 2024
 
 ASA/MAA Joint Committee on Undergraduate Statistics and Data Science
-Education, 2022 - present
+Education, 2022 - 2024
 
 Bill & Melinda Gates Foundation Statistics Courseware Advisory Group,
 2022 - present
