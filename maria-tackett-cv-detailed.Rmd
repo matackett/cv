@@ -57,9 +57,15 @@ Duke University, Department of Statistical Science
 \begin{enumerate}
 \item STA 199: Introduction to Data Science \& Statistical Thinking \hfill\href{sta199-fa21-003.netlify.app}{Fall 2021}, \href{https://sta199-fa20-002.netlify.app/}{Fall 2020}, \href{https://www2.stat.duke.edu/courses/Fall19/sta199.001/}{Fall 2019}, \newline\hspace*{\fill} \href{https://www2.stat.duke.edu/courses/Spring19/sta199.001/}{Spring 2019} \vskip.8\baselineskip
 
-\item STA 210: Regression Analysis\hfill \href{https://sta210-fa23.netlify.app}{Fall 2023}, \href{https://sta210-fa22.netlify.app}{Fall 2022}, \href{https://sta210-fa21.netlify.app}{Fall 2021}, \href{https://sta210-sp21.netlify.app}{Spring 2021}, \href{https://sta210-fa20.netlify.app}{Fall 2020}, \newline \hspace*{\fill} \href{https://www2.stat.duke.edu/courses/Spring20/sta210.001/}{Spring 2020}, \href{https://www2.stat.duke.edu/courses/Fall19/sta210.001/}{Fall 2019}, \href{https://www2.stat.duke.edu/courses/Spring19/sta210.001/}{Spring 2019}, \href{https://www2.stat.duke.edu/courses/Fall18/sta210.001/}{Fall 2018}\hfill \vskip.8\baselineskip
+\item STA 210: Regression Analysis\hfill
+\href{https://sta210-sp25.netlify.app}{Spring 2025},
+\href{https://sta210-fa23.netlify.app}{Fall 2023}, \href{https://sta210-fa22.netlify.app}{Fall 2022}, \href{https://sta210-fa21.netlify.app}{Fall 2021}, \href{https://sta210-sp21.netlify.app}{Spring 2021},  \newline \hspace*{\fill}
+\href{https://sta210-fa20.netlify.app}{Fall 2020},
+\href{https://www2.stat.duke.edu/courses/Spring20/sta210.001/}{Spring 2020}, \href{https://www2.stat.duke.edu/courses/Fall19/sta210.001/}{Fall 2019}, \href{https://www2.stat.duke.edu/courses/Spring19/sta210.001/}{Spring 2019}, \href{https://www2.stat.duke.edu/courses/Fall18/sta210.001/}{Fall 2018}\hfill \vskip.8\baselineskip
 
-\item STA 221: Regression Analysis: Theory and Applications \hfill \href{https://sta221-fa24.netlify.app}{Fall 2024}
+\item STA 221: Regression Analysis: Theory and Applications \hfill
+\href{https://sta221-sp25.netlify.app}{Spring 2025}, 
+\href{https://sta221-fa24.netlify.app}{Fall 2024}
 
 \item STA 310: Generalized Linear Models \hfill\href{https://sta310-sp24.netlify.app}{Spring 2024}, \href{https://sta310-sp22.netlify.app}{Spring 2022}\vskip.9\baselineskip
 \end{enumerate}
@@ -175,6 +181,8 @@ Duke University, Department of Statistical Science
 
 \textbf{\underline{In Press}}
 
+(\* indicates undergraduate student)
+
 10. Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E. (in
     press). Evaluating Student Perceptions of Assessment in Introductory
     Quantitative Studies. *The International Journal of Assessment and
@@ -240,33 +248,33 @@ Duke University, Department of Statistical Science
 22. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
     of Forensic Statistics*, Chapman & Hall.
 
-\medskip
+<!-- \medskip -->
 
-\textbf{\emph{In Review}}
+<!-- \textbf{\emph{In Review}} -->
 
-(\* indicates undergraduate student)
+<!-- (\* indicates undergraduate student) -->
 
-23. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang,
-    B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and
-    Cash Bail Reform on Rearrest for Low-Level Offenses. Submitted to
-    *American Journal of Criminal Justice*.
+<!-- 23. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, -->
+<!--     B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and -->
+<!--     Cash Bail Reform on Rearrest for Low-Level Offenses. Submitted to -->
+<!--     *American Journal of Criminal Justice*. -->
 
-\medskip
+<!-- \medskip -->
 
-\textbf{\emph{In Revision}}
+<!-- \textbf{\emph{In Revision}} -->
 
-24. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B.,
-    Schramm-Sapyta, N. A longitudinal study of healthcare utilization
-    and recidivism in a large southern county. Submitted to *Criminal
-    Justice and Behavior*.
+<!-- 24. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B., -->
+<!--     Schramm-Sapyta, N. A longitudinal study of healthcare utilization -->
+<!--     and recidivism in a large southern county. Submitted to *Criminal -->
+<!--     Justice and Behavior*. -->
 
-\medskip
+<!-- \medskip -->
 
-\textbf{\emph{In Preparation}}
+<!-- \textbf{\emph{In Preparation}} -->
 
-25. **Tackett, M.** *Introduction to Regression Analysis: A Data Science
-    Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC
-    Press).
+<!-- 25. **Tackett, M.** *Introduction to Regression Analysis: A Data Science -->
+<!--     Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC -->
+<!--     Press). -->
 
 # Invited Talks
 
@@ -507,8 +515,8 @@ University of Virginia Course Design Institute Fellowship, 2016.
 UT-Austin Dana Center High School Math Pathways, 2023 - 2024
 
 \begin{itemize}
-\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
-\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} 
+\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
+\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} 
 \item Each framework includes course design principles and learning objectives for high school courses
 \end{itemize}
 
@@ -516,7 +524,7 @@ UT-Austin Dana Center Introductory Statistics Curriculum Authoring
 Group, 2021
 
 \begin{itemize}
-\item Authored 5 lessons for the Statistical Reasoning curriculum used by educators teaching undergraduate introductory statistics. Each lesson contained a preview assignment, in-class assignment with student and instructor guides, practice assignment, and co-requiste assignment. 
+\item Authored 5 lessons for the Statistical Reasoning curriculum used by educators teaching undergraduate introductory statistics. Each lesson contained a preview assignment, in-class assignment with student and instructor guides, practice assignment, and co-requisite assignment. 
 \item Invited to join sub-team that developed 3 projects for an introductory statistics course. Each project contained a student guide, instructor guide, and rubric.
 \end{itemize}
 

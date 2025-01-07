@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.6)  31 DEC 2024 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.6)  7 JAN 2025 09:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,14 +616,14 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 [1
 
 {/Users/mt324/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
-Overfull \hbox (2.88701pt too wide) in paragraph at lines 236--241
+Overfull \hbox (2.88701pt too wide) in paragraph at lines 242--247
 \T1/lmr/m/it/10.95 (-20) Jour-nal of Statis-tics and Data Sci-ence Ed-u-ca-tion\T1/lmr/m/n/10.95 (-20) , 31(2), 116-127. [][]doi.org/10.1080/26939169.2023.2165989[][] 
  []
 
 
 
 [2]
-Underfull \hbox (badness 1226) in paragraph at lines 321--326
+Underfull \hbox (badness 1226) in paragraph at lines 329--334
 []\T1/lmr/m/n/10.95 (+20) Hart, F.*, \T1/lmr/bx/n/10.95 (+20) Tack-ett, M.\T1/lmr/m/n/10.95 (+20) , Puro-hit, S., Schramm-Sapyta, N. (2024). A Meta-Analysis of
  []
 
@@ -634,14 +634,14 @@ Underfull \hbox (badness 1226) in paragraph at lines 321--326
 [4{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
 
 [5]
-
-[6]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 647.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 609.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
-[7{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+[6{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+
+[7]
 
 [8]
 
@@ -658,18 +658,18 @@ Package rerunfilecheck Info: File `maria-tackett-cv-detailed.out' has not change
 (rerunfilecheck)             Checksum: A06DCCD7A09F02E5AD6146E09659CBC0;1815.
  ) 
 Here is how much of TeX's memory you used:
- 15772 strings out of 475478
- 246636 string characters out of 5774787
- 694423 words of memory out of 5000000
+ 15765 strings out of 475478
+ 246569 string characters out of 5774787
+ 695423 words of memory out of 5000000
  37907 multiletter control sequences out of 15000+600000
- 609785 words of font info for 152 fonts, out of 8000000 for 9000
+ 609608 words of font info for 150 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,12n,80p,2118b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,80p,5961b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv-detailed.pdf (10 pages, 237868 bytes).
+Output written on maria-tackett-cv-detailed.pdf (10 pages, 236693 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 281 compressed objects within 3 object streams
- 106 named destinations out of 1000 (max. 500000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
+ 103 named destinations out of 1000 (max. 500000)
  26729 words of extra memory for PDF output out of 29859 (max. 10000000)
 
