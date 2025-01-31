@@ -255,8 +255,11 @@ Duke University, Department of Statistical Science
 <!-- (\* indicates undergraduate student) -->
 
 <!-- 23. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, -->
+
 <!--     B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and -->
+
 <!--     Cash Bail Reform on Rearrest for Low-Level Offenses. Submitted to -->
+
 <!--     *American Journal of Criminal Justice*. -->
 
 <!-- \medskip -->
@@ -264,8 +267,11 @@ Duke University, Department of Statistical Science
 <!-- \textbf{\emph{In Revision}} -->
 
 <!-- 24. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B., -->
+
 <!--     Schramm-Sapyta, N. A longitudinal study of healthcare utilization -->
+
 <!--     and recidivism in a large southern county. Submitted to *Criminal -->
+
 <!--     Justice and Behavior*. -->
 
 <!-- \medskip -->
@@ -273,7 +279,9 @@ Duke University, Department of Statistical Science
 <!-- \textbf{\emph{In Preparation}} -->
 
 <!-- 25. **Tackett, M.** *Introduction to Regression Analysis: A Data Science -->
+
 <!--     Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC -->
+
 <!--     Press). -->
 
 # Invited Talks
@@ -515,8 +523,8 @@ University of Virginia Course Design Institute Fellowship, 2016.
 UT-Austin Dana Center High School Math Pathways, 2023 - 2024
 
 \begin{itemize}
-\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
-\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} 
+\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
+\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework} 
 \item Each framework includes course design principles and learning objectives for high school courses
 \end{itemize}
 
@@ -609,7 +617,8 @@ A.B. Duke Scholars Program Interviewer, 2021
 
 Trinity Arts & Sciences Committee on Curriculum, 2019 - 2021
 
-Master in Interdisciplinary Data Science Admissions Committee, 2020
+Master in Interdisciplinary Data Science Admissions Committee, 2020 -
+2021, 2024 - 2025
 
 Duke SPIRE Fellows Program Mentor, 2019 - present
 

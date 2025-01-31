@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.6)  7 JAN 2025 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.6)  31 JAN 2025 10:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,9 +7,9 @@ entering extended mode
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count194
 \c@section=\count195
@@ -67,7 +67,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2024/05/23 v2.17q AMS math features
+Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -135,7 +135,7 @@ Package: datetime 2015/03/20 v2.60 Date Time Package
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count280
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fmtcount.sty
-Package: fmtcount 2024/08/31 v3.08
+Package: fmtcount 2024/10/18 v3.09
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -186,7 +186,7 @@ LaTeX Info: Redefining \today on input line 736.
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
@@ -212,28 +212,31 @@ Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbat
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+Package: microtype 2024/12/12 v3.2 Micro-typographical refinements (RS)
 \MT@toks=\toks29
 \MT@tempbox=\box54
 \MT@count=\count307
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
-LaTeX Info: Redefining \leftprotrusion on input line 1062.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1075.
+LaTeX Info: Redefining \leftprotrusion on input line 1076.
 \MT@prot@toks=\toks30
-LaTeX Info: Redefining \rightprotrusion on input line 1081.
-LaTeX Info: Redefining \textls on input line 1392.
+LaTeX Info: Redefining \rightprotrusion on input line 1095.
+LaTeX Info: Redefining \textls on input line 1437.
 \MT@outer@kern=\dimen151
-LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+LaTeX Info: Redefining \microtypecontext on input line 2041.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2058.
 \MT@listname@count=\count308
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 902.
-LaTeX Info: Redefining \lslig on input line 902.
+File: microtype-pdftex.def 2024/12/12 v3.2 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
 \MT@outer@space=\skip54
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
-)) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+File: microtype.cfg 2024/12/12 v3.2 microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3053.
+) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -251,7 +254,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen159
 \Gm@dimlist=\toks31
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \c@tracingmulticols=\count312
 \mult@box=\box55
 \multicol@leftmargin=\dimen160
@@ -330,7 +333,7 @@ LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
+Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
@@ -340,7 +343,7 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box101
 \beforetitleunit=\skip57
 \aftertitleunit=\skip58
@@ -361,26 +364,32 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
+Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip59
-\f@nch@O@elh=\skip60
-\f@nch@O@erh=\skip61
-\f@nch@O@olh=\skip62
-\f@nch@O@orh=\skip63
-\f@nch@O@elf=\skip64
-\f@nch@O@erf=\skip65
-\f@nch@O@olf=\skip66
-\f@nch@O@orf=\skip67
+\f@nch@offset@elh=\skip60
+\f@nch@offset@erh=\skip61
+\f@nch@offset@olh=\skip62
+\f@nch@offset@orh=\skip63
+\f@nch@offset@elf=\skip64
+\f@nch@offset@erf=\skip65
+\f@nch@offset@olf=\skip66
+\f@nch@offset@orf=\skip67
+\f@nch@height=\skip68
+\f@nch@footalignment=\skip69
+\f@nch@widthL=\skip70
+\f@nch@widthC=\skip71
+\f@nch@widthR=\skip72
+\@temptokenb=\toks33
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2024/07/07 v2.1c lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2024/11/24 v2.1d lastpage: 2.09 or 2e? (HMM)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
-Package: lastpage2e 2024/07/07 v2.1c Decide which 2e lastpage version to use (HMM)
+Package: lastpage2e 2024/11/24 v2.1d Decide which 2e lastpage version to use (HMM)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
-Package: lastpagemodern 2024-07-07 v2.1c Refers to last page's name (HMM; JPG)
+Package: lastpagemodern 2024-11-24 v2.1d Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count322
 ) 
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -410,7 +419,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count324
 \Hy@pagecounter=\count325
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -418,7 +427,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count326
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -461,7 +470,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -475,7 +484,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip68
+\Hy@SectionHShift=\skip73
 )
 Package hyperref Info: Option `unicode' set `true' on input line 108.
 Package hyperref Info: Option `colorlinks' set `true' on input line 108.
@@ -518,6 +527,7 @@ Package microtype Info: Applying patch `toc' on input line 111.
 Package microtype Info: Applying patch `eqnum' on input line 111.
 Package microtype Info: Applying patch `footnote' on input line 111.
 Package microtype Info: Applying patch `verbatim' on input line 111.
+LaTeX Info: Redefining \microtypesetup on input line 111.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -648,7 +658,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 [9]
 
 [10] 
-enddocument/afterlastpage: lastpage setting LastPage.
+enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./maria-tackett-cv-detailed.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
@@ -658,15 +668,15 @@ Package rerunfilecheck Info: File `maria-tackett-cv-detailed.out' has not change
 (rerunfilecheck)             Checksum: A06DCCD7A09F02E5AD6146E09659CBC0;1815.
  ) 
 Here is how much of TeX's memory you used:
- 15765 strings out of 475478
- 246569 string characters out of 5774787
- 695423 words of memory out of 5000000
- 37907 multiletter control sequences out of 15000+600000
+ 15935 strings out of 475478
+ 250609 string characters out of 5774787
+ 699585 words of memory out of 5000000
+ 38078 multiletter control sequences out of 15000+600000
  609608 words of font info for 150 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,12n,80p,5961b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,80p,17490b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv-detailed.pdf (10 pages, 236693 bytes).
+Output written on maria-tackett-cv-detailed.pdf (10 pages, 236702 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  280 compressed objects within 3 object streams
