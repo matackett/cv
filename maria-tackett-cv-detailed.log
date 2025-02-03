@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.6)  3 FEB 2025 06:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.6)  3 FEB 2025 09:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -381,11 +381,15 @@ Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and footer
 \f@nch@widthR=\skip72
 \@temptokenb=\toks33
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2024/11/24 v2.1d lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2025/01/27 v2.1e lastpage: 2.09 or 2e? (HMM)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
-Package: lastpage2e 2024/11/24 v2.1d Decide which 2e lastpage version to use (HMM)
+Package: lastpage2e 2025/01/27 v2.1e Decide which 2e lastpage version to use (HMM)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
-Package: lastpagemodern 2024-11-24 v2.1d Refers to last page's name (HMM; JPG)
+
+LaTeX Warning: You have requested release `2024-11-01' of LaTeX,
+               but only release `2024-06-01' is available.
+
+Package: lastpagemodern 2025-01-27 v2.1e Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count322
 ) 
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -674,9 +678,9 @@ Here is how much of TeX's memory you used:
  38078 multiletter control sequences out of 15000+600000
  609608 words of font info for 150 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,12n,80p,52077b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,80p,1214b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv-detailed.pdf (10 pages, 236709 bytes).
+Output written on maria-tackett-cv-detailed.pdf (10 pages, 236697 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  280 compressed objects within 3 object streams
