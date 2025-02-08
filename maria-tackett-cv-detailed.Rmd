@@ -188,11 +188,7 @@ Duke University, Department of Statistical Science
     Quantitative Studies. *The International Journal of Assessment and
     Evaluation*.
 
-11. **Tackett, M.**, Roith, J. Teaching Probability and Probability
-    Distributions. *STAT Prep MAA Notes*. Mathematical Association of
-    America. <!--# add an expected by date-->
-
-12. Viel, S., **Tackett, M.**, Das, S., Choo, J.\* Classroom Community
+11. Viel, S., **Tackett, M.**, Das, S., Choo, J.\* Classroom Community
     amid Covid-19: A Mixed-Methods Study of Undergraduate Students in
     Introductory Mathematics and Statistics. *Creating More Inclusive
     and Equitable Teaching and Learning: How Crises Can Transform the
@@ -204,6 +200,11 @@ Duke University, Department of Statistical Science
 \textbf{\emph{Published: Other}}
 
 (\* indicates undergraduate student)
+
+12. Roith, J., **Tackett, M.** (2025). Probability and Probability
+    Distributions. *Using Data-Centric Methods to
+Teach Introductory Statistics*. Mathematical Association of
+    America. 
 
 13. Hart, F.\*, **Tackett, M.**, Purohit, S., Schramm-Sapyta, N. (2024).
     A Meta-Analysis of Medication-Assisted Treatment Initiated in
@@ -688,7 +689,11 @@ Duke Datathon Judge, 2018 & 2021
 
 \textbf{\emph{Undergraduate thesis committees}}
 
+\begin{multicols}{2}
 \begin{itemize}
+\item Sofia Hletko, 2025
+\item Kareena Legare, 2025
+\item Dav King, 2025
 \item Jerry Hou, 2024
 \item Benjamin Thorpe, 2024
 \item Malavi Ravindran, 2021
@@ -697,6 +702,7 @@ Duke Datathon Judge, 2018 & 2021
 \item Ben Feder, 2019
 \item Srini Sunil, 2019
 \end{itemize}
+\end{multicols}
 
 \bigskip
 
