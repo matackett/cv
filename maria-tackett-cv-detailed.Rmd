@@ -693,7 +693,9 @@ Duke Datathon Judge, 2018 & 2021
 \begin{itemize}
 \item Sofia Hletko, 2025
 \item Kareena Legare, 2025
+\item Will Lieber, 2025 (Program II)
 \item Dav King, 2025
+\item Jack Nowacek, 2025
 \item Jerry Hou, 2024
 \item Benjamin Thorpe, 2024
 \item Malavi Ravindran, 2021
