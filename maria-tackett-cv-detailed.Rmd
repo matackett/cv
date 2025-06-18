@@ -10,7 +10,7 @@ geometry: margin=.7in
 title: "CV"
 author: Maria Tackett
 fontawesome: yes
-jobtitle: "Assistant Professor of the Practice"
+jobtitle: "Associate Professor of the Practice"
 #address: Box 90251, 118B Old Chemistry Building &middot; Duke University &middot; Durham, NC 27708 
 address: Duke University
 email: maria.tackett@duke.edu
@@ -47,7 +47,12 @@ Tennessee-Knoxville \hfill
 
 # Academic Appointments
 
-**Assistant Professor of the Practice** \hfill 2018 - present\
+**Associate Professor of the Practice** \hfill 2025 - present\
+Duke University, Department of Statistical Science
+
+\vspace{8pt}
+
+**Assistant Professor of the Practice** \hfill 2018 - 2025\
 Duke University, Department of Statistical Science
 
 # Teaching
@@ -120,13 +125,20 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-1.  Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E. (2025).
+1.  Viel, S., **Tackett, M.**, Das, S., Choo, J.\* (2025). A
+    Mixed-Methods Study of Classroom Community Among Undergraduate
+    Students in Introductory Mathematics and Statistics. *The
+    International Journal of Learner Diversity and Identities,* 32 (2):
+    57-81.
+    [doi.org/10.18848/2327-0128/CGP/v32i02/57-81](https://doi.org/10.18848/2327-0128/CGP/v32i02/57-81){.uri}
+
+2.  Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E. (2025).
     Evaluating Student Perceptions of Assessment in Introductory
     Quantitative Studies. *The International Journal of Assessment and
     Evaluation*, 32 (1): 129-160.
     [doi.org/10.18848/2327-7920/CGP/v32i01/129-160](https://doi.org/10.18848/2327-7920/CGP/v32i01/129-160)
 
-2.  Easter, M., Schramm-Sapyta, N., Swartz, M., **Tackett, M.**,
+3.  Easter, M., Schramm-Sapyta, N., Swartz, M., **Tackett, M.**,
     Greenblatt, L. (2024). Primary care need and engagement by people
     with criminal legal involvement: Descriptive and associational
     analysis using retrospective data on the entire population ever
@@ -134,67 +146,54 @@ Duke University, Department of Statistical Science
     19(10): e0308798.
     [doi.org/10.1371/journal.pone.0308798](https://doi.org/10.1371/journal.pone.0308798)
 
-3.  **Tackett, M.** (2023). Three Principles for Modernizing an
+4.  **Tackett, M.** (2023). Three Principles for Modernizing an
     Undergraduate Regression Analysis Course. *Journal of Statistics and
     Data Science Education*, 31(2), 116-127.
     [doi.org/10.1080/26939169.2023.2165989](https://doi.org/10.1080/26939169.2023.2165989)
 
-4.  Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to
+5.  Noll, J., **Tackett, M.** (2023). Insights from DataFest Point to
     New Opportunities for Undergraduate Statistics Courses: Team
     collaborations, Designing Research Questions, and Data Ethics.
     *Teaching Statistics*, 45(S1), S5-S21.
     [doi.org/10.1111/test.12345](https://doi.org/10.1111/test.12345)
 
-5.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
+6.  Easter, M., Schramm-Sapyta, N., **Tackett, M.**, Larsen, I.\*, Tang,
     B., Ralph, M.\*,Huynh, L.\* (2023). Reliance on Community Emergency
     Departments by People Ever Detained in Jail: Retrospective
     Cross-Sectional Study. *Journal of Correctional Health Care.*
     [doi.org/10.1089/jchc.22.02.0011](https://doi.org/10.1089/jchc.22.02.0011)
 
-6.  **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of the
+7.  **Tackett, M.**, Viel, S., Manturuk, K. (2023). A validation of the
     short-form classroom community scale for undergraduate mathematics
     and statistics students. *Journal of University Teaching & Learning
     Practice*, 20(1).
     [doi.org/10.53761/1.20.01.08](https://doi.org/10.53761/1.20.01.08)
 
-7.  Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B., **Tackett,
+8.  Schramm-Sapyta, N., Ralph, M.\*, Huynh, L.\*, Tang, B., **Tackett,
     M.**, Easter, M., Larsen, I.\* (2023). Relationships between
     substance use disorders, 'severe mental illness' and re-arrest in a
     county detention facility: a 4-year follow-up cohort study.
     *Criminal Behaviour & Mental Health*, 33(3), 185-195.
     [doi.org/10.1002/cbm.2277](https://doi.org/10.1002/cbm.2277)
 
-8.  Fannin, D., Elleby, J., **Tackett, M.**, Minga, J. (2023).
+9.  Fannin, D., Elleby, J., **Tackett, M.**, Minga, J. (2023).
     Intersectionality of race and question asking in women after right
     hemisphere brain damage. *Journal of Speech, Language, and Hearing
     Research*, 66(1), 314-324.
     [doi.org/10.1044/2022_JSLHR-22-00327](https://doi.org/10.1044/2022_JSLHR-22-00327)
 
-9.  Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
+10. Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W.,
     Sullivan, A. J., **Tackett, M**. (2020). Implementing version
     control with Git and GitHub as a learning objective in statistics
     and data science courses. *Journal of Statistics Education*, 29(1),
     132-144.
     [doi.org./10.1080/10691898.2020.1848485](https://doi.org./10.1080/10691898.2020.1848485)
 
-10. Dotson, M., Alvarez, V.\*, **Tackett, M.**, Asturias, G., Leon, I.,
+11. Dotson, M., Alvarez, V.\*, **Tackett, M.**, Asturias, G., Leon, I.,
     Ramanujam, M. (2020) Design Thinking-Based STEM Learning:
     Preliminary Results on Achieving Scale and Sustainability Through
     the IGNITE Model. *Frontiers in Education*, 5: 14-24.
     [doi.org/10.3389/feduc.2020.00014](https://doi.org/10.3389/feduc.2020.00014)
-
-\medskip
-
-\textbf{\underline{In Press}}
-
-(\* indicates undergraduate student)
-
-11. Viel, S., **Tackett, M.**, Das, S., Choo, J.\* Classroom Community
-    amid Covid-19: A Mixed-Methods Study of Undergraduate Students in
-    Introductory Mathematics and Statistics. *Creating More Inclusive
-    and Equitable Teaching and Learning: How Crises Can Transform the
-    Higher Education Landscape*. Preprint available at
-    <https://arxiv.org/abs/2206.00590>
 
 \medskip
 
@@ -524,8 +523,8 @@ University of Virginia Course Design Institute Fellowship, 2016.
 Charles A. Dana Center High School Math Pathways, 2023 - 2024
 
 \begin{itemize}
-\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
-\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  
+\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
+\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  
 \item Each framework includes course design principles and learning objectives for high school courses
 \end{itemize}
 
@@ -681,6 +680,9 @@ Duke Datathon Judge, 2018 & 2021
 \begin{itemize}
 \item Nathan Yang, 2024 - 2025
 \item Jordan Hamelsky, 2024 - 2025
+  \begin{itemize}
+  \item Winner of the 2025 \href{https://stat.duke.edu/about/best-awards }{Undergraduate BEST Award}
+  \end{itemize}
 \item Shelby Tisdale, 2024 - 2025
 \item Naomi Rubin, 2022 - 2023
 \end{itemize}
