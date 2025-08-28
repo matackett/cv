@@ -103,6 +103,8 @@ Duke University, Department of Statistical Science
 \begin{enumerate}
 \setcounter{enumi}{9}
 
+\item \href{https://user-tutorials-2025.github.io/teaching-with-r-github/}{Teaching statistics and data science with R and GitHub}. useR!2025. Durham, NC. August 2025.
+
 \item \href{https://drive.google.com/drive/folders/1w9LrbKJLt_GhFDLLwbeBgh1aASK-AXKm}{Introduction to R}. ASA/AMATYC Introduction to Data Science Technology Tools. Online. July 2024.
 
 \item \href{https://rstudio-conf-2022.github.io/teach-ds/}{Designing the Data Science Classroom}. rstudio::conf(2022). National Harbor, MD. July 2022.
@@ -119,9 +121,7 @@ Duke University, Department of Statistical Science
 
 # Publications
 
-\textbf{\emph{Published and In Press: Peer Reviewed}}
-
-\textbf{\underline{Published}}
+\textbf{\emph{Published: Peer Reviewed}}
 
 (\* indicates undergraduate student)
 
@@ -201,6 +201,13 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
+12. **Tackett, M.** (2025). Applications of Regression for Categorical
+    Outcomes Using R. *The American Statistician*, 1–3.
+    [doi.org/10.1080/00031305.2025.2551214](https://doi.org/10.1080/00031305.2025.2551214)
+    (book review)
+
+<!-- -->
+
 12. Roith, J., **Tackett, M.** (2025). Probability and Probability
     Distributions. *Using Data-Centric Methods to Teach Introductory
     Statistics*. Mathematical Association of America.
@@ -248,208 +255,192 @@ Duke University, Department of Statistical Science
 22. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
     of Forensic Statistics*, Chapman & Hall.
 
-<!-- \medskip -->
+\medskip
 
-<!-- \textbf{\emph{In Review}} -->
+\textbf{\emph{In review}}
 
-<!-- (\* indicates undergraduate student) -->
+(\* indicates undergraduate student)
 
-<!-- 23. Schramm-Sapyta, N., Larsen, I.\*, Pandey, M.\*, Feng, W.\*, Tang, -->
-
-<!--     B., **Tackett, M.** Effect of Mental Illness, Substance Abuse and -->
-
-<!--     Cash Bail Reform on Rearrest for Low-Level Offenses. Submitted to -->
-
-<!--     *American Journal of Criminal Justice*. -->
-
-<!-- \medskip -->
-
-<!-- \textbf{\emph{In Revision}} -->
-
-<!-- 24. **Tackett, M.**, Cellini, B.\*, Ralph, M.\*, Huynh, L.\*, Tang, B., -->
-
-<!--     Schramm-Sapyta, N. A longitudinal study of healthcare utilization -->
-
-<!--     and recidivism in a large southern county. Submitted to *Criminal -->
-
-<!--     Justice and Behavior*. -->
-
-<!-- \medskip -->
-
-<!-- \textbf{\emph{In Preparation}} -->
-
-<!-- 25. **Tackett, M.** *Introduction to Regression Analysis: A Data Science -->
-
-<!--     Approach*. Expected 2026. (Under contract with Chapman and Hall/CRC -->
-
-<!--     Press). -->
+23. Brown, M., Lieber, W., Sperling, J., **Tackett, M.**, Harrington,
+    P., Schramm-Sapyta, N. Evaluating the Efficacy of County Programming
+    for Jail Detainees with Substance Use Disorder and/or Serious Mental
+    Illness – A Qualitative Study. Submitted to *Community Mental Health
+    Journal.*
 
 # Invited Talks
 
-1.  Tackett, M. *As much art as it is science: subjectivities and
+1.  Tackett, M. *STA 199: Introduction to Data Science and Statistical
+    Thinking*. Joint Statistical Meeting. Nashville, TN. August 2025.
+    (Panelist)
+
+2.  Tackett, M. *As much art as it is science: subjectivities and
     perspectives in statistics and data science.* 14th International
     Collaboration for Research on Statistical Reasoning, Thinking, and
     Literacy (SRTL-14). State College, PA. (Keynote)
 
-2.  Noll, J., Tackett, M. *What can we learn about teaching
+3.  Noll, J., Tackett, M. *What can we learn about teaching
     undergraduate statistics and data science courses from studying
     DataFest?* Teaching Statistics Section seminar. Royal Statistical
     Society. Online. October 2024.
 
-3.  Tackett, M. *The data just got real: Preparing students to use
+4.  Tackett, M. *The data just got real: Preparing students to use
     statistics beyond the classroom*. Electronic Conference on Teaching
     Statistics (eCOTS). Online. June 2024. (Keynote).
 
-4.  Tackett, M. *More than methods: Preparing students for data-driven
+5.  Tackett, M. *More than methods: Preparing students for data-driven
     work outside the classroom.* CANSSI Applied Research Education
     seminar. Toronto, ON. April 2024.
 
-5.  Tackett, M. *Three principles for modernizing an undergraduate
+6.  Tackett, M. *Three principles for modernizing an undergraduate
     regression analysis course.* Teaching Statistics Section seminar.
     Royal Statistical Society. Online. February 2024.
 
-6.  Tackett, M. *Communication as a learning objective in an
+7.  Tackett, M. *Communication as a learning objective in an
     intermediate statistics course.* Teaching and Evaluating Data
     Communication At Scale. Institute for Mathematical and Statistical
     Innovation. Chicago, IL. January 2024.
 
-7.  Tackett, M. *Teaching intro data science.* Preparing to Teach
+8.  Tackett, M. *Teaching intro data science.* Preparing to Teach
     Workshop. George Mason University. August 2022.
 
-8.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
+9.  Tackett, M. *Knit, Commit, and Push: Teaching version control in
     undergraduate statistics courses*. Toronto Workshop on
     Reproducibility. Online. February 2022.
 
-9.  Tackett, M. *Mentoring Undergraduate Research: Creating productive
+10. Tackett, M. *Mentoring Undergraduate Research: Creating productive
     experiences and sharing student work*. ASA Mentoring Undergraduate
     Research Panel. Online. February 2022.
 
-10. Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
+11. Tackett, M. *Women in Industry and Academia.* FEMMES+ Hacks
     Conference. Online. October 2021. (Panelist)
 
-11. Tackett, M. *What a tap class has taught me about teaching
+12. Tackett, M. *What a tap class has taught me about teaching
     statistics*. USCOTS. Online. June 2021.
 
-12. Tackett, M. *Building Websites in RStudio*. RLadies Baltimore.
+13. Tackett, M. *Building Websites in RStudio*. RLadies Baltimore.
     Online. April 2021.
 
-13. Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online.
+14. Tackett, M. *Building Websites in RStudio*. RLadies Amherst. Online.
     March 2021.
 
-14. Tackett, M. *Telling stories with data.* Abraham Lincoln High
+15. Tackett, M. *Telling stories with data.* Abraham Lincoln High
     School. Online (Philadelphia, PA). January 2021.
 
-15. Tackett, M. *Undergraduate research in statistics.*
+16. Tackett, M. *Undergraduate research in statistics.*
     $\text{OURFA}^2\text{M}^2$ Conference. Online. December 2020.
 
-16. Tackett, M. *Thinking about lectures in an intro data science
+17. Tackett, M. *Thinking about lectures in an intro data science
     course*. Toronto Data Workshop. Online (University of Toronto
     Department of Statistical Sciences). December 2020.
 
-17. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks
+18. Tackett, M. *Women in Statistics and Computing.* FEMMES Hacks
     Conference. Online. October 2020. (Panelist)
 
-18. Tackett, M. *Opportunities in Statistics and Data Science: Lightning
+19. Tackett, M. *Opportunities in Statistics and Data Science: Lightning
     Talks (Academia, Government, & NonProfit)*. StatFest. Online.
     September 2020. (Panelist)
 
-19. Tackett, M. *Who's Underrepresented? Modeling Undercounts in the
+20. Tackett, M. *Who's Underrepresented? Modeling Undercounts in the
     U.S. Census*. Joint Statistical Meeting. Online. August 2020.
 
-20. Tackett, M. *Making remote lectures active and inclusive in a large
+21. Tackett, M. *Making remote lectures active and inclusive in a large
     undergraduate course*. Teaching Statistics Teaching and Learning
     Statistics Online. Online (Royal Statistical Society Teaching
     Statistics Special Interest Group). July 2020.
 
-21. Tackett, M. *You don't have to be an expert to create something
+22. Tackett, M. *You don't have to be an expert to create something
     meaningful*. rstudio::conf. San Francisco, CA. January 2020.
 
-22. Tackett, M. *Reproducible Research - Education and Practice*. Duke
+23. Tackett, M. *Reproducible Research - Education and Practice*. Duke
     Center for Data and Visualization Sciences. Durham, NC.
     November 2019. (Panelist)
 
-23. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
+24. Tackett, M. *My Journey in Statistics*. FEMMES Hacks Conference.
     Durham, NC. November 2019. (Keynote)
 
-24. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at
+25. Tackett, M. *Statistics in Practice*. FOCUS Cluster Dinner Series at
     Duke University: What if? Explaining the Past/Predicting the Future.
     Durham, NC. November 2019.
 
-25. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
+26. Tackett, M. *Beyond the Buzzword: A Look at Data Science in Practice
     and How You Can Be a Part of It*. SAMSI Diversity in Data Science
     and Machine Learning Conference. Washington, DC. October 2019.
     (Plenary talk)
 
-26. Tackett, M. *Women in Machine Learning and Data Science*. Duke
+27. Tackett, M. *Women in Machine Learning and Data Science*. Duke
     Machine Learning Day. Durham, NC. March 2019. (Panelist)
 
-27. Tackett, M. *Women in Industry*. Duke University Business Oriented
+28. Tackett, M. *Women in Industry*. Duke University Business Oriented
     Women Meeting. Durham, NC. September 2018. (Panelist)
 
 # Contributed Talks & Posters
 
-1.  *Teaching-Intensive Positions at R1 Universities in the US*. Joint
+1.  Demirci, S., Tackett, M. *Exploring Faculty Motivation and Practices
+    Using Universal Design for Instruction*. Researchers of Statistics
+    Education Network e-Conference. Online. July 2025.
+
+2.  *Teaching-Intensive Positions at R1 Universities in the US*. Joint
     Statistical Meeting. Portland, OR. August 2024.
 
-2.  Viel, S., Tackett, M. *Classroom Community in Introduction
+3.  Viel, S., Tackett, M. *Classroom Community in Introduction
     Undergraduate Mathematics and Statistics.* The Converging Challenges
     for Inclusive Education. Online. July 2024. (Poster)
 
-3.  Tackett, M., *Using Quarto for Making and Organizing Teaching
+4.  Tackett, M., *Using Quarto for Making and Organizing Teaching
     Materials*. Joint Statistical Meeting. Toronto, ON. August 2023.
 
-4.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
+5.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
     Introductory Math and Statistics Courses*. eCOTS. Online. May 2022.
 
-5.  Tackett, M., Çetinkaya-Rundel, M., Presman, R. *Modernizing the
+6.  Tackett, M., Çetinkaya-Rundel, M., Presman, R. *Modernizing the
     undergraduate regression analysis course*. eCOTS. Online. May 2022.
 
-6.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
+7.  Tackett, M., Viel, S. *Undergraduate Students' Sense of Community in
     Introductory Math and Statistics Courses*. Pandemic Pedagogy
     Research Symposium. Online. May 2022.
 
-7.  Tackett, M. *Version control as a learning objective in statistics
+8.  Tackett, M. *Version control as a learning objective in statistics
     and data science courses*. 63rd World Statistics Congress. Online.
     July 2021.
 
-8.  Horton, N., Tackett, M. *GitHub and intro stats: technology to
+9.  Horton, N., Tackett, M. *GitHub and intro stats: technology to
     support group and project-based learning*. USCOTS. Online.
     July 2021. (Poster)
 
-9.  Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive
+10. Tackett, M., Li, S. Mokel, M., Tian, S. *Developing Interactive
     Statistics Apps: A look at the project and student experience*.
     USCOTS. Online. July 2021. (Poster)
 
-10. Tackett, M. *You don't have to be an expert to create something
+11. Tackett, M. *You don't have to be an expert to create something
     meaningful.* Women in Statistics and Data Science Conference.
     Online. October 2020.
 
-11. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+12. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
     Learning Experiences in a Regression Analysis Course*. Women in
     Statistics and Data Science Conference. Bellevue, WA. October 2019.
 
-12. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+13. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
     Learning Experiences in a Regression Analysis Course*. Joint
     Statistical Meeting. Denver, CO. July 2019.
 
-13. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
+14. Tackett, M. *Using GitHub and RStudio to Facilitate Authentic
     Learning Experiences in a Regression Analysis Course*. United States
     Conference on Teaching Statistics. State College, PA. May 2019.
     (Poster)
 
-14. *Teaching Large Classes in Statistics Using Active Learning Spaces*.
+15. *Teaching Large Classes in Statistics Using Active Learning Spaces*.
     Innovation in Pedagogy Summit. Charlottesville, VA. May 2016.
     (Panelist)
 
-15. Tackett, M. *Clustering High-Dimensional Categorical Data Using a
+16. Tackett, M. *Clustering High-Dimensional Categorical Data Using a
     Bayesian Finite Mixture Model*. Quantitative Collaborative Fellows
     Poster Session. Charlottesville, VA. April 2017. (Poster)
 
-16. Tackett, M. *Understanding Variability Between Groups of Sequences
+17. Tackett, M. *Understanding Variability Between Groups of Sequences
     Using a Bayesian Object-Oriented Data Model*. Joint Statistical
     Meeting. Seattle, WA. August 2016.
 
-17. Tackett, M. *Understanding Object-Oriented Data Using Optimal
+18. Tackett, M. *Understanding Object-Oriented Data Using Optimal
     Matching*. Quantitative Collaborative Fellows Poster Session.
     Charlottesville, VA. April 2015. (Poster)
 
@@ -532,9 +523,8 @@ University of Virginia Course Design Institute Fellowship, 2016.
 Charles A. Dana Center High School Math Pathways, 2023 - 2024
 
 \begin{itemize}
-\item Invited as major contributor for \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Data%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}%20Science-Sept2024_FINAL.pdf}{Data Science Course Framework}
-\item Served as a contributor for the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-Statistics-Sept2024_FINAL%28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %28v2%29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  %29.pdf}{Statistics Course Framework} and the \href{https://www.utdanacenter.org/sites/default/files/2024-09/Framework-ISQR-Sept2024_FINAL.pdf}{Integrated Statistics and Quantitative Reasoning Course Framework}  
-\item Each framework includes course design principles and learning objectives for high school courses
+\item Developed course design principles for educators teaching high school data science
+\item Invited to join sub-team that developed learning objectives for high school data science
 \end{itemize}
 
 Charles A. Dana Center Introductory Statistics Curriculum Authoring
