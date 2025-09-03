@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.19)  27 AUG 2025 15:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.3)  3 SEP 2025 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -135,7 +135,7 @@ Package: datetime 2015/03/20 v2.60 Date Time Package
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count295
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fmtcount.sty
-Package: fmtcount 2025/02/09 v3.10 Displaying the values of LaTeX counters (NT,VB,NE)
+Package: fmtcount 2025/08/23 v3.11 Displaying the values of LaTeX counters (NT,VB,NE)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -679,14 +679,14 @@ Package rerunfilecheck Info: File `maria-tackett-cv-detailed.out' has not change
  ) 
 Here is how much of TeX's memory you used:
  15931 strings out of 469720
- 249818 string characters out of 5479543
- 712715 words of memory out of 5000000
+ 249818 string characters out of 5479544
+ 713715 words of memory out of 5000000
  43812 multiletter control sequences out of 15000+600000
  678577 words of font info for 156 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  72i,12n,80p,1214b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv-detailed.pdf (10 pages, 236347 bytes).
+Output written on maria-tackett-cv-detailed.pdf (10 pages, 236798 bytes).
 PDF statistics:
  323 PDF objects out of 1000 (max. 8388607)
  290 compressed objects within 3 object streams
