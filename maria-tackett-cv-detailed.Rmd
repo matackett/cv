@@ -201,58 +201,47 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-12. **Tackett, M.** (2025). Applications of Regression for Categorical
+12.  **Tackett, M.**, Fisher, A. (2025, September ) A Point of View:
+    Duke University*. AmStat News*, 42.
+13. **Tackett, M.** (2025). Applications of Regression for Categorical
     Outcomes Using R. *The American Statistician*, 1–3.
     [doi.org/10.1080/00031305.2025.2551214](https://doi.org/10.1080/00031305.2025.2551214)
     (book review)
-
-<!-- -->
-
-12. Roith, J., **Tackett, M.** (2025). Probability and Probability
+14. Roith, J., **Tackett, M.** (2025). Probability and Probability
     Distributions. *Using Data-Centric Methods to Teach Introductory
     Statistics*. Mathematical Association of America.
-
-13. Hart, F.\*, **Tackett, M.**, Purohit, S., Schramm-Sapyta, N. (2024).
+15. Hart, F.\*, **Tackett, M.**, Purohit, S., Schramm-Sapyta, N. (2024).
     A Meta-Analysis of Medication-Assisted Treatment Initiated in
     Carceral Settings: Six Months Post-Release. *Qeios*.
     [doi.org/10.32388/OGHTNJ](https://doi.org/10.32388/OGHTNJ)
-
-14. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
+16. **Tackett, M.**, & Çetinkaya-Rundel, M. (2023). Analyzing and
     Recreating Data Visualizations of W.E.B. Du Bois. *CHANCE*, 36(1),
     40-47.
     [doi.org/10.1080/09332480.2023.2179279](https://doi.org/10.1080/09332480.2023.2179279 "https://doi.org/10.1080/09332480.2023.2179279")
-
-15. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
+17. **Tackett, M.** (2022). My ASA Story: Maria Tackett. *Amstat News*,
     20, 5.
-
-16. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
+18. **Tackett, M.**, Burbank, K., Canner, J., & Çetinkaya-Rundel, M.
     (2021). Teaching Courses Focused on Social Good. *CHANCE*, 34(3),
     69-72.
     [doi.org/10.1080/09332480.2021.1979821](https://doi.org/10.1080/09332480.2021.1979821 "https://doi.org/10.1080/09332480.2021.1979821")
-
-17. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
+19. **Tackett, M.** (2021, January 14). [*A flipped classroom sparks
     online
     engagement*](https://medium.com/dukeuniversity/a-flipped-classroom-sparks-online-student-engagement-7d6d8bce9694).
     Duke Covid Diaries Series.
-
-18. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
+20. **Tackett, M.**, & Çetinkaya-Rundel, M. (2020). COVID-19 Data in the
     Classroom. *CHANCE*, 33(3), 63-66.
     [doi.org/10.1080/09332480.2020.1820257](https://doi.org/10.1080/09332480.2020.1820257 "https://doi.org/10.1080/09332480.2020.1820257")
-
-19. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
+21. **Tackett, M.** (2020, July 23). [*Creating Interactive Web Apps for
     Statistics*](https://muser.duke.edu/blog/creating-interactive-web-apps-statistics).
     Duke Musings Blog.
-
-20. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
+22. Çetinkaya-Rundel, M., & **Tackett, M.** (2020). From drab to fab:
     Teaching visualization via incremental improvements. *CHANCE*,
     33(2), 31-41.
     [doi.org/10.1080/09332480.2020.1754074](https://doi.org/10.1080/09332480.2020.1754074 "https://doi.org/10.1080/09332480.2020.1754074")
-
-21. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
+23. Banks, D., **Tackett, M.** (2020). Bayesian Methods and Forensic
     Evidence. In Banks, D., Kafadar, K., Kaye, D., Tackett, M. (Eds.),
     *Handbook of Forensic Statistics* (pp. 73 - 90), Chapman & Hall.
-
-22. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
+24. Banks, D., Kafadar, K., Kaye, D., **Tackett, M.** (Eds.), *Handbook
     of Forensic Statistics*, Chapman & Hall.
 
 \medskip
