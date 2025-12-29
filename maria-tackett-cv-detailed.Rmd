@@ -460,6 +460,10 @@ Honoree](https://mathematicallygiftedandblack.com/honorees/maria-tackett/),
 
 # Grants & Fellowships
 
+ASA Section on Statistics and Data Science Education Member Initiative
+Grant. *Exploring Faculty Motivation and Practices Using Universal
+Design for Instruction*, 2025, Role: Co-PI, \$500.
+
 National Institutes of Health R25: Research Education Program.
 *Developing a Pathway for Preparing Underrepresented Minority Students
 for a Career in Otolaryngology and Communication Sciences*, 2024 - 2029,
@@ -567,6 +571,9 @@ Book Reviews: Chapman & Hall \bigskip
 
 \textbf{\emph{ASA and Statistics Education}}
 
+Electronic Conference on Teaching Statistics (eCOTS) Planning Committee,
+2025 - present
+
 Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group
 Secretary, 2025 - present
 
@@ -604,7 +611,7 @@ Review Committee, 2019
 
 \textbf{\emph{Service to Duke University}}
 
-College Advisor, 2022 - present
+College Advisor, 2022 - 2025
 
 Master in Interdisciplinary Data Science Faculty Search Committee, 2022
 
@@ -652,14 +659,17 @@ Duke Datathon Judge, 2018 & 2021
 
 \begin{multicols}{2}
 \begin{itemize}
+\item Maya Bragg, 2025 - present
+\item Ryan Si, 2025 - present
+\item Dahlia Solomon, 2025 - present
 \item Jacqueline Dinh, 2024 - present
 \item Christina Lee, 2024 - present
 \item Miranda Li, 2024 - present
 \item Irene Biju, 2023 - present
-\item Madeline Brown, 2023 - present
-\item Will Lieber, 2023 - present
+\item Madeline Brown, 2023 - 2025
+\item Will Lieber, 2023 - 2025
 \item Foxx Hart, 2023 - 2024
-\item Jordan Hamelsky, 2022 - present
+\item Jordan Hamelsky, 2022 - 2025
 \item Zoe Svec, 2022 - 2024
 \item Andrew Shi, 2022
 \item Maya Pandey, 2021 - 2024
@@ -773,7 +783,7 @@ Caucus for Women in Statistics, 2021 - present
 
 International Society for Bayesian Analysis, 2021 - present
 
-RStudio Certified Instructor, 2020 - present
+RStudio Certified Instructor, 2020 - 2023
 
 American Statistical Association, 2017 - present
 

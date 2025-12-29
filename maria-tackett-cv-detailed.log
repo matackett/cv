@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.19)  27 AUG 2025 15:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.29)  29 DEC 2025 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **maria-tackett-cv-detailed.tex
 (./maria-tackett-cv-detailed.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-08-13>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -67,7 +67,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -127,22 +127,23 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count295
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fmtcount.sty
-Package: fmtcount 2025/02/09 v3.10 Displaying the values of LaTeX counters (NT,VB,NE)
+Package: fmtcount 2025/12/02 v3.12 Displaying the values of LaTeX counters (NT,VB,NE)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
+\XKV@tempb@toks=\toks25
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count296
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -181,8 +182,8 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 \dayofyear=\count320
 \dayofweek=\count321
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks25
-\dt@b=\toks26
+\dt@a=\toks26
+\dt@b=\toks27
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
@@ -199,26 +200,26 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 116.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks27
-\inpenc@posthook=\toks28
+\inpenc@prehook=\toks28
+\inpenc@posthook=\toks29
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
-\MT@toks=\toks29
+\MT@toks=\toks30
 \MT@tempbox=\box55
 \MT@count=\count322
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks30
+\MT@prot@toks=\toks31
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen158
@@ -252,9 +253,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen164
 \Gm@layouthoffset=\dimen165
 \Gm@layoutvoffset=\dimen166
-\Gm@dimlist=\toks31
+\Gm@dimlist=\toks32
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@tracingmulticols=\count327
 \mult@box=\box56
 \multicol@leftmargin=\dimen167
@@ -340,7 +341,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
@@ -350,7 +351,7 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \aftertitleunit=\skip58
 \ttl@plus=\dimen176
 \ttl@minus=\dimen177
-\ttl@toksa=\toks32
+\ttl@toksa=\toks33
 \titlewidth=\dimen178
 \titlewidthlast=\dimen179
 \titlewidthfirst=\dimen180
@@ -380,7 +381,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthL=\skip70
 \f@nch@widthC=\skip71
 \f@nch@widthR=\skip72
-\@temptokenb=\toks33
+\@temptokenb=\toks34
 ) (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
@@ -487,7 +488,7 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 108.
 
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count350
 ) (./maria-tackett-cv-detailed.aux)
 \openout1 = `maria-tackett-cv-detailed.aux'.
@@ -613,80 +614,42 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 135.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-
-[1
+) [1
 
 {/Users/mt324/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
 Overfull \hbox (2.88701pt too wide) in paragraph at lines 260--265
 \T1/lmr/m/it/10.95 (-20) Jour-nal of Statis-tics and Data Sci-ence Ed-u-ca-tion\T1/lmr/m/n/10.95 (-20) , 31(2), 116-127. [][]doi.org/10.1080/26939169.2023.2165989[][] 
  []
 
-
-
 [2]
 Underfull \hbox (badness 1226) in paragraph at lines 335--340
 []\T1/lmr/m/n/10.95 (+20) Hart, F.*, \T1/lmr/bx/n/10.95 (+20) Tack-ett, M.\T1/lmr/m/n/10.95 (+20) , Puro-hit, S., Schramm-Sapyta, N. (2024). A Meta-Analysis of
  []
 
-
-
-[3]
-
-[4{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
-
-[5]
-
-[6]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 651.
+[3] [4{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}] [5] [6]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 655.
 (/Users/mt324/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-
-[7{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-
-[8]
-
-
-
-
-
-
-
-
-
-
-
-
-
-[9]
-
-
-
-
-
-
-
-[10] 
+) [7{/Users/mt324/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [8] [9] [10] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./maria-tackett-cv-detailed.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-08-13>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `maria-tackett-cv-detailed.out' has not changed.
 (rerunfilecheck)             Checksum: A06DCCD7A09F02E5AD6146E09659CBC0;1815.
  ) 
 Here is how much of TeX's memory you used:
- 15931 strings out of 469720
- 249818 string characters out of 5479543
- 712715 words of memory out of 5000000
- 43812 multiletter control sequences out of 15000+600000
- 678577 words of font info for 156 fonts, out of 8000000 for 9000
+ 15946 strings out of 469458
+ 250106 string characters out of 5467206
+ 717314 words of memory out of 5000000
+ 44088 multiletter control sequences out of 15000+600000
+ 679473 words of font info for 156 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,12n,80p,1214b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,80p,1214b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/mt324/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on maria-tackett-cv-detailed.pdf (10 pages, 236347 bytes).
+Output written on maria-tackett-cv-detailed.pdf (10 pages, 237262 bytes).
 PDF statistics:
  323 PDF objects out of 1000 (max. 8388607)
  290 compressed objects within 3 object streams
