@@ -201,8 +201,8 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-12.  **Tackett, M.**, Fisher, A. (2025, September ) A Point of View:
-    Duke University*. AmStat News*, 42.
+12.  **Tackett, M.**, Fisher, A. (2025, September) A Point of View: Duke
+    University*. AmStat News*, 42.
 13. **Tackett, M.** (2025). Applications of Regression for Categorical
     Outcomes Using R. *The American Statistician*, 1–3.
     [doi.org/10.1080/00031305.2025.2551214](https://doi.org/10.1080/00031305.2025.2551214)
@@ -265,7 +265,7 @@ Duke University, Department of Statistical Science
 2.  Tackett, M. *As much art as it is science: subjectivities and
     perspectives in statistics and data science.* 14th International
     Collaboration for Research on Statistical Reasoning, Thinking, and
-    Literacy (SRTL-14). State College, PA. (Keynote)
+    Literacy (SRTL-14). State College, PA. June 2025. (Keynote)
 
 3.  Noll, J., Tackett, M. *What can we learn about teaching
     undergraduate statistics and data science courses from studying
@@ -563,8 +563,11 @@ Book Reviews: Chapman & Hall \bigskip
 Electronic Conference on Teaching Statistics (eCOTS) Planning Committee,
 2025 - present
 
-Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group
-Secretary, 2025 - present
+ASA Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group
+Secretary, 2025
+
+ASA Section on Statistics and Data Science Education Mentor, 2024 -
+present
 
 Bill & Melinda Gates Introductory Statistics and Chemistry Courseware
 Expert Panel, 2023 - 2024
@@ -679,7 +682,7 @@ Duke Datathon Judge, 2018 & 2021
 \item Nathan Yang, 2024 - 2025
 \item Jordan Hamelsky, 2024 - 2025
   \begin{itemize}
-  \item Winner of the 2025 \href{https://stat.duke.edu/about/best-awards }{Undergraduate BEST Award}
+  \item Recipient of the 2025 \href{https://stat.duke.edu/about/best-awards }{Undergraduate BEST Award}
   \end{itemize}
 \item Shelby Tisdale, 2024 - 2025
 \item Naomi Rubin, 2022 - 2023
