@@ -457,31 +457,31 @@ Honoree](https://mathematicallygiftedandblack.com/honorees/maria-tackett/),
 
 ASA Section on Statistics and Data Science Education Member Initiative
 Grant. *Exploring Faculty Motivation and Practices Using Universal
-Design for Instruction*, 2025, Role: Co-PI, \$500.
+Design for Instruction*, 2025, \$500.
 
 National Institutes of Health R25: Research Education Program.
 *Developing a Pathway for Preparing Underrepresented Minority Students
 for a Career in Otolaryngology and Communication Sciences*, 2024 - 2029,
 Role: Statistician, \$154,416.
 
-Collaborative Project Courses Faculty Fellows, 2024 - 2025.
+Collaborative Project Courses Faculty Fellows, 2024 - 2025, \$5,000.
 
 National Science Foundation ECR: Broadening Participation in STEM.
 *Achieving Critical Transformations in Undergraduate Programs in
 Mathematics (ACT UP MATH)*, 2022 - 2025, Role: Duke Co-PI, \$237,749 (to
 Duke).
 
-Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
+<!--# Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2022 -
-2023,Role: PI, \$13,000.
+2023, \$13,000.-->
 
 Duke Learning Innovation's Carry the Innovation Forward. *Building
 Community and Self-Efficacy Through Inclusive Teaching Practices*,
 2021 - 2023, Role: Co-PI, \$4,616.
 
-Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
+<!--# Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2021 - 2022,
-Role: PI, \$11,000.
+Role: PI, \$11,000.-->
 
 Duke Bass Connections - Brain & Society. *Mental Health and the Justice
 System in Durham*, 2020 - 2024, Role: Co-PI, \$14,200 each academic
@@ -490,9 +490,9 @@ year.
 Duke Data+. *Mental Health and the Justice System in Durham*. 2020 -
 2024, Role: Co-PI, \$17,500 each year.
 
-Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
+<!--# Duke Trinity Research Enhancement Fund. *Toward a More Sustainable
 Culture of Undergraduate Research in Statistical Science*, 2020 - 2021,
-Role: PI, \$3,000.
+Role: PI, \$3,000.-->
 
 Duke Learning Innovation Jump Start Grant, 2019, Role: PI.
 
