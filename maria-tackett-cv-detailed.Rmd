@@ -52,6 +52,11 @@ Duke University, Department of Statistical Science
 
 \vspace{8pt}
 
+**Associate Director of Undergraduate Studies** \hfill 2026 - present\
+Duke University, Department of Statistical Science
+
+\vspace{8pt}
+
 **Assistant Professor of the Practice** \hfill 2018 - 2025\
 Duke University, Department of Statistical Science
 
@@ -63,12 +68,13 @@ Duke University, Department of Statistical Science
 \item STA 199: Introduction to Data Science \& Statistical Thinking \hfill\href{sta199-fa21-003.netlify.app}{Fall 2021}, \href{https://sta199-fa20-002.netlify.app/}{Fall 2020}, \href{https://www2.stat.duke.edu/courses/Fall19/sta199.001/}{Fall 2019}, \newline\hspace*{\fill} \href{https://www2.stat.duke.edu/courses/Spring19/sta199.001/}{Spring 2019} \vskip.8\baselineskip
 
 \item STA 210: Regression Analysis\hfill
-\href{https://sta210-sp25.netlify.app}{Spring 2025},
-\href{https://sta210-fa23.netlify.app}{Fall 2023}, \href{https://sta210-fa22.netlify.app}{Fall 2022}, \href{https://sta210-fa21.netlify.app}{Fall 2021}, \href{https://sta210-sp21.netlify.app}{Spring 2021},  \newline \hspace*{\fill}
+\href{https://sta210-sp26.github.io}{Spring 2026}, \href{https://sta210-sp25.netlify.app}{Spring 2025},
+\href{https://sta210-fa23.netlify.app}{Fall 2023},  \href{https://sta210-fa22.netlify.app}{Fall 2022}, \newline \hspace*{\fill} \href{https://sta210-fa21.netlify.app}{Fall 2021}, \href{https://sta210-sp21.netlify.app}{Spring 2021},
 \href{https://sta210-fa20.netlify.app}{Fall 2020},
 \href{https://www2.stat.duke.edu/courses/Spring20/sta210.001/}{Spring 2020}, \href{https://www2.stat.duke.edu/courses/Fall19/sta210.001/}{Fall 2019}, \href{https://www2.stat.duke.edu/courses/Spring19/sta210.001/}{Spring 2019}, \href{https://www2.stat.duke.edu/courses/Fall18/sta210.001/}{Fall 2018}\hfill \vskip.8\baselineskip
 
 \item STA 221: Regression Analysis: Theory and Applications \hfill
+\href{https://sta221-sp26.github.io}{Spring 2026},
 \href{https://sta221-sp25.netlify.app}{Spring 2025}, 
 \href{https://sta221-fa24.netlify.app}{Fall 2024}
 
@@ -201,7 +207,7 @@ Duke University, Department of Statistical Science
 
 (\* indicates undergraduate student)
 
-12.  **Tackett, M.**, Fisher, A. (2025, September) A Point of View: Duke
+12. **Tackett, M.**, Fisher, A. (2025, September) A Point of View: Duke
     University*. AmStat News*, 42.
 13. **Tackett, M.** (2025). Applications of Regression for Categorical
     Outcomes Using R. *The American Statistician*, 1–3.
