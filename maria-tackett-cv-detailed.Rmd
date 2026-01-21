@@ -136,7 +136,6 @@ Duke University, Department of Statistical Science
     Students in Introductory Mathematics and Statistics. *The
     International Journal of Learner Diversity and Identities,* 32 (2):
     57-81.
-    [doi.org/10.18848/2327-0128/CGP/v32i02/57-81](https://doi.org/10.18848/2327-0128/CGP/v32i02/57-81){.uri}
 
 2.  Rubin, N\*, **Tackett, M**., Çetinkaya-Rundel, M., Meyer, E. (2025).
     Evaluating Student Perceptions of Assessment in Introductory
@@ -639,7 +638,7 @@ ASA DataFest\@Duke Lead Organizer, 2020 - 2021
 
 ASA DataFest\@Duke Organizing Committee, 2019 - present
 
-Statistical Science Undergraduate Curriculum Committee, 2019 - present
+Statistical Science Undergraduate Curriculum Committee, 2019 - 2025
 
 Statistical Science Master's Student Advisor, 2019 - present
 
